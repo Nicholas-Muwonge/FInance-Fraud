@@ -1,0 +1,1051 @@
+Currency,PaymentMethod,MerchantName,MerchantCategory,Location,DeviceType,CardType,TransactionStatus,IsFraud,CustomerGender
+UGX,BitCoin,Amazon,Gadgets,Cairo,ATM,Visa,Success,0,Female
+1234,Wire Transfer,Jumia,Groceries,New York,POS,MasterCard,Success,0,X
+EUR,BitCoin,Shopify,XYZ,Cairo,POS,Amex,Failed,1,Other
+EUR,Credit Card,AliExpress,Clothing,Nairobi,Tablet,Amex,Failed,Y,Female
+1234,Debit Card,Shopify,Groceries,Nairobi,Desktop,MasterCard,Failed,Yes,X
+USD,Debit Card,Jumia,Groceries,New York,Mobile,BitcoinCard,Success,N,X
+1234,Debit Card,eBay,Electronics,Nairobi,Mobile,BitcoinCard,Success,1,Female
+KES,BitCoin,Shopify,Groceries,Unknown,Desktop,BitcoinCard,In Progress,Yes,Male
+UGX,Wire Transfer,AliExpress,Clothing,Cairo,PC,BitcoinCard,Failed,N,Male
+USD,Credit Card,AliExpress,Clothing,Cairo,Mobile,BitcoinCard,In Progress,Yes,Other
+USD,Debit Card,Amazon,Clothing,Cairo,Tablet,MasterCard,Failed,No,Male
+1234,Wire Transfer,Amazon,Gadgets,Cairo,PC,BitcoinCard,Failed,Yes,Other
+KES,BitCoin,Shopify,Groceries,Cairo,ATM,Discover,Success,0,Female
+1234,Wire Transfer,eBay,Groceries,London,PC,BitcoinCard,Success,Maybe,Other
+EUR,CryptoPay,eBay,Groceries,Cairo,Mobile,Visa,Success,Maybe,Female
+USD,Wire Transfer,Shopify,Gadgets,New York,Desktop,MasterCard,Failed,Maybe,X
+UGX,Wire Transfer,eBay,Clothing,Cairo,ATM,Visa,In Progress,0,Female
+1234,CryptoPay,eBay,Groceries,Unknown,Desktop,Amex,Failed,Maybe,X
+1234,Debit Card,Shopify,Groceries,London,PC,BitcoinCard,Success,1,Male
+EUR,BitCoin,eBay,XYZ,London,ATM,BitcoinCard,Success,No,Other
+UGX,CryptoPay,Shopify,Gadgets,Nairobi,Mobile,Discover,Failed,Possible,X
+1234,Wire Transfer,Shopify,XYZ,Unknown,Mobile,BitcoinCard,In Progress,Maybe,Female
+USD,Cash,Shopify,Groceries,Cairo,PC,Amex,Pending,0,X
+EUR,CryptoPay,AliExpress,XYZ,New York,ATM,Visa,Success,0,X
+UGX,Cash,eBay,Clothing,Cairo,PC,Discover,Success,1,Female
+Money,CryptoPay,eBay,Electronics,New York,Tablet,MasterCard,Success,Maybe,X
+KES,Wire Transfer,Jumia,XYZ,Cairo,POS,MasterCard,Failed,Y,X
+1234,Debit Card,Amazon,Clothing,Cairo,PC,Visa,In Progress,N,Male
+1234,CryptoPay,eBay,Gadgets,New York,Tablet,BitcoinCard,Success,1,Male
+UGX,Debit Card,Jumia,Electronics,Cairo,PC,Amex,In Progress,Maybe,X
+UGX,CryptoPay,eBay,Electronics,Nairobi,ATM,BitcoinCard,Pending,No,X
+1234,Debit Card,Shopify,Clothing,London,Tablet,Discover,Success,Y,X
+KES,Debit Card,Amazon,Gadgets,New York,POS,Amex,Pending,1,X
+UGX,BitCoin,Shopify,Gadgets,New York,POS,BitcoinCard,In Progress,Maybe,Female
+1234,Wire Transfer,Shopify,Gadgets,Kampala,PC,Amex,Success,Maybe,X
+1234,Debit Card,AliExpress,Gadgets,Unknown,PC,BitcoinCard,Pending,Yes,X
+1234,Cash,Shopify,Clothing,Cairo,PC,MasterCard,Success,No,Female
+1234,Wire Transfer,eBay,Electronics,Unknown,Tablet,BitcoinCard,Failed,Yes,Female
+EUR,CryptoPay,eBay,Groceries,Unknown,PC,Discover,Failed,Maybe,Female
+USD,Debit Card,Shopify,XYZ,New York,PC,BitcoinCard,Failed,Yes,X
+1234,Credit Card,eBay,Groceries,Cairo,Tablet,BitcoinCard,In Progress,No,Female
+EUR,Debit Card,Shopify,Gadgets,Cairo,POS,BitcoinCard,Failed,Maybe,X
+USD,Debit Card,Jumia,Groceries,Unknown,Desktop,BitcoinCard,In Progress,No,X
+1234,BitCoin,Jumia,Groceries,Nairobi,PC,Amex,Failed,Yes,X
+EUR,Wire Transfer,Amazon,Clothing,Kampala,PC,Visa,Failed,N,Female
+UGX,Debit Card,Shopify,Gadgets,London,PC,Discover,Failed,Yes,Female
+EUR,BitCoin,Amazon,Electronics,Cairo,PC,Discover,Success,Maybe,X
+UGX,Credit Card,AliExpress,Gadgets,New York,POS,BitcoinCard,Pending,Maybe,X
+1234,Wire Transfer,Jumia,XYZ,Nairobi,POS,MasterCard,Failed,N,Male
+USD,Wire Transfer,AliExpress,Groceries,Nairobi,PC,BitcoinCard,Pending,No,X
+EUR,CryptoPay,Amazon,Groceries,London,Tablet,Amex,Pending,Maybe,Other
+1234,BitCoin,Shopify,Groceries,Cairo,PC,Visa,Success,Maybe,Male
+1234,CryptoPay,AliExpress,Electronics,Unknown,POS,Amex,Failed,1,X
+1234,Debit Card,Shopify,Groceries,Cairo,PC,Amex,Failed,No,X
+KES,BitCoin,eBay,Electronics,Cairo,Desktop,Discover,Failed,Maybe,Female
+UGX,Cash,Shopify,Clothing,Kampala,Desktop,MasterCard,In Progress,Y,X
+1234,Cash,Shopify,Clothing,London,PC,BitcoinCard,Pending,Maybe,X
+1234,BitCoin,Jumia,Groceries,Cairo,Mobile,Amex,Failed,Maybe,Male
+1234,Debit Card,Amazon,Groceries,New York,ATM,Discover,Failed,Yes,Female
+UGX,Wire Transfer,AliExpress,XYZ,New York,ATM,MasterCard,Success,Maybe,X
+1234,CryptoPay,Shopify,Gadgets,Unknown,Tablet,Discover,Failed,Yes,X
+1234,Debit Card,AliExpress,Clothing,Kampala,Tablet,BitcoinCard,Failed,Maybe,Other
+1234,BitCoin,Shopify,Electronics,London,POS,Visa,Failed,No,Male
+KES,Debit Card,eBay,XYZ,Cairo,Tablet,BitcoinCard,Failed,0,Male
+EUR,BitCoin,Amazon,Clothing,Unknown,ATM,Visa,Failed,Maybe,Male
+EUR,Wire Transfer,Shopify,XYZ,Cairo,PC,Visa,In Progress,No,Female
+USD,BitCoin,Jumia,Groceries,New York,ATM,BitcoinCard,Failed,Y,Female
+EUR,Wire Transfer,Jumia,Groceries,London,Mobile,MasterCard,Pending,Yes,X
+EUR,Cash,Amazon,XYZ,Cairo,POS,MasterCard,Success,No,Female
+USD,Debit Card,Shopify,Electronics,New York,Tablet,Discover,In Progress,0,Female
+1234,Cash,Jumia,Groceries,London,PC,BitcoinCard,Success,Yes,Female
+EUR,CryptoPay,Amazon,Groceries,Kampala,PC,MasterCard,Failed,Maybe,X
+EUR,Debit Card,Shopify,Gadgets,Cairo,Tablet,Discover,Failed,No,Female
+EUR,Debit Card,Shopify,Electronics,Nairobi,Mobile,Discover,Failed,N,Male
+KES,BitCoin,Shopify,Groceries,Unknown,PC,BitcoinCard,Success,Maybe,X
+USD,Cash,AliExpress,Groceries,London,Desktop,BitcoinCard,Failed,Yes,X
+UGX,Debit Card,eBay,Gadgets,Cairo,POS,Visa,In Progress,Maybe,Female
+USD,Cash,Shopify,Clothing,Cairo,Desktop,Visa,In Progress,Maybe,Other
+USD,Cash,Shopify,Groceries,London,PC,BitcoinCard,Success,No,Female
+EUR,Credit Card,Shopify,Groceries,Unknown,PC,BitcoinCard,Pending,N,X
+1234,CryptoPay,Jumia,Clothing,Unknown,Desktop,Discover,Success,Yes,X
+KES,Credit Card,eBay,Groceries,New York,Desktop,BitcoinCard,Failed,Maybe,Male
+KES,Wire Transfer,AliExpress,Groceries,Nairobi,ATM,MasterCard,In Progress,N,X
+1234,Debit Card,Amazon,Groceries,London,Desktop,MasterCard,In Progress,0,X
+KES,Wire Transfer,Amazon,Electronics,New York,Mobile,BitcoinCard,Failed,No,Other
+UGX,Debit Card,Shopify,Gadgets,Unknown,PC,MasterCard,Success,Yes,Male
+UGX,Debit Card,AliExpress,Groceries,London,POS,MasterCard,Failed,1,X
+1234,Debit Card,AliExpress,Clothing,Cairo,POS,Amex,Failed,0,X
+USD,Wire Transfer,Jumia,Electronics,Kampala,Tablet,Visa,Failed,Maybe,X
+EUR,BitCoin,eBay,XYZ,Cairo,ATM,Visa,Failed,1,X
+1234,Debit Card,Shopify,Clothing,Nairobi,PC,Amex,Failed,Maybe,Male
+KES,CryptoPay,Shopify,XYZ,Cairo,ATM,Visa,Success,1,Male
+KES,Debit Card,Shopify,Groceries,Kampala,ATM,BitcoinCard,Failed,N,X
+KES,Credit Card,Shopify,Groceries,New York,POS,Discover,Pending,Maybe,Other
+1234,CryptoPay,Shopify,Gadgets,Nairobi,Tablet,Visa,Pending,Y,X
+KES,Debit Card,Amazon,Gadgets,London,Tablet,Amex,Failed,No,Female
+UGX,Wire Transfer,Shopify,Groceries,Nairobi,Mobile,BitcoinCard,Failed,N,Male
+UGX,Cash,Amazon,Electronics,Cairo,Desktop,BitcoinCard,Pending,Yes,X
+1234,Cash,Jumia,Groceries,New York,Desktop,Discover,Failed,Yes,X
+UGX,BitCoin,Shopify,XYZ,Unknown,POS,MasterCard,Success,Maybe,Male
+1234,CryptoPay,Shopify,XYZ,Kampala,ATM,Visa,Failed,Y,Other
+USD,Credit Card,Jumia,Gadgets,Cairo,PC,Amex,In Progress,0,Female
+1234,Debit Card,Jumia,Groceries,New York,Mobile,MasterCard,Success,Maybe,Male
+EUR,CryptoPay,Shopify,Electronics,Kampala,PC,BitcoinCard,Failed,Maybe,X
+EUR,Debit Card,AliExpress,Groceries,Cairo,Tablet,Visa,Success,0,Female
+1234,Debit Card,Jumia,Groceries,Cairo,Mobile,Visa,Failed,Maybe,X
+UGX,Debit Card,Shopify,Electronics,Kampala,ATM,Amex,Failed,Maybe,X
+1234,Debit Card,Shopify,Clothing,New York,ATM,BitcoinCard,Success,Maybe,X
+EUR,BitCoin,Jumia,Groceries,Cairo,PC,BitcoinCard,Success,1,X
+KES,Debit Card,Jumia,Electronics,Cairo,ATM,BitcoinCard,In Progress,Maybe,Male
+1234,CryptoPay,Amazon,XYZ,Unknown,Desktop,BitcoinCard,Failed,Yes,X
+KES,Debit Card,Amazon,Groceries,Cairo,ATM,MasterCard,Success,N,X
+KES,Wire Transfer,Amazon,Electronics,Unknown,ATM,Visa,Failed,No,Male
+1234,CryptoPay,Shopify,Groceries,Kampala,Mobile,Discover,Success,Maybe,Other
+UGX,Credit Card,Shopify,Gadgets,Cairo,Tablet,BitcoinCard,Failed,Yes,X
+1234,Cash,eBay,Clothing,Cairo,Tablet,Amex,Failed,0,X
+USD,CryptoPay,AliExpress,Gadgets,New York,Mobile,BitcoinCard,Failed,N,X
+1234,Credit Card,Shopify,Gadgets,Nairobi,Tablet,MasterCard,In Progress,N,X
+KES,Wire Transfer,eBay,Gadgets,Kampala,Desktop,BitcoinCard,Pending,Maybe,Female
+1234,BitCoin,AliExpress,Electronics,Kampala,ATM,BitcoinCard,Failed,Y,X
+UGX,Credit Card,Shopify,XYZ,Nairobi,ATM,BitcoinCard,Failed,Maybe,Other
+EUR,Wire Transfer,Shopify,XYZ,Cairo,ATM,Visa,Failed,1,Other
+USD,BitCoin,Jumia,Groceries,Unknown,POS,Discover,In Progress,Maybe,X
+UGX,BitCoin,Amazon,XYZ,London,Desktop,MasterCard,In Progress,Maybe,Female
+KES,Debit Card,Shopify,Gadgets,Cairo,ATM,Discover,Pending,Maybe,Male
+1234,CryptoPay,Shopify,Groceries,Cairo,ATM,Amex,Failed,Y,Female
+UGX,BitCoin,AliExpress,Groceries,Kampala,PC,Visa,Success,No,X
+1234,Debit Card,AliExpress,Groceries,Unknown,Desktop,Visa,Failed,0,X
+KES,Credit Card,AliExpress,Gadgets,Cairo,Tablet,BitcoinCard,Failed,No,Other
+EUR,Debit Card,Shopify,Gadgets,Cairo,Desktop,BitcoinCard,Failed,Maybe,X
+1234,Credit Card,AliExpress,XYZ,Unknown,POS,MasterCard,Success,N,X
+1234,Cash,AliExpress,Groceries,New York,PC,BitcoinCard,In Progress,Y,X
+EUR,BitCoin,Shopify,Clothing,New York,Desktop,Amex,Pending,Maybe,Female
+KES,BitCoin,Shopify,Groceries,Kampala,Tablet,Visa,Pending,Yes,X
+UGX,Debit Card,Amazon,XYZ,Kampala,Desktop,Discover,Pending,Yes,Other
+EUR,Debit Card,AliExpress,Groceries,Kampala,POS,BitcoinCard,In Progress,Yes,X
+1234,Wire Transfer,Amazon,Groceries,Unknown,Tablet,Amex,Success,1,Male
+USD,Debit Card,AliExpress,Clothing,London,POS,Amex,Failed,Maybe,Female
+EUR,CryptoPay,Shopify,Gadgets,London,ATM,Discover,In Progress,Maybe,Other
+KES,Debit Card,Amazon,Groceries,New York,PC,BitcoinCard,Pending,Maybe,X
+UGX,CryptoPay,AliExpress,Groceries,Cairo,Mobile,BitcoinCard,Success,No,Female
+1234,CryptoPay,Amazon,Electronics,Cairo,Mobile,MasterCard,Failed,1,Other
+EUR,Debit Card,Amazon,Gadgets,Nairobi,Mobile,Visa,Failed,0,X
+USD,Debit Card,eBay,XYZ,Cairo,Mobile,BitcoinCard,Pending,Yes,X
+1234,Debit Card,Jumia,Electronics,Unknown,PC,Visa,In Progress,No,X
+UGX,CryptoPay,AliExpress,XYZ,Cairo,PC,BitcoinCard,Success,No,X
+UGX,CryptoPay,Shopify,Groceries,New York,Mobile,BitcoinCard,Success,Yes,Female
+USD,Cash,Shopify,Groceries,Unknown,Desktop,Visa,Failed,Maybe,Other
+UGX,Debit Card,AliExpress,Electronics,London,POS,BitcoinCard,Pending,Maybe,Other
+UGX,Credit Card,Shopify,Electronics,Unknown,ATM,Amex,Pending,Maybe,Female
+1234,BitCoin,Shopify,Clothing,Nairobi,ATM,MasterCard,Success,No,X
+USD,Wire Transfer,Shopify,Electronics,Unknown,Mobile,MasterCard,Failed,1,Other
+1234,BitCoin,Shopify,Clothing,London,PC,MasterCard,Failed,Yes,X
+UGX,Wire Transfer,Amazon,Electronics,New York,PC,MasterCard,Failed,Yes,Male
+USD,Credit Card,Jumia,Clothing,Cairo,PC,BitcoinCard,Pending,1,X
+1234,CryptoPay,Shopify,Groceries,Cairo,PC,Visa,Success,N,Other
+UGX,Debit Card,Shopify,Electronics,New York,Desktop,BitcoinCard,Failed,Maybe,Female
+1234,CryptoPay,Shopify,Clothing,Nairobi,Mobile,MasterCard,Failed,Maybe,X
+KES,Debit Card,AliExpress,Groceries,Cairo,Mobile,MasterCard,In Progress,No,X
+KES,Credit Card,AliExpress,Clothing,London,ATM,MasterCard,Success,1,Male
+USD,Debit Card,Amazon,Electronics,Unknown,Desktop,MasterCard,Failed,Yes,X
+1234,BitCoin,Shopify,Electronics,Cairo,Mobile,MasterCard,Failed,0,Other
+1234,Wire Transfer,Shopify,Electronics,New York,Desktop,Amex,Failed,N,X
+UGX,Credit Card,Shopify,XYZ,New York,Tablet,Discover,In Progress,No,Female
+UGX,Debit Card,Shopify,Electronics,New York,PC,Visa,Failed,0,X
+1234,Debit Card,Shopify,XYZ,Nairobi,Tablet,BitcoinCard,Failed,Y,X
+USD,Debit Card,Amazon,Groceries,Unknown,PC,Discover,Success,Yes,X
+1234,BitCoin,eBay,Groceries,Nairobi,PC,MasterCard,Success,1,X
+USD,Debit Card,AliExpress,Electronics,Cairo,PC,BitcoinCard,Failed,Maybe,Other
+1234,BitCoin,eBay,Clothing,Cairo,PC,MasterCard,Success,Yes,Male
+KES,Cash,Amazon,Groceries,London,Tablet,Visa,Failed,1,X
+1234,Cash,Shopify,XYZ,Kampala,PC,Visa,In Progress,Maybe,X
+1234,Credit Card,Jumia,Gadgets,Kampala,POS,BitcoinCard,In Progress,Maybe,X
+KES,BitCoin,Amazon,XYZ,New York,Mobile,BitcoinCard,Failed,Maybe,X
+KES,Debit Card,Jumia,Groceries,New York,Mobile,MasterCard,Success,Maybe,X
+EUR,Credit Card,Shopify,XYZ,Kampala,Desktop,Amex,Failed,N,Male
+KES,Wire Transfer,Amazon,Electronics,New York,Tablet,BitcoinCard,Pending,No,X
+1234,Debit Card,Shopify,Groceries,London,Tablet,Amex,In Progress,N,Male
+1234,CryptoPay,Shopify,Electronics,Kampala,Mobile,BitcoinCard,Failed,Maybe,X
+1234,Credit Card,Jumia,Electronics,Unknown,Mobile,Discover,Failed,Maybe,X
+USD,Debit Card,Jumia,XYZ,Kampala,POS,MasterCard,In Progress,No,X
+USD,Cash,Shopify,Clothing,Cairo,Mobile,BitcoinCard,In Progress,Maybe,Other
+UGX,Credit Card,Jumia,Clothing,Unknown,Mobile,Visa,Pending,Maybe,X
+USD,Cash,Jumia,XYZ,London,POS,MasterCard,Failed,Maybe,Other
+1234,Credit Card,eBay,Electronics,Nairobi,Mobile,Discover,In Progress,1,X
+1234,Cash,Jumia,Clothing,London,PC,Discover,Failed,No,Other
+EUR,Debit Card,Shopify,Electronics,Nairobi,Desktop,Visa,Failed,Maybe,X
+1234,Credit Card,Amazon,XYZ,Cairo,PC,MasterCard,Failed,Maybe,X
+1234,BitCoin,Jumia,Electronics,New York,Desktop,Amex,Failed,No,Other
+EUR,BitCoin,Shopify,Electronics,Cairo,ATM,Visa,In Progress,Y,X
+EUR,Debit Card,Shopify,Gadgets,Unknown,PC,BitcoinCard,Failed,N,Other
+USD,BitCoin,Shopify,XYZ,Kampala,ATM,MasterCard,Success,Maybe,Male
+KES,Cash,Jumia,Clothing,London,Mobile,BitcoinCard,In Progress,1,X
+USD,Wire Transfer,eBay,Clothing,Cairo,Tablet,Discover,Failed,Yes,Female
+USD,BitCoin,eBay,Electronics,New York,POS,Visa,In Progress,Maybe,X
+KES,Credit Card,AliExpress,XYZ,London,Tablet,Visa,Pending,Maybe,X
+1234,BitCoin,AliExpress,Electronics,New York,POS,MasterCard,Failed,1,Other
+1234,Cash,Shopify,Gadgets,Kampala,PC,MasterCard,Success,N,Male
+USD,Debit Card,Jumia,Groceries,Kampala,POS,Visa,Pending,N,X
+UGX,Credit Card,Shopify,XYZ,Kampala,Mobile,MasterCard,Failed,Y,X
+USD,CryptoPay,Shopify,Groceries,Nairobi,PC,Discover,In Progress,0,Female
+1234,Cash,Jumia,Clothing,Kampala,POS,Visa,Failed,Maybe,Other
+UGX,Debit Card,eBay,Gadgets,Unknown,Tablet,Discover,Success,Y,X
+EUR,CryptoPay,Shopify,Clothing,Unknown,Desktop,MasterCard,Failed,N,X
+1234,Debit Card,Amazon,XYZ,Cairo,Mobile,BitcoinCard,In Progress,Maybe,Other
+1234,BitCoin,Jumia,Gadgets,New York,ATM,MasterCard,In Progress,1,Female
+1234,Debit Card,Jumia,Groceries,Nairobi,POS,Amex,Failed,No,X
+USD,CryptoPay,AliExpress,XYZ,New York,PC,BitcoinCard,Failed,Maybe,X
+UGX,BitCoin,AliExpress,Clothing,London,Tablet,BitcoinCard,Success,Yes,X
+1234,Debit Card,Shopify,Gadgets,Cairo,Desktop,BitcoinCard,Failed,No,X
+UGX,Cash,eBay,Groceries,New York,PC,BitcoinCard,Failed,1,Male
+1234,Credit Card,Jumia,XYZ,New York,PC,BitcoinCard,Success,Y,X
+EUR,Wire Transfer,Jumia,XYZ,London,PC,BitcoinCard,Failed,Maybe,Other
+1234,Debit Card,Amazon,Groceries,Unknown,POS,BitcoinCard,Failed,Y,X
+1234,Cash,Shopify,Electronics,Nairobi,Mobile,BitcoinCard,Failed,Yes,X
+UGX,BitCoin,Amazon,Gadgets,London,ATM,Amex,Failed,N,Male
+1234,Wire Transfer,Shopify,Clothing,London,POS,Discover,In Progress,Maybe,Other
+USD,Cash,Shopify,Groceries,New York,PC,MasterCard,Failed,Yes,Other
+1234,CryptoPay,Jumia,Electronics,Nairobi,PC,BitcoinCard,Success,Maybe,Other
+KES,Debit Card,AliExpress,Electronics,Cairo,Tablet,BitcoinCard,Pending,Maybe,Male
+KES,Wire Transfer,Shopify,Clothing,Cairo,Mobile,BitcoinCard,Success,Maybe,X
+1234,BitCoin,Shopify,Clothing,Nairobi,ATM,BitcoinCard,Failed,Y,Female
+1234,Cash,eBay,Groceries,Kampala,PC,MasterCard,In Progress,No,X
+USD,BitCoin,Shopify,Clothing,Cairo,Tablet,Discover,Failed,No,X
+USD,Wire Transfer,eBay,Groceries,Cairo,PC,Discover,Success,Maybe,Male
+EUR,CryptoPay,Jumia,Groceries,Cairo,Desktop,MasterCard,Failed,Yes,Other
+1234,Debit Card,Shopify,Clothing,Kampala,PC,BitcoinCard,Failed,Y,Female
+EUR,Wire Transfer,Shopify,XYZ,Kampala,PC,Discover,Failed,Yes,Male
+1234,Debit Card,Jumia,Electronics,Unknown,PC,Amex,Pending,1,Male
+UGX,BitCoin,Jumia,Groceries,Cairo,ATM,Amex,Pending,No,Female
+USD,Debit Card,Shopify,Electronics,Cairo,Tablet,Amex,Failed,Maybe,X
+EUR,Wire Transfer,Jumia,Clothing,Cairo,POS,BitcoinCard,Success,No,Female
+KES,Wire Transfer,eBay,Clothing,Kampala,Tablet,MasterCard,Failed,N,X
+USD,CryptoPay,eBay,Groceries,New York,Tablet,BitcoinCard,Pending,0,Male
+UGX,BitCoin,Jumia,Clothing,Kampala,PC,Visa,Success,Maybe,X
+1234,BitCoin,Amazon,Clothing,Cairo,PC,MasterCard,Pending,Maybe,X
+EUR,Wire Transfer,Amazon,Gadgets,London,PC,Discover,In Progress,Maybe,Other
+1234,CryptoPay,eBay,XYZ,Unknown,ATM,Amex,Failed,Y,X
+1234,Cash,AliExpress,Groceries,Unknown,ATM,Discover,Success,No,X
+KES,Credit Card,Jumia,Groceries,London,PC,BitcoinCard,Pending,No,Male
+EUR,Debit Card,AliExpress,Groceries,Cairo,Desktop,Discover,Failed,Maybe,Male
+1234,Debit Card,Shopify,Gadgets,Cairo,PC,Visa,In Progress,Yes,X
+1234,Cash,Shopify,Groceries,New York,PC,BitcoinCard,Failed,Maybe,Female
+USD,Credit Card,AliExpress,XYZ,Kampala,Tablet,Visa,Success,Maybe,Other
+UGX,Wire Transfer,Jumia,Groceries,Unknown,PC,BitcoinCard,In Progress,1,X
+UGX,BitCoin,AliExpress,Clothing,Kampala,Tablet,MasterCard,Failed,Maybe,Other
+1234,Cash,AliExpress,Gadgets,Cairo,Desktop,Visa,Success,Yes,Other
+UGX,Cash,eBay,Groceries,London,Desktop,MasterCard,In Progress,No,X
+USD,Debit Card,Shopify,Groceries,Kampala,ATM,BitcoinCard,Failed,Maybe,Male
+UGX,Debit Card,AliExpress,XYZ,Cairo,Desktop,BitcoinCard,Pending,Maybe,Female
+KES,Credit Card,Shopify,Clothing,Cairo,PC,BitcoinCard,In Progress,1,Male
+1234,Debit Card,Amazon,Groceries,New York,Desktop,Visa,Failed,1,X
+1234,Cash,eBay,Electronics,Cairo,Mobile,BitcoinCard,Failed,Maybe,X
+USD,CryptoPay,Amazon,XYZ,London,Mobile,Discover,In Progress,Y,X
+1234,Wire Transfer,Amazon,XYZ,New York,Mobile,Discover,Success,Y,X
+KES,Credit Card,Shopify,Groceries,London,POS,BitcoinCard,In Progress,No,Female
+USD,Debit Card,AliExpress,Groceries,Kampala,Mobile,BitcoinCard,In Progress,Maybe,Male
+USD,Cash,Shopify,Clothing,Kampala,Desktop,BitcoinCard,In Progress,0,Other
+USD,Wire Transfer,Shopify,Electronics,Unknown,Mobile,BitcoinCard,Pending,Maybe,X
+EUR,CryptoPay,Jumia,Electronics,Cairo,ATM,MasterCard,Failed,Maybe,Other
+1234,CryptoPay,eBay,Electronics,Cairo,Desktop,Visa,Failed,N,X
+USD,BitCoin,Shopify,Gadgets,Cairo,Desktop,BitcoinCard,In Progress,Maybe,X
+EUR,Debit Card,Jumia,Groceries,Unknown,PC,MasterCard,In Progress,Maybe,Female
+UGX,Debit Card,AliExpress,XYZ,Nairobi,Mobile,BitcoinCard,In Progress,0,X
+1234,Debit Card,Jumia,Electronics,Kampala,Tablet,MasterCard,Pending,Maybe,X
+1234,Debit Card,Shopify,Groceries,Cairo,PC,MasterCard,In Progress,Yes,X
+USD,Credit Card,eBay,Gadgets,Nairobi,Tablet,MasterCard,Success,Maybe,Other
+EUR,Debit Card,Shopify,Groceries,Cairo,PC,Visa,Failed,Y,Male
+USD,Debit Card,Amazon,XYZ,New York,Tablet,BitcoinCard,Failed,Yes,X
+EUR,Debit Card,Shopify,XYZ,Cairo,POS,BitcoinCard,Success,Yes,Other
+1234,Wire Transfer,Jumia,Gadgets,Cairo,Desktop,BitcoinCard,Pending,1,X
+UGX,BitCoin,AliExpress,Electronics,New York,PC,Visa,Success,Maybe,Female
+KES,Wire Transfer,AliExpress,XYZ,Cairo,ATM,MasterCard,In Progress,Yes,Male
+USD,Wire Transfer,Amazon,XYZ,Nairobi,ATM,BitcoinCard,Failed,Maybe,Female
+1234,Debit Card,Jumia,Electronics,Cairo,ATM,BitcoinCard,In Progress,Maybe,X
+EUR,BitCoin,eBay,Groceries,Cairo,Mobile,Visa,Failed,0,Other
+UGX,Cash,Shopify,Groceries,New York,PC,Amex,In Progress,Maybe,Male
+1234,Credit Card,Amazon,Groceries,Kampala,PC,BitcoinCard,Pending,No,Male
+1234,CryptoPay,eBay,XYZ,Unknown,PC,BitcoinCard,In Progress,Y,Male
+EUR,Debit Card,AliExpress,XYZ,Unknown,POS,Visa,Pending,N,Female
+1234,BitCoin,eBay,Groceries,Nairobi,PC,Amex,Failed,Maybe,Male
+1234,Debit Card,Shopify,XYZ,Cairo,POS,Amex,Pending,No,Other
+EUR,BitCoin,Jumia,Electronics,Cairo,Tablet,Amex,In Progress,1,X
+UGX,CryptoPay,Amazon,Groceries,London,PC,BitcoinCard,Pending,Maybe,X
+USD,Debit Card,Shopify,Groceries,Cairo,Desktop,MasterCard,In Progress,No,Male
+KES,Wire Transfer,eBay,XYZ,Cairo,ATM,MasterCard,In Progress,No,X
+1234,Debit Card,Shopify,Groceries,Kampala,PC,Visa,In Progress,Y,X
+UGX,Debit Card,eBay,Gadgets,Unknown,Mobile,Discover,Success,Maybe,Other
+EUR,Debit Card,eBay,Groceries,Kampala,Tablet,Discover,Success,Maybe,Female
+UGX,Cash,eBay,XYZ,Cairo,Desktop,MasterCard,Pending,1,Male
+EUR,Debit Card,Shopify,Gadgets,London,ATM,MasterCard,Pending,Y,Other
+1234,Debit Card,Shopify,Groceries,Cairo,Desktop,MasterCard,Failed,Maybe,X
+UGX,Debit Card,eBay,Gadgets,London,Tablet,BitcoinCard,In Progress,Maybe,Other
+KES,Debit Card,eBay,Groceries,Cairo,Mobile,BitcoinCard,In Progress,Maybe,Male
+EUR,BitCoin,Amazon,Gadgets,Unknown,Mobile,Visa,Failed,Y,X
+EUR,Debit Card,Jumia,Groceries,Cairo,Mobile,BitcoinCard,Success,Maybe,Other
+UGX,Debit Card,eBay,Groceries,Cairo,PC,MasterCard,Failed,Maybe,X
+EUR,Wire Transfer,Amazon,XYZ,Unknown,PC,BitcoinCard,Success,Maybe,Female
+EUR,BitCoin,AliExpress,Clothing,Kampala,PC,Discover,Pending,Yes,X
+UGX,Cash,Shopify,Clothing,Kampala,Tablet,Visa,Failed,1,X
+UGX,CryptoPay,Shopify,Groceries,London,ATM,Discover,Failed,Yes,Other
+1234,BitCoin,Shopify,Clothing,London,Desktop,BitcoinCard,In Progress,0,X
+KES,Debit Card,AliExpress,Electronics,Nairobi,PC,BitcoinCard,Failed,N,X
+UGX,Cash,AliExpress,XYZ,Cairo,ATM,BitcoinCard,Failed,No,X
+USD,Debit Card,AliExpress,Groceries,Cairo,ATM,Visa,Failed,1,Male
+KES,CryptoPay,eBay,Gadgets,New York,PC,BitcoinCard,Failed,No,X
+UGX,Wire Transfer,Shopify,Gadgets,Cairo,ATM,Amex,Failed,Maybe,X
+1234,Debit Card,eBay,Gadgets,London,PC,Discover,In Progress,No,Male
+UGX,Wire Transfer,AliExpress,Groceries,New York,PC,MasterCard,Failed,0,Male
+UGX,Cash,AliExpress,Gadgets,Cairo,PC,BitcoinCard,Success,Maybe,X
+1234,Debit Card,Shopify,Gadgets,New York,Tablet,Amex,In Progress,Maybe,X
+1234,Debit Card,Shopify,Gadgets,London,ATM,Amex,Failed,Maybe,Female
+KES,Wire Transfer,AliExpress,Gadgets,New York,Desktop,Visa,Pending,Maybe,X
+1234,Wire Transfer,Shopify,Clothing,Unknown,PC,Visa,Failed,N,Male
+1234,Debit Card,Shopify,Clothing,Cairo,Tablet,Visa,Success,Y,Male
+EUR,Wire Transfer,Jumia,XYZ,Kampala,PC,Visa,In Progress,Maybe,Male
+USD,Wire Transfer,Shopify,Gadgets,Cairo,PC,BitcoinCard,Success,1,Female
+1234,CryptoPay,Jumia,Gadgets,Unknown,ATM,BitcoinCard,Failed,Maybe,X
+KES,Wire Transfer,Jumia,Electronics,New York,PC,Visa,Failed,Maybe,Other
+EUR,Debit Card,Shopify,Clothing,Nairobi,Tablet,BitcoinCard,In Progress,N,Male
+1234,CryptoPay,Jumia,Groceries,Nairobi,PC,Visa,In Progress,0,Male
+1234,Wire Transfer,Jumia,Gadgets,Cairo,POS,Visa,Failed,Maybe,Female
+EUR,Cash,eBay,XYZ,Nairobi,PC,Amex,Failed,0,Other
+1234,Wire Transfer,Jumia,Clothing,Cairo,PC,MasterCard,In Progress,No,Other
+KES,Cash,AliExpress,Gadgets,Unknown,Desktop,BitcoinCard,Failed,Maybe,Other
+UGX,BitCoin,Jumia,Groceries,Cairo,Mobile,BitcoinCard,In Progress,Maybe,Other
+1234,Cash,Amazon,Electronics,Nairobi,PC,BitcoinCard,In Progress,Y,Female
+1234,Debit Card,Shopify,Gadgets,Nairobi,PC,Visa,Failed,1,X
+UGX,Cash,eBay,XYZ,Cairo,Desktop,Visa,In Progress,Yes,X
+EUR,Credit Card,Jumia,Clothing,London,Tablet,BitcoinCard,Failed,Maybe,Male
+UGX,Debit Card,Shopify,Clothing,London,ATM,MasterCard,Failed,1,X
+1234,Cash,eBay,Groceries,Nairobi,Mobile,Discover,Failed,Maybe,X
+1234,Credit Card,AliExpress,Clothing,Nairobi,ATM,Visa,Pending,Maybe,Other
+1234,Cash,AliExpress,Clothing,Cairo,Tablet,Discover,In Progress,Maybe,Other
+1234,Wire Transfer,eBay,Electronics,Cairo,Desktop,BitcoinCard,In Progress,N,X
+UGX,CryptoPay,Amazon,Electronics,London,Mobile,BitcoinCard,Failed,1,X
+USD,Debit Card,AliExpress,Gadgets,Cairo,Desktop,Amex,Failed,Maybe,X
+1234,Debit Card,Shopify,Gadgets,Cairo,Desktop,Visa,Success,Yes,Other
+EUR,Cash,Shopify,Clothing,Cairo,POS,BitcoinCard,In Progress,1,Female
+UGX,Debit Card,AliExpress,Groceries,Cairo,POS,BitcoinCard,Pending,Maybe,Other
+EUR,Wire Transfer,Jumia,Groceries,Cairo,ATM,BitcoinCard,In Progress,Maybe,Male
+KES,Credit Card,Amazon,Clothing,Unknown,Tablet,Visa,Success,1,X
+UGX,Debit Card,AliExpress,Electronics,Cairo,Desktop,BitcoinCard,Failed,Y,Female
+USD,CryptoPay,eBay,Gadgets,Unknown,PC,MasterCard,Failed,No,Female
+USD,Debit Card,Shopify,Gadgets,London,Desktop,Amex,Failed,Maybe,Male
+1234,Debit Card,Jumia,Clothing,Unknown,ATM,Amex,Pending,Yes,Other
+1234,CryptoPay,Shopify,Groceries,London,Mobile,Discover,Success,Y,Other
+1234,CryptoPay,Shopify,Groceries,London,PC,BitcoinCard,Pending,Maybe,X
+EUR,Wire Transfer,Shopify,Groceries,Unknown,Mobile,Visa,Success,0,X
+KES,Wire Transfer,AliExpress,Clothing,Cairo,PC,BitcoinCard,Pending,No,X
+EUR,Debit Card,eBay,Clothing,London,Tablet,BitcoinCard,Failed,Maybe,X
+KES,Wire Transfer,Shopify,Gadgets,Kampala,PC,Amex,Failed,Y,Female
+1234,Credit Card,Jumia,Groceries,Cairo,Tablet,Amex,In Progress,Y,Other
+UGX,Wire Transfer,AliExpress,XYZ,Nairobi,PC,Amex,Pending,0,X
+UGX,Cash,Amazon,Gadgets,New York,POS,MasterCard,Failed,N,Female
+1234,Debit Card,Shopify,Gadgets,Unknown,Tablet,Visa,In Progress,Maybe,Female
+KES,Cash,AliExpress,Gadgets,Cairo,Tablet,BitcoinCard,Success,1,Female
+1234,Wire Transfer,Shopify,Clothing,Nairobi,Mobile,MasterCard,Success,Maybe,Male
+1234,BitCoin,Shopify,Gadgets,London,Mobile,BitcoinCard,Success,Maybe,X
+USD,BitCoin,AliExpress,XYZ,London,ATM,BitcoinCard,Failed,Y,Male
+UGX,CryptoPay,Shopify,Electronics,London,PC,BitcoinCard,Pending,Yes,Other
+1234,Debit Card,Amazon,Groceries,Unknown,PC,BitcoinCard,In Progress,Maybe,Female
+USD,Debit Card,eBay,Electronics,New York,POS,Discover,Failed,N,Female
+1234,Debit Card,Amazon,Electronics,Nairobi,Desktop,Amex,Pending,1,Other
+UGX,BitCoin,AliExpress,Groceries,Unknown,Desktop,Discover,Pending,Maybe,X
+USD,BitCoin,Shopify,XYZ,Nairobi,Desktop,BitcoinCard,Pending,Maybe,Male
+EUR,Cash,AliExpress,Gadgets,Nairobi,Tablet,Visa,Pending,Maybe,Other
+KES,Debit Card,Shopify,Groceries,Cairo,PC,MasterCard,Failed,Maybe,X
+KES,Wire Transfer,Amazon,Groceries,Nairobi,PC,MasterCard,In Progress,N,Other
+UGX,Credit Card,Shopify,Clothing,London,PC,Amex,Failed,Yes,X
+UGX,Credit Card,Shopify,Clothing,London,PC,BitcoinCard,Failed,Maybe,X
+1234,Debit Card,Shopify,Groceries,Kampala,PC,BitcoinCard,In Progress,Y,Other
+USD,Debit Card,eBay,Gadgets,Nairobi,POS,Visa,Failed,1,X
+EUR,Wire Transfer,Amazon,Clothing,Nairobi,Tablet,Amex,Failed,Maybe,Other
+UGX,CryptoPay,Shopify,Gadgets,Kampala,POS,Discover,Failed,Maybe,Other
+UGX,Cash,Jumia,Gadgets,London,ATM,Discover,Pending,Y,Other
+EUR,CryptoPay,Amazon,Electronics,Kampala,POS,Visa,In Progress,Maybe,X
+KES,BitCoin,Shopify,Groceries,Nairobi,POS,BitcoinCard,Pending,Maybe,Female
+1234,Cash,Jumia,XYZ,Nairobi,POS,Discover,Failed,No,X
+EUR,Credit Card,AliExpress,Clothing,Kampala,POS,Discover,Failed,Maybe,X
+USD,Debit Card,Jumia,Groceries,Cairo,Desktop,Visa,Failed,Yes,Other
+KES,CryptoPay,Shopify,XYZ,Nairobi,ATM,Visa,In Progress,No,Female
+1234,Cash,Amazon,Groceries,London,PC,BitcoinCard,In Progress,No,Male
+KES,CryptoPay,Shopify,XYZ,Unknown,PC,Visa,Pending,1,Female
+1234,CryptoPay,AliExpress,Groceries,Cairo,PC,Visa,Failed,No,X
+1234,Cash,Shopify,Gadgets,Nairobi,Mobile,BitcoinCard,Failed,N,Female
+1234,Debit Card,Shopify,Groceries,Nairobi,ATM,Amex,Failed,No,Other
+KES,Wire Transfer,Shopify,Electronics,London,PC,MasterCard,In Progress,N,Male
+1234,BitCoin,eBay,Groceries,Cairo,POS,Discover,In Progress,Maybe,X
+KES,BitCoin,Shopify,Clothing,Unknown,POS,Amex,Success,Y,Male
+KES,Cash,eBay,Groceries,Unknown,Tablet,BitcoinCard,Pending,N,Female
+EUR,Credit Card,Shopify,Groceries,Kampala,POS,Amex,Failed,Maybe,Other
+UGX,Credit Card,Shopify,Groceries,Cairo,PC,Visa,Failed,No,Other
+1234,Credit Card,Jumia,XYZ,London,ATM,Amex,Pending,N,Other
+1234,CryptoPay,AliExpress,Groceries,Cairo,Mobile,BitcoinCard,Success,N,Female
+1234,Wire Transfer,Shopify,XYZ,Kampala,Tablet,BitcoinCard,Pending,Maybe,Male
+UGX,Wire Transfer,Shopify,Clothing,Cairo,Tablet,Amex,Failed,Maybe,Female
+KES,BitCoin,Jumia,Groceries,Cairo,Mobile,BitcoinCard,In Progress,Yes,X
+1234,Wire Transfer,Jumia,Groceries,Unknown,ATM,MasterCard,Pending,0,Male
+KES,Cash,eBay,Gadgets,Nairobi,POS,Discover,Failed,Y,Male
+UGX,Wire Transfer,AliExpress,Electronics,Kampala,PC,Discover,Failed,N,Female
+USD,Credit Card,AliExpress,Electronics,Unknown,PC,BitcoinCard,Pending,Yes,X
+EUR,Cash,Shopify,Gadgets,Unknown,Mobile,Visa,Failed,1,Female
+1234,Debit Card,eBay,Groceries,Nairobi,ATM,MasterCard,Failed,0,Female
+USD,CryptoPay,AliExpress,Gadgets,Unknown,PC,Discover,In Progress,Maybe,Male
+KES,Credit Card,Shopify,Clothing,London,ATM,MasterCard,Failed,Maybe,Male
+KES,Wire Transfer,AliExpress,Clothing,London,ATM,Amex,Failed,No,X
+UGX,Debit Card,Jumia,Groceries,Nairobi,POS,BitcoinCard,In Progress,Maybe,Female
+1234,CryptoPay,Amazon,XYZ,Kampala,POS,MasterCard,Failed,0,Female
+KES,Cash,AliExpress,Clothing,Cairo,Desktop,Amex,Failed,Yes,X
+1234,Debit Card,Amazon,Groceries,Cairo,Tablet,Amex,Pending,Y,X
+USD,Debit Card,Shopify,XYZ,London,PC,BitcoinCard,In Progress,0,Female
+EUR,Debit Card,Jumia,Gadgets,London,POS,Visa,In Progress,1,X
+1234,Debit Card,AliExpress,Groceries,Kampala,Desktop,Amex,Pending,1,Other
+EUR,BitCoin,Amazon,Groceries,New York,ATM,Amex,Success,Maybe,X
+UGX,Wire Transfer,Amazon,Groceries,Unknown,Tablet,MasterCard,Failed,Y,X
+1234,BitCoin,AliExpress,Groceries,Unknown,Tablet,BitcoinCard,In Progress,1,Female
+1234,Debit Card,Amazon,Groceries,Nairobi,PC,Discover,Success,No,X
+1234,BitCoin,AliExpress,XYZ,Unknown,PC,BitcoinCard,In Progress,No,Other
+EUR,Credit Card,Shopify,Clothing,Kampala,Mobile,Visa,Failed,Maybe,X
+1234,Cash,Shopify,Clothing,Kampala,PC,BitcoinCard,Pending,0,Other
+EUR,Debit Card,eBay,Groceries,London,Desktop,BitcoinCard,Pending,Yes,Other
+EUR,Wire Transfer,Shopify,XYZ,Cairo,PC,Visa,Success,N,X
+1234,BitCoin,eBay,Groceries,Unknown,POS,BitcoinCard,Failed,1,Other
+UGX,BitCoin,eBay,Clothing,Cairo,Tablet,Discover,In Progress,1,Female
+USD,Debit Card,AliExpress,XYZ,Nairobi,ATM,Visa,Pending,Yes,Female
+USD,CryptoPay,eBay,Groceries,Kampala,Tablet,Discover,Failed,Maybe,X
+UGX,Wire Transfer,eBay,Groceries,Unknown,Mobile,MasterCard,In Progress,Maybe,Other
+EUR,BitCoin,Amazon,Clothing,Cairo,POS,MasterCard,Pending,No,Female
+UGX,BitCoin,Shopify,Clothing,Cairo,Desktop,Discover,Success,Maybe,Other
+KES,Debit Card,Shopify,Gadgets,Nairobi,Mobile,BitcoinCard,In Progress,Maybe,Female
+KES,Wire Transfer,Shopify,Groceries,Kampala,Desktop,BitcoinCard,Pending,No,Other
+EUR,CryptoPay,Amazon,Gadgets,Cairo,PC,BitcoinCard,Failed,Maybe,Male
+KES,Credit Card,Jumia,Electronics,Cairo,ATM,Discover,Pending,Y,X
+USD,Debit Card,Amazon,Groceries,Unknown,Desktop,BitcoinCard,Pending,1,Male
+1234,Debit Card,Amazon,Groceries,Nairobi,ATM,Amex,Failed,Maybe,X
+EUR,Debit Card,Shopify,Electronics,London,Mobile,Visa,Success,Maybe,Other
+EUR,Credit Card,AliExpress,Gadgets,Cairo,ATM,BitcoinCard,Failed,Yes,X
+EUR,Debit Card,Shopify,Clothing,London,Mobile,BitcoinCard,Pending,Maybe,Other
+UGX,Debit Card,Shopify,Groceries,Nairobi,Mobile,BitcoinCard,In Progress,Maybe,X
+UGX,CryptoPay,Shopify,Groceries,Kampala,PC,MasterCard,Success,Yes,Male
+USD,CryptoPay,Shopify,Electronics,Nairobi,PC,MasterCard,In Progress,Maybe,X
+EUR,CryptoPay,Shopify,Groceries,London,Tablet,Visa,In Progress,Maybe,Male
+EUR,Wire Transfer,Shopify,Gadgets,New York,POS,Visa,Success,Maybe,Male
+EUR,Debit Card,Shopify,Gadgets,Nairobi,PC,Amex,Success,Y,Other
+KES,Wire Transfer,eBay,Groceries,New York,POS,Visa,Failed,No,Male
+USD,Debit Card,Jumia,XYZ,Cairo,ATM,Visa,In Progress,1,X
+1234,Cash,eBay,Groceries,Cairo,Mobile,Discover,Failed,No,Male
+EUR,CryptoPay,Amazon,Electronics,London,POS,Amex,Failed,Maybe,Other
+EUR,Debit Card,Jumia,Gadgets,Cairo,PC,BitcoinCard,Success,1,Other
+1234,Debit Card,Jumia,Gadgets,New York,PC,Visa,Failed,Maybe,X
+1234,Wire Transfer,eBay,Clothing,New York,PC,BitcoinCard,In Progress,Maybe,Male
+UGX,Cash,Shopify,Groceries,Kampala,PC,BitcoinCard,Pending,No,Other
+USD,Debit Card,Shopify,XYZ,Cairo,PC,BitcoinCard,In Progress,N,X
+KES,Cash,Jumia,Clothing,Nairobi,PC,Visa,Failed,0,X
+EUR,Wire Transfer,Shopify,Groceries,Cairo,Tablet,Amex,Pending,Y,Other
+UGX,Wire Transfer,Amazon,Electronics,Cairo,PC,BitcoinCard,Success,Maybe,Other
+USD,Debit Card,eBay,Gadgets,London,POS,BitcoinCard,Success,Maybe,X
+KES,CryptoPay,Jumia,Clothing,London,PC,Amex,Pending,1,Female
+1234,CryptoPay,Shopify,Clothing,Cairo,Mobile,BitcoinCard,Failed,Maybe,Other
+1234,Wire Transfer,eBay,XYZ,Nairobi,ATM,MasterCard,Failed,Maybe,Female
+KES,Wire Transfer,eBay,Electronics,London,POS,BitcoinCard,Pending,Maybe,Other
+1234,BitCoin,Jumia,Groceries,London,Desktop,Discover,Success,N,Female
+EUR,CryptoPay,Shopify,Groceries,Cairo,POS,Discover,Pending,Maybe,Other
+KES,Credit Card,Shopify,Groceries,Kampala,PC,MasterCard,Pending,Maybe,X
+1234,Debit Card,Amazon,Gadgets,Nairobi,POS,BitcoinCard,Failed,Maybe,X
+KES,Credit Card,Jumia,Groceries,New York,Tablet,MasterCard,Success,1,Other
+KES,CryptoPay,Shopify,Clothing,Cairo,PC,Discover,Pending,Maybe,Male
+1234,Cash,Amazon,Groceries,Unknown,Mobile,BitcoinCard,Pending,Maybe,X
+EUR,Cash,AliExpress,Groceries,Cairo,PC,MasterCard,Failed,1,Male
+USD,Cash,Jumia,Gadgets,London,Desktop,BitcoinCard,Success,No,Other
+KES,Debit Card,Amazon,Groceries,New York,ATM,BitcoinCard,Failed,0,X
+EUR,Cash,AliExpress,Groceries,Cairo,POS,Visa,Failed,0,Other
+UGX,Debit Card,Amazon,Groceries,Cairo,PC,Discover,Pending,1,X
+EUR,Credit Card,AliExpress,Clothing,Cairo,Tablet,Amex,In Progress,0,X
+KES,Debit Card,Amazon,XYZ,Nairobi,Desktop,MasterCard,Failed,Yes,Female
+UGX,BitCoin,Shopify,Clothing,New York,POS,MasterCard,Failed,No,Other
+UGX,Credit Card,Jumia,Groceries,Kampala,PC,BitcoinCard,Failed,No,Other
+1234,BitCoin,Amazon,Groceries,Kampala,Desktop,Visa,In Progress,Y,X
+1234,Wire Transfer,eBay,Electronics,New York,Mobile,MasterCard,Success,Y,Female
+KES,Credit Card,Amazon,Groceries,Nairobi,PC,BitcoinCard,Failed,Yes,Male
+1234,BitCoin,AliExpress,XYZ,Cairo,ATM,Discover,Failed,Maybe,Other
+KES,Cash,Amazon,Electronics,Cairo,Mobile,BitcoinCard,Failed,0,Female
+1234,Credit Card,Amazon,XYZ,New York,Tablet,BitcoinCard,Pending,N,X
+USD,BitCoin,Shopify,Clothing,New York,PC,Amex,Success,Maybe,X
+UGX,Debit Card,Shopify,Groceries,Cairo,Desktop,BitcoinCard,Success,Yes,X
+KES,Debit Card,Jumia,Groceries,New York,ATM,MasterCard,In Progress,0,Male
+1234,Wire Transfer,Amazon,Groceries,Nairobi,Mobile,BitcoinCard,Pending,No,Female
+1234,Debit Card,AliExpress,Clothing,New York,Mobile,BitcoinCard,Failed,No,Female
+1234,BitCoin,AliExpress,Gadgets,London,Desktop,BitcoinCard,Success,Maybe,Male
+USD,Cash,Jumia,Gadgets,London,PC,BitcoinCard,Pending,No,X
+EUR,Wire Transfer,Amazon,XYZ,Nairobi,PC,BitcoinCard,Success,Maybe,Female
+1234,BitCoin,eBay,Electronics,Kampala,Tablet,BitcoinCard,Success,Yes,X
+EUR,Wire Transfer,eBay,Groceries,Cairo,Desktop,Amex,Pending,N,Male
+EUR,CryptoPay,Shopify,Groceries,New York,PC,Discover,Failed,Maybe,Male
+UGX,Credit Card,AliExpress,Clothing,Unknown,Tablet,Amex,Failed,Maybe,Female
+UGX,CryptoPay,Shopify,Clothing,Unknown,PC,MasterCard,Failed,Maybe,Female
+UGX,Credit Card,eBay,Groceries,Cairo,Tablet,Visa,In Progress,N,X
+1234,BitCoin,AliExpress,Electronics,Kampala,ATM,MasterCard,In Progress,Maybe,X
+USD,Credit Card,eBay,Electronics,New York,Desktop,Discover,Success,0,Female
+1234,BitCoin,Jumia,XYZ,Unknown,ATM,BitcoinCard,In Progress,N,X
+1234,Debit Card,Shopify,XYZ,London,Desktop,MasterCard,In Progress,Maybe,Male
+KES,Credit Card,Shopify,Gadgets,New York,PC,Amex,Failed,Y,X
+USD,BitCoin,eBay,Electronics,New York,Desktop,BitcoinCard,In Progress,No,X
+1234,Debit Card,AliExpress,Groceries,New York,Tablet,BitcoinCard,Success,Maybe,X
+EUR,Debit Card,Jumia,Gadgets,Nairobi,Mobile,BitcoinCard,In Progress,1,X
+EUR,BitCoin,AliExpress,Clothing,London,PC,Discover,Failed,0,Female
+KES,Debit Card,eBay,Gadgets,Unknown,Tablet,MasterCard,Failed,0,X
+EUR,Debit Card,Shopify,XYZ,Nairobi,Tablet,Visa,Success,Yes,Male
+USD,Credit Card,Shopify,Gadgets,Nairobi,POS,Amex,Pending,Maybe,Other
+EUR,BitCoin,eBay,Groceries,Cairo,PC,Amex,Pending,Maybe,Female
+UGX,Cash,AliExpress,Clothing,Kampala,POS,Visa,Failed,Yes,X
+KES,BitCoin,eBay,Groceries,Kampala,PC,Discover,Failed,Yes,X
+USD,CryptoPay,Shopify,Gadgets,Kampala,Mobile,Visa,In Progress,Yes,X
+UGX,Debit Card,Amazon,Groceries,London,Mobile,Discover,In Progress,1,Female
+KES,Debit Card,AliExpress,Electronics,London,Desktop,Amex,In Progress,Y,Male
+1234,Credit Card,Amazon,Groceries,London,PC,BitcoinCard,Pending,1,Other
+EUR,Debit Card,AliExpress,Gadgets,Cairo,Mobile,Discover,Failed,Maybe,X
+KES,CryptoPay,Amazon,Groceries,Nairobi,PC,MasterCard,Failed,1,X
+EUR,Debit Card,Jumia,Clothing,London,Mobile,Amex,Failed,Y,Female
+UGX,Debit Card,Jumia,XYZ,Nairobi,Desktop,Amex,Pending,Yes,Other
+UGX,Wire Transfer,Amazon,Groceries,Cairo,Mobile,Amex,In Progress,1,Male
+KES,Cash,Jumia,Gadgets,Kampala,PC,Visa,Failed,Maybe,Other
+1234,Cash,Shopify,Groceries,Kampala,PC,MasterCard,Failed,Maybe,Female
+KES,CryptoPay,eBay,Clothing,New York,PC,Discover,Success,1,Male
+1234,Debit Card,AliExpress,Groceries,London,PC,MasterCard,Pending,Maybe,X
+UGX,CryptoPay,AliExpress,Clothing,London,Tablet,BitcoinCard,In Progress,Maybe,Other
+KES,Wire Transfer,eBay,Groceries,Nairobi,Desktop,BitcoinCard,In Progress,Maybe,X
+EUR,Credit Card,Amazon,Electronics,Cairo,Mobile,Amex,Failed,Maybe,Other
+EUR,Debit Card,Shopify,Electronics,Kampala,PC,Amex,Failed,Maybe,Female
+KES,CryptoPay,eBay,Electronics,Kampala,ATM,BitcoinCard,In Progress,Yes,Other
+1234,BitCoin,AliExpress,Groceries,Cairo,Tablet,BitcoinCard,Failed,0,Female
+1234,Wire Transfer,eBay,Groceries,Cairo,Mobile,MasterCard,Pending,Maybe,X
+USD,Cash,AliExpress,Gadgets,Cairo,POS,Amex,Pending,1,X
+KES,BitCoin,Jumia,Groceries,Kampala,PC,MasterCard,Failed,Y,Male
+USD,Debit Card,Shopify,Clothing,London,PC,BitcoinCard,Failed,Yes,Male
+UGX,CryptoPay,Shopify,Groceries,London,PC,Visa,Failed,1,X
+1234,CryptoPay,AliExpress,XYZ,New York,POS,BitcoinCard,Pending,0,X
+1234,Debit Card,Shopify,Gadgets,Kampala,ATM,Visa,In Progress,Maybe,Male
+USD,Cash,Shopify,Groceries,New York,POS,Discover,Pending,0,Other
+1234,Credit Card,Amazon,Electronics,London,Mobile,Discover,Pending,Maybe,X
+KES,Cash,Shopify,XYZ,Unknown,ATM,Amex,In Progress,Maybe,X
+USD,BitCoin,AliExpress,Gadgets,London,PC,Discover,Pending,0,Female
+EUR,Wire Transfer,Amazon,XYZ,Nairobi,POS,Amex,In Progress,Maybe,Other
+UGX,Credit Card,Jumia,Groceries,Cairo,Tablet,Amex,Failed,Yes,Other
+EUR,BitCoin,eBay,Gadgets,Cairo,PC,BitcoinCard,Pending,Maybe,X
+1234,Debit Card,Jumia,Clothing,New York,Mobile,BitcoinCard,Pending,1,X
+1234,Cash,eBay,Groceries,New York,Tablet,BitcoinCard,In Progress,0,Male
+KES,Credit Card,eBay,Groceries,Kampala,PC,BitcoinCard,Pending,N,X
+1234,Credit Card,Shopify,Electronics,Cairo,Mobile,Visa,Failed,N,X
+KES,Debit Card,eBay,XYZ,Cairo,Tablet,MasterCard,In Progress,Maybe,X
+USD,Wire Transfer,Shopify,Groceries,Kampala,Desktop,BitcoinCard,Failed,Yes,Female
+KES,Cash,Amazon,Groceries,Kampala,ATM,Visa,Pending,Maybe,X
+1234,Debit Card,Jumia,Groceries,Cairo,PC,Amex,In Progress,Y,X
+1234,Wire Transfer,Amazon,Groceries,London,Desktop,MasterCard,Success,N,X
+KES,Debit Card,Shopify,Electronics,Kampala,POS,BitcoinCard,Success,0,Male
+1234,Debit Card,Shopify,Groceries,Kampala,Tablet,BitcoinCard,Failed,1,Other
+USD,BitCoin,Shopify,Electronics,Kampala,PC,BitcoinCard,Pending,Maybe,Female
+UGX,CryptoPay,AliExpress,XYZ,Nairobi,Mobile,BitcoinCard,Success,Maybe,Female
+KES,Debit Card,Amazon,XYZ,New York,POS,MasterCard,Failed,Y,X
+UGX,Wire Transfer,AliExpress,XYZ,New York,PC,Amex,Success,Y,Female
+1234,BitCoin,Amazon,Clothing,Kampala,PC,Amex,Success,Maybe,X
+1234,Cash,Shopify,Gadgets,Unknown,PC,BitcoinCard,Success,0,X
+USD,CryptoPay,Shopify,Electronics,Nairobi,Mobile,MasterCard,Failed,1,X
+1234,CryptoPay,Jumia,Electronics,Cairo,Mobile,Discover,Pending,Yes,Other
+KES,Debit Card,AliExpress,Clothing,London,Desktop,BitcoinCard,Pending,No,X
+1234,Debit Card,AliExpress,Clothing,Cairo,Desktop,BitcoinCard,Failed,Maybe,X
+UGX,Debit Card,AliExpress,Electronics,London,Tablet,Visa,In Progress,0,Other
+KES,BitCoin,Shopify,Groceries,Cairo,Desktop,BitcoinCard,Failed,0,Other
+1234,Wire Transfer,AliExpress,Clothing,Cairo,POS,BitcoinCard,Success,N,Male
+UGX,CryptoPay,AliExpress,XYZ,Cairo,PC,Amex,Failed,Yes,X
+1234,Debit Card,Shopify,Clothing,Kampala,PC,Visa,Failed,Yes,X
+UGX,BitCoin,AliExpress,Electronics,Kampala,POS,Amex,Failed,Maybe,X
+USD,Debit Card,Shopify,Groceries,New York,Desktop,BitcoinCard,Pending,Y,X
+EUR,Debit Card,eBay,Groceries,Cairo,ATM,BitcoinCard,Pending,Y,Male
+KES,Debit Card,Jumia,Groceries,New York,PC,Visa,Success,No,Male
+1234,Debit Card,Jumia,Electronics,Cairo,PC,Amex,Failed,Y,Male
+KES,Debit Card,eBay,Gadgets,Unknown,Tablet,MasterCard,Success,Y,Male
+1234,Wire Transfer,Shopify,Groceries,Cairo,Mobile,MasterCard,Pending,1,X
+USD,Debit Card,eBay,Electronics,Cairo,Tablet,MasterCard,Pending,Y,X
+EUR,Credit Card,Jumia,Gadgets,Kampala,PC,MasterCard,Failed,Maybe,X
+USD,Credit Card,Shopify,Gadgets,Unknown,ATM,Amex,Success,Maybe,Other
+UGX,BitCoin,Shopify,Groceries,Cairo,PC,MasterCard,In Progress,Maybe,X
+1234,BitCoin,Shopify,Electronics,Cairo,PC,BitcoinCard,Failed,Maybe,Female
+1234,Debit Card,Shopify,Groceries,London,ATM,Amex,Failed,1,X
+UGX,Credit Card,Shopify,Gadgets,Cairo,Mobile,BitcoinCard,In Progress,Maybe,Male
+EUR,Debit Card,Amazon,XYZ,Cairo,PC,Amex,Failed,Y,X
+1234,Debit Card,Shopify,Gadgets,New York,POS,BitcoinCard,Success,0,Female
+1234,BitCoin,Amazon,XYZ,London,PC,Visa,Pending,No,Other
+1234,Wire Transfer,Shopify,Clothing,Cairo,PC,Discover,Pending,Maybe,Female
+KES,Credit Card,Amazon,Groceries,Nairobi,ATM,BitcoinCard,Pending,Yes,Male
+KES,Wire Transfer,Jumia,Electronics,Kampala,Desktop,MasterCard,In Progress,No,Male
+USD,Debit Card,AliExpress,Clothing,Unknown,Desktop,MasterCard,In Progress,No,X
+KES,Wire Transfer,Shopify,Gadgets,Cairo,Desktop,Visa,In Progress,Y,X
+UGX,Debit Card,AliExpress,Clothing,Cairo,POS,Visa,Failed,1,X
+USD,CryptoPay,Shopify,Electronics,Cairo,PC,Visa,Failed,No,X
+USD,Debit Card,Jumia,Groceries,London,ATM,BitcoinCard,In Progress,No,Other
+KES,Debit Card,Shopify,Clothing,Nairobi,PC,BitcoinCard,In Progress,0,Other
+KES,Wire Transfer,Jumia,Clothing,Nairobi,POS,Discover,Failed,Maybe,Female
+UGX,Debit Card,Shopify,Electronics,New York,PC,BitcoinCard,Failed,1,Other
+USD,Cash,Shopify,XYZ,Cairo,PC,Discover,Failed,Maybe,X
+1234,Wire Transfer,Amazon,XYZ,London,Mobile,BitcoinCard,Failed,Maybe,Other
+1234,Debit Card,AliExpress,Groceries,London,PC,Visa,Failed,Maybe,X
+UGX,Debit Card,Amazon,Electronics,Cairo,Desktop,BitcoinCard,Failed,Yes,X
+UGX,Debit Card,eBay,Electronics,Cairo,PC,Visa,Failed,Yes,Other
+KES,Wire Transfer,Amazon,XYZ,Cairo,PC,BitcoinCard,Pending,Maybe,X
+UGX,Credit Card,Jumia,XYZ,London,PC,MasterCard,Failed,Yes,X
+1234,Debit Card,AliExpress,Clothing,Kampala,ATM,MasterCard,Failed,No,X
+UGX,Cash,Shopify,Gadgets,Nairobi,POS,BitcoinCard,Success,Maybe,X
+USD,Credit Card,AliExpress,Electronics,Kampala,PC,Visa,Failed,Maybe,Other
+1234,Debit Card,AliExpress,Electronics,Unknown,ATM,BitcoinCard,Pending,Maybe,X
+UGX,Cash,eBay,Clothing,New York,ATM,BitcoinCard,In Progress,Maybe,Female
+EUR,Credit Card,Shopify,Clothing,London,Tablet,MasterCard,Failed,Maybe,X
+UGX,Cash,Jumia,Clothing,Cairo,PC,Discover,Pending,Maybe,Other
+UGX,Debit Card,Shopify,Clothing,Unknown,Tablet,MasterCard,Failed,Y,X
+KES,CryptoPay,Amazon,Groceries,Unknown,Desktop,MasterCard,Failed,N,Other
+USD,Debit Card,AliExpress,Groceries,Cairo,Mobile,Discover,Success,No,X
+1234,CryptoPay,Amazon,Groceries,Kampala,Mobile,BitcoinCard,In Progress,Y,Other
+UGX,Debit Card,Amazon,Gadgets,Cairo,ATM,Amex,Failed,0,X
+UGX,Cash,Jumia,XYZ,Cairo,Desktop,MasterCard,Failed,Maybe,Female
+1234,Credit Card,Shopify,XYZ,Kampala,Mobile,Visa,In Progress,Yes,X
+USD,Cash,eBay,Gadgets,Kampala,POS,Discover,Success,1,Male
+1234,Cash,Jumia,Electronics,Nairobi,Tablet,Visa,Failed,Maybe,X
+USD,Cash,AliExpress,Groceries,Nairobi,Mobile,BitcoinCard,Failed,Y,Male
+UGX,Debit Card,Amazon,Groceries,Cairo,PC,Visa,Success,Maybe,Female
+1234,Debit Card,Shopify,Gadgets,Nairobi,Tablet,Visa,Failed,1,Female
+USD,Debit Card,Shopify,Electronics,Kampala,PC,BitcoinCard,Failed,Y,Male
+1234,Cash,Shopify,XYZ,Unknown,Tablet,BitcoinCard,In Progress,Maybe,X
+1234,BitCoin,AliExpress,XYZ,Nairobi,ATM,Discover,Failed,No,X
+KES,Debit Card,AliExpress,XYZ,Kampala,PC,Amex,Success,Y,X
+EUR,Credit Card,eBay,Gadgets,Cairo,PC,Discover,Pending,No,X
+EUR,Credit Card,AliExpress,Groceries,London,Mobile,Visa,In Progress,Y,X
+USD,Debit Card,Jumia,Electronics,Cairo,Tablet,Discover,Success,Yes,Male
+1234,BitCoin,Shopify,Electronics,New York,PC,BitcoinCard,Success,N,Female
+USD,BitCoin,Shopify,Clothing,Unknown,ATM,Discover,Failed,Maybe,Other
+EUR,CryptoPay,Amazon,Groceries,London,Mobile,BitcoinCard,Success,1,X
+1234,BitCoin,eBay,Electronics,Kampala,Desktop,BitcoinCard,Success,N,X
+EUR,Credit Card,Amazon,Clothing,Unknown,PC,BitcoinCard,In Progress,Maybe,Female
+1234,Debit Card,Shopify,Clothing,Unknown,Mobile,Visa,Failed,0,X
+KES,Debit Card,eBay,Groceries,New York,POS,Visa,Failed,N,X
+KES,Debit Card,eBay,Gadgets,Cairo,POS,MasterCard,Pending,Maybe,Male
+UGX,Credit Card,Shopify,Electronics,Unknown,POS,MasterCard,Failed,0,X
+UGX,Cash,Jumia,Groceries,Cairo,PC,Visa,Failed,Maybe,Male
+KES,CryptoPay,Amazon,XYZ,New York,Mobile,Visa,Failed,Maybe,Other
+1234,BitCoin,Shopify,Electronics,Cairo,POS,BitcoinCard,In Progress,Yes,X
+1234,Wire Transfer,eBay,Groceries,London,Desktop,Visa,Failed,Maybe,X
+EUR,CryptoPay,Shopify,Groceries,Nairobi,ATM,Amex,Pending,Maybe,Other
+1234,Wire Transfer,eBay,Groceries,Nairobi,ATM,Discover,Success,0,Other
+1234,Cash,AliExpress,Clothing,Cairo,POS,Visa,In Progress,Y,Other
+1234,Debit Card,Shopify,Gadgets,New York,POS,BitcoinCard,Failed,0,Male
+KES,Debit Card,AliExpress,Clothing,Cairo,PC,MasterCard,Failed,1,Other
+USD,Credit Card,Amazon,Clothing,Cairo,PC,BitcoinCard,Failed,Maybe,Female
+USD,Debit Card,Amazon,Groceries,Unknown,Tablet,BitcoinCard,In Progress,Y,X
+UGX,BitCoin,Shopify,Electronics,Cairo,Mobile,Visa,Success,1,X
+UGX,Wire Transfer,eBay,XYZ,Cairo,POS,MasterCard,Failed,Y,Female
+USD,Cash,Shopify,XYZ,New York,PC,BitcoinCard,Failed,No,X
+EUR,Wire Transfer,Amazon,Groceries,Cairo,Mobile,Discover,Failed,Maybe,X
+1234,BitCoin,Jumia,Groceries,Nairobi,PC,Amex,Pending,N,X
+1234,Credit Card,Amazon,Groceries,Nairobi,PC,Discover,Failed,Maybe,Male
+1234,Cash,eBay,Groceries,Kampala,PC,BitcoinCard,Failed,0,Male
+USD,Credit Card,Shopify,Groceries,Nairobi,Tablet,BitcoinCard,Pending,1,Female
+KES,Credit Card,Jumia,Groceries,Nairobi,Desktop,Discover,Pending,0,Female
+1234,Cash,eBay,Gadgets,Nairobi,Tablet,Amex,Pending,1,Male
+1234,Debit Card,Shopify,Clothing,Cairo,POS,BitcoinCard,In Progress,Yes,Female
+USD,Cash,eBay,Clothing,Kampala,PC,Amex,Pending,Yes,X
+UGX,Cash,Jumia,Groceries,Kampala,ATM,BitcoinCard,Failed,Maybe,X
+1234,Debit Card,Shopify,Groceries,Kampala,Tablet,Visa,Failed,1,Other
+1234,Credit Card,Amazon,Groceries,Cairo,Mobile,BitcoinCard,Failed,1,X
+UGX,Wire Transfer,eBay,Clothing,London,PC,Discover,Failed,0,X
+KES,Wire Transfer,eBay,Groceries,Unknown,Mobile,Visa,In Progress,1,Male
+KES,Wire Transfer,AliExpress,Groceries,London,Mobile,BitcoinCard,Success,Maybe,Male
+USD,Debit Card,eBay,Gadgets,London,Tablet,BitcoinCard,Pending,0,X
+EUR,Credit Card,AliExpress,Electronics,London,PC,MasterCard,Failed,Y,Female
+1234,Cash,Shopify,XYZ,Cairo,Desktop,Discover,In Progress,N,X
+UGX,Debit Card,Jumia,Groceries,Kampala,PC,Amex,Success,No,X
+1234,CryptoPay,Shopify,Gadgets,Cairo,Tablet,BitcoinCard,In Progress,No,X
+1234,Wire Transfer,Shopify,Electronics,New York,PC,Amex,Failed,Y,Male
+1234,Debit Card,AliExpress,Gadgets,Cairo,ATM,MasterCard,Failed,N,Other
+USD,CryptoPay,Shopify,Groceries,Nairobi,Desktop,Visa,In Progress,Y,Other
+KES,Credit Card,Shopify,XYZ,New York,Tablet,Visa,Failed,Maybe,X
+USD,CryptoPay,Jumia,XYZ,Cairo,Tablet,Amex,Success,1,Male
+EUR,CryptoPay,eBay,Groceries,Kampala,PC,BitcoinCard,Failed,Maybe,Male
+1234,Debit Card,Shopify,Gadgets,New York,ATM,Visa,Success,Maybe,X
+UGX,Cash,Shopify,Clothing,Unknown,Mobile,Visa,In Progress,No,X
+UGX,Cash,Jumia,Clothing,Kampala,POS,BitcoinCard,Failed,Maybe,Female
+1234,Credit Card,Shopify,Electronics,New York,Tablet,BitcoinCard,Failed,Maybe,Male
+1234,Wire Transfer,Shopify,Electronics,London,Mobile,BitcoinCard,Success,Maybe,X
+1234,CryptoPay,Amazon,Gadgets,Unknown,ATM,Amex,Failed,N,X
+EUR,CryptoPay,Shopify,Electronics,London,Tablet,Visa,Failed,N,X
+1234,Wire Transfer,Shopify,XYZ,New York,PC,BitcoinCard,Success,1,Male
+USD,Credit Card,Shopify,Clothing,Nairobi,Tablet,Amex,Failed,Y,Other
+UGX,Debit Card,Jumia,Clothing,New York,ATM,MasterCard,Failed,Maybe,Other
+1234,Debit Card,eBay,Groceries,London,Mobile,MasterCard,Failed,Y,Female
+KES,Debit Card,Shopify,XYZ,Nairobi,Mobile,Discover,Failed,Yes,X
+EUR,Debit Card,Jumia,Groceries,Cairo,Tablet,BitcoinCard,Failed,N,X
+KES,BitCoin,AliExpress,Groceries,Kampala,Tablet,Discover,In Progress,Maybe,X
+UGX,Credit Card,Amazon,XYZ,Nairobi,Desktop,Amex,In Progress,Maybe,X
+1234,Debit Card,Shopify,XYZ,Kampala,PC,Visa,Failed,Maybe,Female
+1234,BitCoin,Shopify,Clothing,Cairo,Mobile,BitcoinCard,Success,Y,Female
+EUR,Debit Card,Shopify,Groceries,Cairo,PC,MasterCard,Pending,No,Other
+UGX,Debit Card,Amazon,Groceries,Nairobi,Desktop,Discover,Failed,Maybe,Male
+1234,CryptoPay,Shopify,Groceries,Cairo,POS,MasterCard,Failed,0,Other
+1234,Cash,Shopify,Gadgets,Kampala,POS,MasterCard,Failed,Yes,X
+USD,Debit Card,eBay,Electronics,Kampala,POS,BitcoinCard,In Progress,Maybe,X
+1234,Credit Card,Shopify,XYZ,Cairo,PC,MasterCard,In Progress,Yes,Male
+KES,Credit Card,Shopify,XYZ,Nairobi,Mobile,MasterCard,In Progress,No,X
+EUR,BitCoin,eBay,Clothing,Kampala,Tablet,BitcoinCard,Failed,Maybe,Male
+1234,Debit Card,Amazon,Groceries,London,Mobile,BitcoinCard,Failed,N,Other
+UGX,Debit Card,Shopify,Groceries,New York,Mobile,BitcoinCard,Failed,Yes,Female
+UGX,Debit Card,Amazon,Clothing,Kampala,Tablet,MasterCard,Success,1,Female
+USD,CryptoPay,Amazon,Groceries,Cairo,PC,Visa,Failed,0,X
+KES,CryptoPay,eBay,Electronics,New York,Tablet,MasterCard,Pending,N,Male
+EUR,Wire Transfer,Shopify,Groceries,London,Tablet,Discover,In Progress,Yes,Male
+USD,Wire Transfer,Amazon,Electronics,New York,Mobile,Amex,Success,Maybe,Male
+KES,BitCoin,eBay,Clothing,London,Desktop,Amex,Pending,N,X
+1234,Cash,AliExpress,Clothing,Unknown,POS,Amex,Failed,0,Female
+EUR,Debit Card,Jumia,Groceries,Cairo,Desktop,Discover,In Progress,Maybe,X
+UGX,Debit Card,eBay,Clothing,Cairo,POS,Visa,In Progress,Maybe,Male
+UGX,Cash,Shopify,Gadgets,Cairo,PC,Visa,Failed,Y,Male
+KES,Debit Card,Jumia,XYZ,Cairo,Mobile,Amex,Failed,1,Female
+1234,Debit Card,Shopify,Gadgets,Unknown,Desktop,Visa,Failed,N,X
+1234,BitCoin,Shopify,XYZ,Kampala,Mobile,BitcoinCard,Pending,0,Female
+UGX,Debit Card,Shopify,Groceries,Nairobi,Tablet,BitcoinCard,Pending,N,X
+USD,Debit Card,Shopify,Gadgets,London,Tablet,BitcoinCard,Failed,1,X
+EUR,Debit Card,Jumia,Gadgets,Cairo,PC,Amex,In Progress,Yes,Other
+EUR,Debit Card,AliExpress,Groceries,Cairo,PC,MasterCard,In Progress,Yes,Female
+USD,CryptoPay,Jumia,Clothing,Kampala,POS,BitcoinCard,Failed,No,Other
+1234,Debit Card,Jumia,Gadgets,Kampala,PC,BitcoinCard,Pending,Maybe,Other
+UGX,Wire Transfer,AliExpress,Gadgets,New York,POS,Discover,In Progress,No,Male
+EUR,Credit Card,Jumia,Groceries,Cairo,PC,BitcoinCard,Pending,Maybe,Female
+USD,Debit Card,Amazon,Groceries,Kampala,Mobile,Visa,Pending,Maybe,X
+1234,Debit Card,Amazon,Groceries,London,PC,Amex,Failed,Maybe,Male
+UGX,Credit Card,Shopify,XYZ,Unknown,PC,BitcoinCard,Success,Maybe,X
+1234,Cash,eBay,Clothing,New York,POS,Visa,Failed,1,Male
+1234,Debit Card,Amazon,Electronics,New York,POS,Amex,Failed,Maybe,X
+1234,Wire Transfer,AliExpress,Groceries,Cairo,PC,MasterCard,Failed,No,Other
+KES,Cash,Shopify,Electronics,New York,PC,Discover,Failed,Maybe,X
+1234,CryptoPay,eBay,Electronics,Nairobi,POS,Discover,Failed,0,Male
+KES,Wire Transfer,eBay,Electronics,Cairo,Tablet,Discover,Failed,Y,X
+1234,Debit Card,AliExpress,Groceries,Cairo,POS,Discover,Pending,1,Male
+1234,Wire Transfer,Amazon,Electronics,Kampala,PC,BitcoinCard,Failed,1,Male
+UGX,BitCoin,Shopify,Electronics,London,Tablet,Visa,Success,1,Other
+1234,Wire Transfer,Shopify,Groceries,New York,Mobile,BitcoinCard,In Progress,0,Other
+KES,Credit Card,Amazon,Electronics,Cairo,ATM,BitcoinCard,Pending,1,Male
+KES,Debit Card,Amazon,Groceries,Cairo,PC,Visa,Pending,1,Female
+1234,Credit Card,eBay,Gadgets,London,Mobile,Visa,Pending,Maybe,Other
+USD,Wire Transfer,Amazon,Gadgets,Cairo,Tablet,BitcoinCard,In Progress,Yes,Female
+UGX,Credit Card,Shopify,XYZ,Nairobi,ATM,MasterCard,Failed,Maybe,X
+UGX,Cash,eBay,Groceries,Unknown,Mobile,Discover,In Progress,N,Female
+UGX,Credit Card,Amazon,Clothing,Kampala,PC,Visa,Success,Maybe,X
+UGX,CryptoPay,Shopify,Electronics,Kampala,Tablet,Visa,Failed,0,Male
+KES,Debit Card,Amazon,Electronics,London,Tablet,MasterCard,Failed,No,Other
+EUR,Debit Card,eBay,Groceries,Kampala,PC,Visa,In Progress,Maybe,X
+KES,Cash,Shopify,Clothing,Kampala,Mobile,BitcoinCard,In Progress,N,X
+1234,Credit Card,AliExpress,XYZ,Cairo,Desktop,MasterCard,Failed,Maybe,Female
+KES,BitCoin,Jumia,Clothing,New York,Mobile,Amex,Success,Maybe,X
+EUR,Cash,Shopify,Gadgets,Nairobi,Mobile,Discover,Failed,No,X
+1234,Debit Card,Shopify,XYZ,Cairo,POS,Discover,In Progress,Yes,Female
+1234,BitCoin,eBay,Groceries,Kampala,Mobile,BitcoinCard,Failed,0,X
+EUR,CryptoPay,Shopify,Electronics,Cairo,Mobile,Visa,Failed,N,Male
+1234,BitCoin,AliExpress,Groceries,Nairobi,ATM,Visa,Success,No,Female
+KES,Debit Card,Amazon,Gadgets,London,Mobile,Discover,Failed,Y,Other
+UGX,Debit Card,Shopify,XYZ,Cairo,ATM,MasterCard,Success,Maybe,X
+KES,Credit Card,AliExpress,Electronics,New York,PC,BitcoinCard,Pending,Maybe,X
+USD,Credit Card,eBay,Groceries,London,Tablet,Discover,Failed,Maybe,X
+1234,Wire Transfer,eBay,Electronics,London,ATM,Visa,In Progress,Maybe,X
+1234,Debit Card,Shopify,Electronics,New York,POS,Amex,Failed,1,Female
+USD,Credit Card,Jumia,Groceries,Cairo,Mobile,BitcoinCard,In Progress,Maybe,Female
+1234,Cash,Amazon,Clothing,Kampala,Tablet,MasterCard,Failed,Maybe,Other
+KES,Credit Card,AliExpress,Groceries,Kampala,Desktop,Visa,Success,Maybe,Female
+1234,Credit Card,Amazon,Gadgets,New York,POS,MasterCard,Failed,Maybe,X
+UGX,Cash,eBay,Clothing,Cairo,POS,MasterCard,Failed,Maybe,Male
+USD,Cash,Jumia,Electronics,Kampala,PC,Amex,Pending,Y,Male
+EUR,Cash,Jumia,XYZ,Cairo,Desktop,Amex,Failed,Yes,Other
+1234,Debit Card,eBay,XYZ,Kampala,Mobile,Amex,In Progress,1,X
+1234,BitCoin,Jumia,XYZ,Kampala,Tablet,Visa,In Progress,0,Other
+UGX,Cash,Shopify,Electronics,Cairo,Desktop,Discover,In Progress,Maybe,X
+UGX,Debit Card,eBay,Gadgets,London,Desktop,BitcoinCard,Failed,Y,Male
+UGX,Debit Card,Shopify,Clothing,Cairo,PC,BitcoinCard,Failed,Maybe,Other
+UGX,BitCoin,Amazon,Electronics,Nairobi,PC,MasterCard,Failed,No,Other
+KES,Debit Card,Shopify,Electronics,London,PC,Discover,Success,1,X
+1234,CryptoPay,Shopify,Electronics,Cairo,PC,BitcoinCard,Success,Maybe,Female
+KES,Credit Card,eBay,XYZ,Nairobi,Mobile,Visa,Failed,Y,Male
+USD,Wire Transfer,Jumia,Clothing,Cairo,PC,Discover,Pending,1,Other
+EUR,Cash,AliExpress,Gadgets,Kampala,PC,BitcoinCard,Failed,Maybe,X
+1234,Cash,Amazon,Groceries,Cairo,Mobile,Discover,Success,N,X
+1234,Wire Transfer,eBay,XYZ,Kampala,ATM,Discover,In Progress,Yes,Female
+EUR,Debit Card,eBay,Groceries,Unknown,Desktop,BitcoinCard,Failed,No,X
+1234,Wire Transfer,Shopify,Groceries,New York,PC,BitcoinCard,Failed,Maybe,X
+UGX,CryptoPay,eBay,Groceries,Unknown,PC,MasterCard,Success,Maybe,X
+1234,BitCoin,Jumia,Electronics,Kampala,Desktop,BitcoinCard,Success,1,Female
+KES,Wire Transfer,Shopify,XYZ,Kampala,Desktop,MasterCard,Pending,Y,Other
+KES,BitCoin,Shopify,Groceries,Unknown,PC,BitcoinCard,In Progress,1,Other
+USD,CryptoPay,Shopify,Gadgets,London,PC,Amex,Failed,Y,Male
+UGX,CryptoPay,Amazon,Electronics,Cairo,PC,Amex,In Progress,N,Male
+1234,Credit Card,Shopify,XYZ,New York,PC,BitcoinCard,Failed,Maybe,X
+1234,Cash,Amazon,XYZ,New York,POS,Visa,In Progress,N,Other
+KES,Cash,eBay,Clothing,Cairo,Desktop,Visa,In Progress,Maybe,Female
+1234,CryptoPay,AliExpress,Groceries,Kampala,ATM,MasterCard,In Progress,Y,X
+KES,Debit Card,AliExpress,Electronics,New York,Mobile,Amex,In Progress,Maybe,X
+1234,Debit Card,Jumia,Gadgets,Nairobi,PC,BitcoinCard,Failed,N,Male
+EUR,BitCoin,AliExpress,XYZ,Cairo,POS,Visa,Pending,N,Female
+KES,Debit Card,eBay,Gadgets,London,Tablet,BitcoinCard,Failed,No,X
+1234,Debit Card,eBay,Electronics,Cairo,POS,Discover,Pending,Y,Female
+USD,Debit Card,AliExpress,Electronics,Cairo,PC,MasterCard,In Progress,No,X
+USD,BitCoin,Jumia,Gadgets,Unknown,PC,Amex,Pending,Maybe,X
+KES,Debit Card,Amazon,Gadgets,Cairo,PC,Amex,Failed,Maybe,Female
+EUR,Debit Card,Amazon,Gadgets,Cairo,PC,MasterCard,Failed,Yes,X
+EUR,Debit Card,Shopify,Gadgets,London,Desktop,Discover,In Progress,Maybe,Male
+USD,Debit Card,Amazon,Clothing,London,ATM,BitcoinCard,Failed,Y,Female
+1234,CryptoPay,Shopify,Electronics,Unknown,POS,BitcoinCard,Success,N,X
+UGX,Credit Card,AliExpress,Groceries,Cairo,Desktop,BitcoinCard,Success,Y,X
+EUR,CryptoPay,AliExpress,Electronics,London,Mobile,BitcoinCard,Failed,Maybe,X
+EUR,Credit Card,Amazon,XYZ,Cairo,ATM,MasterCard,Success,Maybe,X
+1234,CryptoPay,AliExpress,Electronics,Unknown,Desktop,Discover,Pending,Yes,X
+KES,Cash,Shopify,Groceries,London,POS,Visa,Pending,Maybe,Male
+1234,Wire Transfer,eBay,XYZ,Nairobi,PC,MasterCard,Failed,N,Other
+KES,BitCoin,Shopify,Groceries,Cairo,ATM,MasterCard,Failed,Y,Female
+UGX,Credit Card,Jumia,XYZ,London,Desktop,BitcoinCard,Success,Y,Other
+EUR,Debit Card,Jumia,Gadgets,London,PC,Amex,In Progress,No,Female
+KES,Debit Card,Amazon,Clothing,Unknown,POS,BitcoinCard,In Progress,Yes,X
+1234,Wire Transfer,eBay,Groceries,Cairo,Tablet,BitcoinCard,Pending,No,Male
+UGX,Debit Card,Amazon,Electronics,Unknown,Tablet,Visa,Success,Yes,X
+UGX,CryptoPay,Shopify,XYZ,Cairo,Desktop,Visa,Failed,Y,Other
+UGX,CryptoPay,eBay,Groceries,Cairo,ATM,Visa,Success,N,Other
+1234,Wire Transfer,Amazon,Clothing,Nairobi,POS,BitcoinCard,Pending,Y,Male
+USD,Wire Transfer,Shopify,Clothing,London,ATM,Amex,Failed,Yes,X
+1234,CryptoPay,Amazon,XYZ,Cairo,POS,Discover,Failed,Yes,Male
+1234,Cash,AliExpress,Gadgets,Kampala,Tablet,BitcoinCard,In Progress,Maybe,Male
+1234,CryptoPay,Amazon,Electronics,London,Tablet,BitcoinCard,Success,Maybe,Male
+1234,BitCoin,Shopify,XYZ,Cairo,Desktop,Visa,Success,Maybe,X
+UGX,BitCoin,AliExpress,Electronics,Cairo,POS,BitcoinCard,Failed,Maybe,X
+1234,BitCoin,Amazon,Groceries,Kampala,PC,Visa,In Progress,Maybe,Other
+1234,BitCoin,eBay,Gadgets,Cairo,Mobile,BitcoinCard,Failed,Maybe,Female
+1234,Wire Transfer,Shopify,Groceries,New York,PC,Amex,In Progress,Maybe,Other
+KES,Debit Card,Amazon,XYZ,Kampala,ATM,BitcoinCard,Pending,Yes,X
+EUR,Debit Card,AliExpress,Gadgets,New York,Tablet,BitcoinCard,Success,Yes,Other
+KES,Wire Transfer,AliExpress,Clothing,London,PC,BitcoinCard,Success,Maybe,X
+KES,Cash,Amazon,XYZ,Cairo,POS,Visa,Pending,Maybe,Other
+KES,Wire Transfer,Amazon,XYZ,Cairo,ATM,Amex,Failed,Maybe,Male
+UGX,CryptoPay,Shopify,Electronics,Nairobi,Mobile,Amex,Failed,Maybe,Other
+KES,Debit Card,Shopify,Groceries,New York,Mobile,BitcoinCard,Pending,No,Male
+EUR,BitCoin,AliExpress,Groceries,London,ATM,MasterCard,In Progress,Yes,Male
+EUR,CryptoPay,Shopify,Electronics,Cairo,POS,Visa,Failed,Maybe,Female
+KES,Debit Card,Shopify,Groceries,Cairo,Desktop,BitcoinCard,Success,No,X
+UGX,Credit Card,Jumia,Groceries,Cairo,PC,Discover,In Progress,1,X
+USD,CryptoPay,Shopify,Gadgets,Nairobi,Tablet,Amex,Failed,N,Male
+1234,Debit Card,AliExpress,Gadgets,Nairobi,PC,BitcoinCard,Success,0,Female
+UGX,Cash,Shopify,Groceries,New York,Desktop,MasterCard,Failed,Maybe,X
+KES,CryptoPay,Shopify,Clothing,Nairobi,POS,Discover,Failed,No,Female
+1234,Credit Card,Shopify,Groceries,Cairo,Desktop,BitcoinCard,Failed,1,Male
+EUR,Debit Card,eBay,XYZ,Kampala,PC,BitcoinCard,Success,Yes,Other
+1234,Debit Card,Shopify,Groceries,Cairo,PC,BitcoinCard,Failed,N,Female
+USD,Debit Card,Shopify,XYZ,New York,POS,BitcoinCard,In Progress,Maybe,X
+KES,Credit Card,AliExpress,Groceries,Kampala,Mobile,BitcoinCard,Failed,1,X
+1234,Debit Card,Jumia,Groceries,Cairo,PC,Discover,Success,0,Female
+1234,CryptoPay,Jumia,Clothing,Cairo,Desktop,BitcoinCard,In Progress,N,X
+KES,Credit Card,Shopify,Groceries,Unknown,Desktop,BitcoinCard,Success,No,Female
+KES,Debit Card,Shopify,XYZ,Cairo,PC,Discover,Failed,Maybe,X
+KES,Debit Card,Shopify,XYZ,Kampala,Mobile,BitcoinCard,Failed,Yes,Male
+EUR,Debit Card,eBay,Groceries,Cairo,Desktop,Amex,Success,Maybe,Other
+1234,Debit Card,Shopify,Gadgets,Cairo,Desktop,BitcoinCard,Failed,1,Other
+USD,Cash,AliExpress,Clothing,London,PC,BitcoinCard,Failed,Maybe,Other
+1234,Wire Transfer,Jumia,Groceries,Cairo,Mobile,BitcoinCard,Success,Maybe,X
+EUR,Credit Card,eBay,Gadgets,Cairo,PC,BitcoinCard,Failed,Y,Male
+EUR,BitCoin,eBay,Groceries,Unknown,Mobile,BitcoinCard,Failed,N,X
+1234,Cash,Jumia,Gadgets,Kampala,PC,BitcoinCard,Success,0,X
+1234,Cash,Shopify,Groceries,Unknown,ATM,BitcoinCard,Failed,1,Female
+1234,Debit Card,Shopify,Groceries,Cairo,Desktop,BitcoinCard,Failed,Maybe,X
+USD,Wire Transfer,eBay,Clothing,Nairobi,Desktop,Discover,Failed,0,Other
+1234,Debit Card,Shopify,XYZ,Cairo,Tablet,Visa,Failed,No,Female
+1234,CryptoPay,Jumia,Gadgets,Kampala,Mobile,BitcoinCard,Success,Yes,Male
+1234,Debit Card,eBay,XYZ,Kampala,POS,Amex,Success,Yes,X
+KES,Debit Card,Jumia,Groceries,New York,Mobile,MasterCard,In Progress,N,X
+USD,BitCoin,Shopify,Gadgets,Kampala,PC,BitcoinCard,Success,Yes,X
+UGX,Cash,Amazon,Groceries,Cairo,Desktop,Amex,Success,Maybe,Male
+1234,Cash,Shopify,Gadgets,Nairobi,PC,BitcoinCard,Success,Maybe,X
+EUR,Debit Card,Jumia,Electronics,Cairo,Mobile,Discover,Failed,Y,X
+EUR,Cash,eBay,Groceries,Cairo,PC,BitcoinCard,Failed,Yes,X
+1234,BitCoin,Amazon,Groceries,Cairo,PC,BitcoinCard,Success,0,Other
+1234,Wire Transfer,Shopify,Clothing,Cairo,Mobile,MasterCard,Failed,1,X
+KES,BitCoin,Shopify,Groceries,Cairo,ATM,MasterCard,Failed,0,Male
+1234,Cash,Shopify,Groceries,Nairobi,Mobile,Amex,Success,Maybe,X
+USD,Credit Card,AliExpress,XYZ,Kampala,Tablet,BitcoinCard,Success,Maybe,Female
+UGX,CryptoPay,eBay,Gadgets,Cairo,Desktop,Visa,In Progress,No,Female
+USD,Wire Transfer,Shopify,Gadgets,Kampala,ATM,Amex,Success,0,X
+1234,CryptoPay,eBay,Groceries,Cairo,Desktop,Visa,Failed,Yes,X
+1234,Debit Card,Shopify,XYZ,New York,Desktop,BitcoinCard,Failed,Yes,Other
+1234,BitCoin,Jumia,Clothing,Kampala,PC,Amex,Pending,Maybe,X
+KES,Wire Transfer,eBay,Electronics,Kampala,PC,BitcoinCard,In Progress,Maybe,X
+1234,Wire Transfer,Shopify,Groceries,Unknown,PC,BitcoinCard,Failed,Maybe,X
+1234,Debit Card,Shopify,Groceries,New York,Mobile,MasterCard,Failed,Maybe,Other
+EUR,Wire Transfer,Shopify,XYZ,Nairobi,PC,MasterCard,Failed,1,Other
+EUR,Wire Transfer,Shopify,Clothing,Nairobi,Tablet,MasterCard,In Progress,No,Other
+KES,Debit Card,Shopify,Groceries,New York,Tablet,Visa,Failed,No,Male
+UGX,Debit Card,Shopify,Groceries,Nairobi,ATM,MasterCard,Success,Yes,Female
+1234,Cash,Shopify,Groceries,Cairo,ATM,MasterCard,Pending,Maybe,Other
+EUR,Debit Card,Shopify,XYZ,Cairo,PC,Amex,In Progress,0,X
+EUR,BitCoin,Shopify,XYZ,Unknown,POS,MasterCard,Failed,1,X
+KES,Cash,Jumia,Clothing,Cairo,PC,Discover,Failed,No,Female
+1234,CryptoPay,Jumia,Groceries,Cairo,Tablet,Discover,Failed,No,X
+EUR,Credit Card,Jumia,Clothing,New York,ATM,BitcoinCard,Pending,N,Male
+UGX,CryptoPay,Shopify,Clothing,London,PC,BitcoinCard,Failed,1,X
+EUR,Debit Card,Shopify,XYZ,Nairobi,Desktop,Visa,In Progress,Yes,Other
+UGX,Wire Transfer,eBay,Gadgets,Nairobi,PC,Discover,Success,Maybe,Female
+USD,Debit Card,Shopify,Electronics,Cairo,PC,BitcoinCard,Failed,Maybe,Male
+USD,BitCoin,AliExpress,Gadgets,London,Desktop,BitcoinCard,Failed,0,X
+EUR,Wire Transfer,eBay,Electronics,London,Desktop,Visa,Pending,No,X
+1234,Credit Card,eBay,Groceries,Cairo,ATM,BitcoinCard,In Progress,Maybe,X
+KES,Debit Card,eBay,Groceries,New York,Tablet,Discover,Success,1,Male
+KES,Wire Transfer,Shopify,Electronics,Cairo,Desktop,MasterCard,Failed,Maybe,Male
+EUR,Cash,eBay,Groceries,Cairo,PC,Discover,Pending,Yes,X
+1234,CryptoPay,AliExpress,Electronics,Cairo,PC,BitcoinCard,Failed,Maybe,Other
+1234,Credit Card,eBay,Groceries,New York,PC,Visa,Success,Maybe,Male
+KES,BitCoin,Shopify,Electronics,Nairobi,PC,Discover,Success,0,Female
+EUR,Debit Card,Shopify,Groceries,Nairobi,Desktop,Discover,Pending,Maybe,Other
+EUR,Credit Card,AliExpress,Groceries,Kampala,ATM,Visa,Success,N,Female
+KES,Debit Card,Jumia,XYZ,Nairobi,ATM,BitcoinCard,In Progress,Maybe,X
+1234,Cash,Shopify,Clothing,London,Tablet,Discover,Failed,Maybe,X
+1234,Debit Card,AliExpress,XYZ,Kampala,ATM,MasterCard,In Progress,Maybe,X
+USD,Credit Card,Shopify,Clothing,New York,Mobile,BitcoinCard,Failed,N,Male
+1234,Credit Card,Jumia,XYZ,New York,Tablet,MasterCard,Pending,1,X
+UGX,BitCoin,Shopify,XYZ,Kampala,Mobile,Amex,Success,Maybe,X
+EUR,CryptoPay,Jumia,Groceries,Unknown,ATM,BitcoinCard,In Progress,Y,Female
+EUR,Wire Transfer,eBay,Gadgets,Unknown,ATM,BitcoinCard,Pending,Maybe,X
+KES,Debit Card,Shopify,Electronics,London,Desktop,MasterCard,Failed,Maybe,X
+1234,Debit Card,eBay,Groceries,Nairobi,Mobile,BitcoinCard,Failed,Maybe,X
+USD,Wire Transfer,Shopify,XYZ,New York,PC,BitcoinCard,In Progress,Y,Other
+USD,Wire Transfer,Amazon,Groceries,New York,PC,MasterCard,Pending,Maybe,X
+1234,Cash,AliExpress,Groceries,London,Mobile,Amex,Failed,Maybe,Female
+USD,Cash,Shopify,Gadgets,Kampala,PC,BitcoinCard,Failed,Yes,Female
+1234,BitCoin,Shopify,Groceries,Unknown,ATM,BitcoinCard,Success,Maybe,Female
+1234,Credit Card,Jumia,XYZ,London,POS,BitcoinCard,In Progress,N,X
+KES,Debit Card,AliExpress,Gadgets,Nairobi,Tablet,Amex,Failed,Maybe,Other
+1234,BitCoin,Shopify,Clothing,New York,Desktop,BitcoinCard,Pending,Maybe,X
+KES,Debit Card,Amazon,Groceries,Cairo,ATM,MasterCard,Pending,Maybe,X
+KES,Cash,eBay,Groceries,Cairo,Mobile,BitcoinCard,Failed,Maybe,Male
+USD,Debit Card,eBay,XYZ,Nairobi,Tablet,MasterCard,Success,Maybe,Other
+KES,BitCoin,Jumia,Gadgets,Cairo,Desktop,BitcoinCard,Success,No,Male
+UGX,Debit Card,AliExpress,XYZ,London,Tablet,BitcoinCard,Failed,Maybe,Female
+1234,Debit Card,eBay,Electronics,Cairo,Tablet,Visa,In Progress,Maybe,Male
+1234,Debit Card,Shopify,Clothing,Nairobi,Desktop,Amex,In Progress,Maybe,X
+USD,CryptoPay,Shopify,XYZ,London,ATM,Visa,Pending,No,Male
+1234,Debit Card,AliExpress,XYZ,Nairobi,PC,Amex,Failed,0,X
+1234,Debit Card,Shopify,Gadgets,Nairobi,Mobile,Discover,In Progress,Yes,Male
+1234,Credit Card,eBay,Clothing,Nairobi,ATM,BitcoinCard,Failed,0,Other
+1234,Debit Card,Shopify,XYZ,New York,PC,Visa,Success,Maybe,Female
+1234,CryptoPay,Amazon,Clothing,Cairo,PC,MasterCard,Success,Y,X
+USD,CryptoPay,Shopify,XYZ,London,POS,BitcoinCard,Failed,0,X
+KES,Wire Transfer,eBay,Electronics,London,Mobile,BitcoinCard,Failed,Maybe,Male
+KES,BitCoin,Shopify,Groceries,New York,POS,BitcoinCard,Success,No,Female
+1234,BitCoin,AliExpress,Electronics,Cairo,ATM,Discover,Failed,Maybe,X
+USD,Debit Card,Shopify,Gadgets,Cairo,Tablet,Amex,Pending,Maybe,Female
+UGX,Debit Card,eBay,Clothing,Cairo,PC,Visa,Failed,Yes,X
+KES,BitCoin,Jumia,Electronics,Cairo,PC,BitcoinCard,Failed,N,Female
+1234,Debit Card,Shopify,XYZ,Cairo,Desktop,MasterCard,Pending,Y,Other
+USD,BitCoin,Shopify,Groceries,London,ATM,Discover,In Progress,Yes,Other
+UGX,BitCoin,AliExpress,Clothing,New York,Desktop,BitcoinCard,Pending,No,Female
+KES,Credit Card,eBay,Gadgets,Unknown,PC,Amex,In Progress,Y,Male
+1234,Debit Card,Shopify,Groceries,Cairo,PC,BitcoinCard,Pending,Maybe,Other
+1234,BitCoin,Shopify,Clothing,London,Tablet,BitcoinCard,Failed,0,Male
+1234,Wire Transfer,AliExpress,Groceries,Unknown,PC,MasterCard,Pending,Maybe,Female
+1234,BitCoin,eBay,XYZ,Unknown,ATM,Discover,Failed,Maybe,Female
+KES,Debit Card,eBay,Electronics,London,ATM,BitcoinCard,Failed,Maybe,Male
+KES,CryptoPay,Shopify,Clothing,London,Tablet,Amex,Success,Y,X
+USD,BitCoin,Jumia,Electronics,New York,Desktop,Visa,Pending,Maybe,Male
+USD,Debit Card,Shopify,Electronics,Kampala,ATM,BitcoinCard,Success,Yes,Other
+EUR,Wire Transfer,eBay,Electronics,Cairo,Desktop,Discover,Failed,1,X
+UGX,Debit Card,Shopify,Groceries,Cairo,ATM,BitcoinCard,Success,No,X
+1234,Credit Card,eBay,Electronics,Nairobi,Desktop,Discover,Failed,Maybe,Female
+USD,CryptoPay,Shopify,Clothing,Unknown,Mobile,Amex,Failed,Yes,Male
+1234,Debit Card,Jumia,Clothing,Unknown,PC,Discover,Success,0,X
+EUR,CryptoPay,AliExpress,XYZ,Cairo,Desktop,BitcoinCard,Failed,Y,Other
+UGX,CryptoPay,AliExpress,Electronics,Unknown,PC,Visa,Success,No,Male
+KES,Debit Card,AliExpress,Electronics,Unknown,PC,MasterCard,Pending,Maybe,Male
+1234,BitCoin,Shopify,Groceries,Unknown,ATM,Visa,In Progress,0,Male
+UGX,Debit Card,Shopify,Gadgets,Nairobi,Desktop,BitcoinCard,Failed,0,X
+EUR,Debit Card,Amazon,Electronics,Kampala,POS,Discover,Failed,Maybe,X
+EUR,Debit Card,Shopify,Gadgets,Kampala,POS,Discover,Failed,0,Other
+KES,CryptoPay,Amazon,Groceries,Cairo,PC,Visa,In Progress,No,Male
+EUR,Debit Card,Amazon,XYZ,Kampala,Desktop,BitcoinCard,Failed,Maybe,X
+UGX,BitCoin,Amazon,Gadgets,New York,Mobile,BitcoinCard,Pending,Maybe,Female
+USD,BitCoin,Amazon,Electronics,London,Tablet,MasterCard,Success,Maybe,Female
+UGX,Cash,Amazon,XYZ,Cairo,PC,MasterCard,Failed,1,Other
+1234,Debit Card,Amazon,Groceries,Nairobi,Tablet,BitcoinCard,In Progress,No,Other
+1234,Debit Card,Jumia,Groceries,Cairo,POS,Amex,In Progress,Y,Female
+USD,Wire Transfer,Amazon,Groceries,Kampala,Tablet,BitcoinCard,Success,Maybe,X
+KES,Credit Card,Jumia,Gadgets,New York,PC,Amex,Failed,1,Male
+1234,Cash,Jumia,Groceries,New York,Mobile,Visa,Success,Maybe,Male
+KES,Wire Transfer,eBay,Clothing,Nairobi,Tablet,Amex,Failed,Y,X
+EUR,Cash,Shopify,Groceries,New York,PC,MasterCard,Failed,No,X
+UGX,BitCoin,eBay,Gadgets,Kampala,PC,Amex,In Progress,No,X
+UGX,Cash,eBay,Groceries,Kampala,POS,Discover,Success,Maybe,Other
+UGX,Cash,Jumia,Groceries,Cairo,PC,BitcoinCard,Failed,Maybe,Male
+1234,Cash,Amazon,Gadgets,London,Tablet,MasterCard,Failed,Y,Female
+KES,Wire Transfer,Jumia,XYZ,Kampala,PC,MasterCard,Failed,1,Female
+UGX,Debit Card,AliExpress,Groceries,Cairo,ATM,BitcoinCard,Failed,No,Other
+KES,CryptoPay,Jumia,Groceries,Cairo,Mobile,Amex,Pending,Maybe,X
+1234,Wire Transfer,AliExpress,Electronics,Cairo,Mobile,BitcoinCard,In Progress,Y,X
+UGX,Credit Card,Shopify,XYZ,Kampala,POS,Amex,Success,Maybe,Male
+KES,Credit Card,Shopify,Groceries,New York,POS,Discover,Pending,Maybe,Other
+1234,Debit Card,eBay,Groceries,London,Mobile,MasterCard,Failed,Y,Female
+1234,CryptoPay,Shopify,XYZ,Kampala,ATM,Visa,Failed,Y,Other
+1234,Cash,Shopify,Gadgets,Unknown,PC,BitcoinCard,Success,0,X
+EUR,Credit Card,Jumia,Groceries,Cairo,PC,BitcoinCard,Pending,Maybe,Female
+EUR,Wire Transfer,eBay,Gadgets,Unknown,ATM,BitcoinCard,Pending,Maybe,X
+1234,Credit Card,Jumia,XYZ,London,ATM,Amex,Pending,N,Other
+1234,Credit Card,Shopify,Electronics,New York,Tablet,BitcoinCard,Failed,Maybe,Male
+KES,Wire Transfer,eBay,Electronics,Cairo,Tablet,Discover,Failed,Y,X
+1234,Debit Card,Jumia,Electronics,Kampala,Tablet,MasterCard,Pending,Maybe,X
+1234,Credit Card,Jumia,Gadgets,Kampala,POS,BitcoinCard,In Progress,Maybe,X
+1234,Debit Card,Shopify,Clothing,Cairo,Tablet,Visa,Success,Y,Male
+1234,Debit Card,Shopify,XYZ,Cairo,Tablet,Visa,Failed,No,Female
+UGX,Cash,Amazon,XYZ,Cairo,PC,MasterCard,Failed,1,Other
+1234,Cash,Jumia,Groceries,London,PC,Visa,Success,Yes,Female
+USD,Credit Card,AliExpress,Clothing,Cairo,Mobile,BitcoinCard,In Progress,Yes,Other
+1234,Debit Card,Amazon,Groceries,Unknown,PC,BitcoinCard,In Progress,Maybe,Female
+EUR,Debit Card,Shopify,Gadgets,Nairobi,PC,Amex,Success,Y,Other
+KES,Credit Card,Shopify,Groceries,Unknown,Desktop,BitcoinCard,Success,No,Female
+1234,Debit Card,Jumia,Groceries,Cairo,PC,Discover,Success,0,Female
+1234,Debit Card,Shopify,Clothing,Nairobi,PC,Amex,Failed,Maybe,Male
+UGX,Credit Card,AliExpress,Gadgets,New York,POS,BitcoinCard,Pending,Maybe,X
+EUR,CryptoPay,AliExpress,Electronics,London,Mobile,BitcoinCard,Failed,Maybe,X
+1234,Debit Card,Shopify,Gadgets,Cairo,Desktop,BitcoinCard,Failed,1,Other
+UGX,Wire Transfer,Amazon,Electronics,Cairo,PC,BitcoinCard,Success,Maybe,Other
+1234,Cash,Shopify,Clothing,London,PC,BitcoinCard,Pending,Maybe,X
+USD,BitCoin,Jumia,Groceries,New York,ATM,BitcoinCard,Failed,Y,Female
+EUR,Cash,AliExpress,Groceries,Cairo,PC,MasterCard,Failed,1,Male
+EUR,Wire Transfer,eBay,Electronics,Cairo,Desktop,Discover,Failed,1,X
+1234,Cash,Shopify,Clothing,Kampala,PC,BitcoinCard,Pending,0,Other
+USD,CryptoPay,eBay,Groceries,New York,Tablet,BitcoinCard,Pending,0,Male
+EUR,Debit Card,eBay,XYZ,Kampala,PC,BitcoinCard,Success,Yes,Other
+UGX,Debit Card,Shopify,Groceries,Cairo,Desktop,BitcoinCard,Success,Yes,X
+1234,Debit Card,Amazon,Groceries,Unknown,POS,BitcoinCard,Failed,Y,X
+1234,Credit Card,Jumia,XYZ,New York,Tablet,MasterCard,Pending,1,X
+1234,BitCoin,Shopify,Groceries,Unknown,ATM,BitcoinCard,Success,Maybe,Female
+1234,Wire Transfer,Amazon,XYZ,New York,Mobile,Discover,Success,Y,X
+USD,Debit Card,Shopify,XYZ,London,PC,BitcoinCard,In Progress,0,Female
+1234,Credit Card,eBay,Gadgets,London,Mobile,Visa,Pending,Maybe,Other
+1234,BitCoin,Shopify,Electronics,New York,PC,BitcoinCard,Success,N,Female
+1234,Wire Transfer,eBay,Groceries,Cairo,Mobile,MasterCard,Pending,Maybe,X
+USD,Debit Card,Jumia,Groceries,Unknown,Desktop,BitcoinCard,In Progress,No,X
+EUR,Debit Card,Shopify,Groceries,Cairo,PC,MasterCard,Pending,No,Other
+KES,Debit Card,eBay,Groceries,Cairo,Mobile,BitcoinCard,In Progress,Maybe,Male
+KES,CryptoPay,Shopify,Clothing,Cairo,PC,Discover,Pending,Maybe,Male
+UGX,Debit Card,Jumia,Electronics,Cairo,PC,Amex,In Progress,Maybe,X
+KES,BitCoin,Jumia,Groceries,Cairo,Mobile,BitcoinCard,In Progress,Yes,X
+EUR,Cash,Jumia,Clothing,London,Mobile,Amex,Failed,Y,Female
+KES,Debit Card,AliExpress,Electronics,Nairobi,PC,BitcoinCard,Failed,N,X
+1234,Debit Card,AliExpress,Groceries,Cairo,POS,Discover,Pending,1,Male
