@@ -1,2 +1,2 @@
-# Finance-Fraud
+# FInance-Fraud
 GROUP J EVE
