@@ -1,0 +1,1051 @@
+TransactionID,TransactionDate,CustomerID,Amount,Currency,PaymentMethod,MerchantName,MerchantCategory,Location,DeviceType,CardType,TransactionStatus,IsFraud,CustomerAge,CustomerGender
+308757,2024-04-21,,,UGX,BitCoin,Amazon,Gadgets,Cairo,ATM,Visa,Success,0,NA,Female
+455081,2024-05-16,CUST550,1042.55,1234,Wire Transfer,Jumia,Groceries,New York,POS,MasterCard,Success,0,NA,X
+309991,2024-01-05,,NA,EUR,BitCoin,,XYZ,Cairo,POS,Amex,Failed,1,,Other
+723861,2024-01-02,,2964.64,EUR,Credit Card,AliExpress,Clothing,Nairobi,Tablet,Amex,,Y,39,Female
+985029,2024-04-11,CUST144,,1234,,,Groceries,Nairobi,Desktop,MasterCard,Failed,Yes,46,X
+523927,32-13-2024,CUST303,,USD,Debit Card,Jumia,Groceries,New York,Mobile,,Success,N,,
+228725,2024-01-04,CUST390,NA,,Debit Card,eBay,Electronics,Nairobi,Mobile,BitcoinCard,Success,1,,Female
+344181,2024-02-13,,,KES,BitCoin,,,Unknown,Desktop,BitcoinCard,In Progress,Yes,NA,Male
+978821,2024-06-16,CUST836,NA,UGX,Wire Transfer,AliExpress,Clothing,Cairo,PC,BitcoinCard,,N,,Male
+545334,2024-05-02,,NA,USD,Credit Card,AliExpress,Clothing,,Mobile,BitcoinCard,In Progress,Yes,,Other
+860427,2024-04-27,CUST351,Five Thousand,USD,Debit Card,Amazon,Clothing,,Tablet,MasterCard,,No,,Male
+623354,2024-06-26,CUST300,,,Wire Transfer,Amazon,Gadgets,Cairo,,,,Yes,,Other
+392047,2024-04-13,,,KES,BitCoin,Shopify,,,ATM,Discover,Success,0,NA,Female
+901968,2024-06-17,CUST203,4368.18,,Wire Transfer,eBay,,London,PC,BitcoinCard,Success,,NA,Other
+848152,2024-06-03,,NA,EUR,CryptoPay,eBay,,,Mobile,Visa,Success,,,Female
+903180,2024-05-04,,NA,USD,Wire Transfer,Shopify,Gadgets,New York,Desktop,MasterCard,,,Eighteen,X
+710185,2024-03-18,CUST770,2677.63,UGX,Wire Transfer,eBay,Clothing,Cairo,ATM,Visa,In Progress,0,63,Female
+722487,2024-06-07,CUST446,,1234,CryptoPay,eBay,,Unknown,Desktop,Amex,Failed,,64,X
+386232,2024-06-06,,,,Debit Card,Shopify,,London,,,Success,1,,Male
+893041,2024-04-02,,,EUR,BitCoin,eBay,XYZ,London,ATM,BitcoinCard,Success,No,,Other
+927843,2024-06-25,,,UGX,CryptoPay,,Gadgets,Nairobi,Mobile,Discover,Failed,Possible,,X
+939892,2024-06-21,CUST776,1629.93,1234,Wire Transfer,Shopify,XYZ,Unknown,Mobile,BitcoinCard,In Progress,,,Female
+775105,2024-06-25,,3133.52,USD,Cash,Shopify,Groceries,Cairo,,Amex,Pending,0,NA,
+519677,2024-06-21,,NA,EUR,CryptoPay,AliExpress,XYZ,New York,ATM,Visa,Success,0,NA,X
+473395,2024-04-11,,,UGX,Cash,eBay,Clothing,Cairo,PC,Discover,Success,1,,Female
+,2024-03-18,CUST247,891.91,Money,CryptoPay,eBay,Electronics,New York,Tablet,MasterCard,Success,,NA,X
+799061,2024-01-23,CUST913,2691.57,KES,Wire Transfer,Jumia,XYZ,Cairo,POS,MasterCard,,Y,,X
+732464,2024-02-02,,,,Debit Card,Amazon,Clothing,,,Visa,In Progress,N,,Male
+524089,2024-02-04,,,1234,CryptoPay,eBay,Gadgets,New York,Tablet,,Success,1,18,Male
+608069,2024-01-04,,NA,UGX,,Jumia,Electronics,Cairo,PC,Amex,In Progress,,,
+636256,2024-02-18,,NA,UGX,CryptoPay,eBay,Electronics,Nairobi,ATM,,Pending,No,NA,
+392438,2024-01-29,CUST751,NA,,Debit Card,Shopify,Clothing,London,Tablet,Discover,Success,Y,,X
+254532,2024-01-05,,,KES,Debit Card,Amazon,Gadgets,New York,POS,Amex,Pending,1,,
+905305,2024-06-27,CUST701,NA,UGX,BitCoin,,Gadgets,New York,POS,,In Progress,,33,Female
+576719,2024-02-18,,,,Wire Transfer,,Gadgets,Kampala,,Amex,Success,,,
+213284,2024-01-07,CUST401,,,,AliExpress,Gadgets,Unknown,PC,BitcoinCard,Pending,Yes,,
+228125,2024-02-23,CUST435,NA,1234,Cash,,Clothing,,,MasterCard,Success,No,,Female
+362867,2024-05-03,,NA,1234,Wire Transfer,eBay,Electronics,Unknown,Tablet,,,Yes,,Female
+613111,2024-06-15,,,EUR,CryptoPay,eBay,,Unknown,,Discover,,Maybe,22,Female
+621429,2024-02-07,CUST993,NA,USD,Debit Card,Shopify,XYZ,New York,,,Failed,Yes,,X
+342034,2024-06-15,,3241.35,,Credit Card,eBay,Groceries,Cairo,Tablet,BitcoinCard,In Progress,No,53,Female
+758894,2024-03-02,,NA,EUR,,,Gadgets,Cairo,POS,BitcoinCard,Failed,Maybe,23,X
+241147,2024-04-21,,NA,USD,Debit Card,Jumia,,Unknown,Desktop,BitcoinCard,In Progress,No,,X
+131167,2024-06-09,,356.58,1234,BitCoin,Jumia,,Nairobi,,Amex,,Yes,NA,
+204441,2024-05-17,,,EUR,Wire Transfer,Amazon,Clothing,Kampala,,Visa,,N,47,Female
+873637,2024-02-18,CUST729,,UGX,Debit Card,,Gadgets,London,PC,Discover,Failed,Yes,70,Female
+155419,2024-01-23,,,EUR,BitCoin,Amazon,Electronics,Cairo,,Discover,Success,,NA,
+970645,2024-03-18,,3636.56,UGX,Credit Card,AliExpress,Gadgets,New York,POS,BitcoinCard,Pending,Maybe,45,
+171542,2024-04-28,,,,Wire Transfer,Jumia,XYZ,Nairobi,POS,MasterCard,Failed,N,65,Male
+622332,2024-02-07,,1926.11,USD,Wire Transfer,AliExpress,,Nairobi,,,Pending,No,,X
+811047,2024-05-01,,4134.55,EUR,CryptoPay,Amazon,Groceries,London,Tablet,Amex,Pending,,,Other
+128048,2024-04-18,,669.57,,BitCoin,,Groceries,,PC,Visa,Success,,NA,Male
+287795,2024-01-06,,1345.61,,CryptoPay,AliExpress,Electronics,Unknown,POS,Amex,,1,30,X
+501219,2024-01-30,,3964.08,1234,,Shopify,Groceries,,PC,Amex,,No,,
+733952,2024-02-12,,4788.51,KES,BitCoin,eBay,Electronics,Cairo,Desktop,Discover,,,,Female
+812197,2024-02-09,,,UGX,Cash,,Clothing,Kampala,Desktop,MasterCard,In Progress,Y,,
+442838,2024-06-28,,4265.07,,Cash,Shopify,Clothing,London,PC,BitcoinCard,Pending,,61,
+260155,2024-04-23,,,,BitCoin,Jumia,,Cairo,Mobile,Amex,,Maybe,,Male
+417459,2024-05-04,,,,Debit Card,Amazon,Groceries,New York,ATM,Discover,Failed,Yes,34,Female
+752179,2024-04-30,CUST765,,UGX,Wire Transfer,AliExpress,XYZ,New York,ATM,MasterCard,Success,Maybe,,
+753506,2024-01-06,CUST312,NA,1234,CryptoPay,,Gadgets,Unknown,Tablet,Discover,,Yes,,X
+201013,2024-04-25,,,,Debit Card,AliExpress,Clothing,Kampala,Tablet,BitcoinCard,Failed,Maybe,,Other
+897097,2024-05-29,CUST983,3141.15,1234,BitCoin,Shopify,Electronics,London,POS,Visa,,No,NA,Male
+,2024-03-03,CUST505,115.83,KES,,eBay,XYZ,,Tablet,,,0,,Male
+793193,2024-02-21,,,EUR,BitCoin,Amazon,Clothing,Unknown,ATM,Visa,Failed,,NA,Male
+888119,2024-03-16,,,EUR,Wire Transfer,,XYZ,,,Visa,In Progress,No,,Female
+645205,2024-05-25,,NA,USD,BitCoin,Jumia,Groceries,New York,ATM,BitcoinCard,Failed,Y,,Female
+904857,2024-04-10,,,EUR,Wire Transfer,Jumia,Groceries,London,Mobile,MasterCard,Pending,Yes,,X
+616096,2024-01-14,CUST186,,EUR,Cash,Amazon,XYZ,Cairo,POS,MasterCard,Success,No,67,Female
+931239,2024-03-26,CUST869,NA,USD,,Shopify,Electronics,New York,Tablet,Discover,In Progress,0,44,Female
+588659,2024-01-03,,,,Cash,Jumia,Groceries,London,PC,,Success,Yes,NA,Female
+,2024-01-27,,3436.96,EUR,CryptoPay,Amazon,,Kampala,PC,MasterCard,,,NA,X
+407823,2024-06-10,,2464.18,EUR,Debit Card,,Gadgets,Cairo,Tablet,Discover,,No,,Female
+794255,2024-04-20,,,EUR,,Shopify,Electronics,Nairobi,Mobile,Discover,,N,69,Male
+622084,2024-04-16,,,KES,BitCoin,Shopify,,Unknown,PC,BitcoinCard,Success,Maybe,31,X
+614064,2024-05-06,,600.57,USD,Cash,AliExpress,,London,Desktop,,Failed,Yes,,X
+629315,2024-05-28,,NA,UGX,Debit Card,eBay,Gadgets,Cairo,POS,Visa,In Progress,,39,Female
+374375,2024-06-01,,,USD,Cash,,Clothing,,Desktop,Visa,In Progress,,,Other
+668787,2024-05-21,,,USD,Cash,,Groceries,London,PC,,Success,No,,Female
+460307,2024-03-15,,,EUR,Credit Card,Shopify,Groceries,Unknown,PC,BitcoinCard,Pending,N,NA,
+948802,2024-01-10,CUST491,,,CryptoPay,Jumia,Clothing,Unknown,Desktop,Discover,Success,Yes,,X
+666785,2024-05-04,,1748.44,KES,Credit Card,eBay,,New York,Desktop,,,,NA,Male
+673172,2024-04-12,,,KES,Wire Transfer,AliExpress,Groceries,Nairobi,ATM,MasterCard,In Progress,N,,X
+118528,2024-05-04,CUST760,,1234,Debit Card,Amazon,,London,Desktop,MasterCard,In Progress,0,,
+901075,2024-05-11,CUST467,4055.49,KES,Wire Transfer,Amazon,Electronics,New York,Mobile,,,No,NA,Other
+133133,2024-05-31,,NA,UGX,Debit Card,,Gadgets,Unknown,,MasterCard,Success,Yes,NA,Male
+551313,2024-06-05,,NA,UGX,Debit Card,AliExpress,Groceries,London,POS,MasterCard,Failed,1,44,
+224921,2024-06-22,CUST759,,,Debit Card,AliExpress,Clothing,Cairo,POS,Amex,Failed,0,,
+502265,2024-05-04,,,USD,Wire Transfer,Jumia,Electronics,Kampala,Tablet,Visa,Failed,Maybe,,
+571980,2024-02-29,CUST333,4075.1,EUR,BitCoin,eBay,XYZ,Cairo,ATM,Visa,,1,,
+429839,2024-01-16,CUST221,,,,,Clothing,Nairobi,,Amex,Failed,,NA,Male
+994303,2024-05-15,CUST468,,KES,CryptoPay,Shopify,XYZ,,ATM,Visa,Success,1,NA,Male
+494617,2024-01-05,CUST659,NA,KES,,,Groceries,Kampala,ATM,BitcoinCard,Failed,N,,
+564053,2024-04-18,CUST441,,KES,Credit Card,Shopify,Groceries,New York,POS,Discover,Pending,,NA,Other
+581984,2024-05-27,,,1234,CryptoPay,Shopify,Gadgets,Nairobi,Tablet,Visa,Pending,Y,,X
+137728,2024-03-21,,,KES,Debit Card,Amazon,Gadgets,London,Tablet,Amex,Failed,No,,Female
+134455,2024-05-21,,,UGX,Wire Transfer,,Groceries,Nairobi,Mobile,,Failed,N,NA,Male
+285460,2024-01-17,,NA,UGX,Cash,Amazon,Electronics,Cairo,Desktop,BitcoinCard,Pending,Yes,,X
+683707,2024-03-09,,,,Cash,Jumia,Groceries,New York,Desktop,Discover,,Yes,NA,X
+791442,2024-06-14,CUST718,,UGX,BitCoin,,XYZ,Unknown,POS,MasterCard,Success,,52,Male
+917241,2024-04-16,,NA,,CryptoPay,,XYZ,Kampala,ATM,Visa,,Y,,Other
+417765,2024-05-01,,,USD,Credit Card,Jumia,Gadgets,,,Amex,In Progress,0,,Female
+840356,2024-01-30,CUST367,NA,,,Jumia,,New York,Mobile,MasterCard,Success,Maybe,,Male
+272117,2024-05-06,,NA,EUR,CryptoPay,,Electronics,Kampala,PC,BitcoinCard,,Maybe,35,X
+615353,2024-06-08,,NA,EUR,,AliExpress,Groceries,Cairo,Tablet,Visa,Success,0,,Female
+,2024-06-14,,4969.59,1234,,Jumia,,Cairo,Mobile,Visa,Failed,,,
+241021,2024-03-29,,,UGX,,Shopify,Electronics,Kampala,ATM,Amex,Failed,,40,X
+427637,2024-04-24,,4788.5,1234,,,Clothing,New York,ATM,BitcoinCard,Success,,,
+850490,2024-06-27,,,EUR,BitCoin,Jumia,,Cairo,PC,BitcoinCard,Success,1,NA,
+507980,2024-04-21,,NA,KES,Debit Card,Jumia,Electronics,,ATM,,In Progress,,NA,Male
+611133,2024-01-06,,NA,,CryptoPay,Amazon,XYZ,Unknown,Desktop,,Failed,Yes,64,
+901123,2024-02-11,,,KES,Debit Card,Amazon,,,ATM,MasterCard,Success,N,56,X
+214695,2024-03-14,CUST333,NA,KES,Wire Transfer,Amazon,Electronics,Unknown,ATM,Visa,,No,,Male
+696487,2024-02-19,,NA,1234,CryptoPay,,Groceries,Kampala,Mobile,Discover,Success,Maybe,,Other
+807814,2024-04-30,,NA,UGX,Credit Card,Shopify,Gadgets,,Tablet,,Failed,Yes,24,X
+614382,2024-03-29,,1893.53,1234,Cash,eBay,Clothing,Cairo,Tablet,Amex,,0,,
+792142,2024-04-22,,,USD,CryptoPay,AliExpress,Gadgets,New York,Mobile,BitcoinCard,Failed,N,64,X
+680684,2024-02-29,,1864.7,,Credit Card,Shopify,Gadgets,Nairobi,Tablet,MasterCard,In Progress,N,60,X
+818666,2024-05-09,,3317.11,KES,Wire Transfer,eBay,Gadgets,Kampala,Desktop,,Pending,,32,Female
+665593,2024-02-26,CUST448,NA,1234,BitCoin,AliExpress,Electronics,Kampala,ATM,,Failed,Y,23,X
+700005,2024-05-30,CUST420,,UGX,Credit Card,Shopify,XYZ,Nairobi,ATM,,,,,Other
+592640,2024-06-24,,NA,EUR,Wire Transfer,,XYZ,,ATM,Visa,,1,24,Other
+599028,,CUST527,,USD,BitCoin,Jumia,Groceries,Unknown,POS,Discover,In Progress,,,
+689567,2024-06-03,,NA,UGX,BitCoin,Amazon,XYZ,London,Desktop,MasterCard,In Progress,,,Female
+995852,2024-06-17,,NA,KES,,,Gadgets,,ATM,Discover,Pending,,,Male
+263903,2024-04-29,,,1234,CryptoPay,Shopify,Groceries,Cairo,ATM,Amex,,Y,,Female
+631297,2024-02-03,,,UGX,BitCoin,AliExpress,Groceries,Kampala,PC,Visa,Success,No,NA,
+158444,2024-03-16,CUST994,2225.43,1234,,AliExpress,,Unknown,Desktop,Visa,Failed,0,28,
+510396,2024-04-09,,NA,KES,Credit Card,AliExpress,Gadgets,Cairo,Tablet,BitcoinCard,Failed,No,,Other
+376185,2024-04-16,,309.4,EUR,,Shopify,Gadgets,,Desktop,BitcoinCard,,Maybe,,
+618721,2024-06-21,,NA,,Credit Card,AliExpress,XYZ,Unknown,POS,MasterCard,Success,N,,X
+719755,2024-06-16,,2521.44,,Cash,AliExpress,Groceries,New York,PC,BitcoinCard,In Progress,Y,62,
+496149,2024-04-02,CUST447,,EUR,BitCoin,,Clothing,New York,Desktop,Amex,Pending,,NA,Female
+746908,2024-04-30,,,KES,BitCoin,Shopify,Groceries,Kampala,Tablet,Visa,Pending,Yes,18,X
+809348,2024-02-11,,,UGX,Debit Card,Amazon,XYZ,Kampala,Desktop,Discover,Pending,Yes,NA,Other
+469899,2024-06-08,,,EUR,Debit Card,AliExpress,Groceries,Kampala,POS,,In Progress,Yes,,X
+903702,2024-02-23,,,1234,Wire Transfer,Amazon,,Unknown,Tablet,Amex,Success,1,,Male
+398254,2024-03-13,,,USD,,AliExpress,Clothing,London,POS,Amex,Failed,,21,Female
+436050,2024-06-25,,,EUR,CryptoPay,,Gadgets,London,ATM,Discover,In Progress,,,Other
+164407,2024-01-23,CUST904,NA,KES,Debit Card,Amazon,Groceries,New York,PC,BitcoinCard,Pending,,66,
+129514,2024-06-19,CUST242,,UGX,CryptoPay,AliExpress,,Cairo,Mobile,,Success,No,,Female
+719145,2024-05-03,,NA,,CryptoPay,Amazon,Electronics,Cairo,Mobile,MasterCard,Failed,1,,Other
+147310,2024-02-03,,1967.53,EUR,,Amazon,Gadgets,Nairobi,Mobile,Visa,,0,NA,X
+234425,2024-02-14,,,USD,Debit Card,eBay,XYZ,,Mobile,,Pending,Yes,,X
+977589,2024-02-21,,,,Debit Card,Jumia,Electronics,Unknown,PC,Visa,In Progress,No,,X
+484208,2024-02-10,CUST490,NA,UGX,CryptoPay,AliExpress,XYZ,Cairo,,,Success,No,,X
+465823,2024-06-04,CUST500,,UGX,CryptoPay,,Groceries,New York,Mobile,BitcoinCard,Success,Yes,36,Female
+948878,2024-05-05,,NA,USD,Cash,,,Unknown,Desktop,Visa,,,49,Other
+878103,2024-01-26,,1356.9,UGX,Debit Card,AliExpress,Electronics,London,POS,,Pending,,,Other
+712333,2024-04-16,,,UGX,Credit Card,Shopify,Electronics,Unknown,ATM,Amex,Pending,,NA,Female
+128206,2024-05-06,,,,BitCoin,Shopify,Clothing,Nairobi,ATM,MasterCard,Success,No,,X
+902364,2024-03-18,,822.17,USD,Wire Transfer,,Electronics,Unknown,Mobile,MasterCard,Failed,1,56,Other
+755520,2024-03-01,CUST195,335.94,,BitCoin,,Clothing,London,PC,MasterCard,,Yes,,
+457833,2024-02-23,,,UGX,Wire Transfer,Amazon,Electronics,New York,PC,MasterCard,Failed,Yes,59,Male
+499060,2024-05-22,CUST666,NA,USD,Credit Card,Jumia,Clothing,Cairo,,,Pending,1,32,
+202078,2024-01-13,,3195.56,1234,CryptoPay,,Groceries,Cairo,,Visa,Success,N,21,Other
+548945,2024-01-05,,1209.27,UGX,Debit Card,Shopify,Electronics,New York,Desktop,,,Maybe,,Female
+461908,2024-04-01,CUST127,4883.55,1234,CryptoPay,Shopify,Clothing,Nairobi,Mobile,MasterCard,,Maybe,NA,X
+474725,2024-03-07,CUST303,,KES,,AliExpress,,Cairo,Mobile,MasterCard,In Progress,No,37,X
+531939,2024-04-01,,,KES,Credit Card,AliExpress,Clothing,London,ATM,MasterCard,Success,1,31,Male
+468332,2024-06-22,CUST310,,USD,Debit Card,Amazon,Electronics,Unknown,Desktop,MasterCard,Failed,Yes,,
+159191,2024-02-10,,,1234,BitCoin,Shopify,Electronics,Cairo,Mobile,MasterCard,,0,NA,Other
+793360,2024-02-14,CUST636,,1234,Wire Transfer,,Electronics,New York,Desktop,Amex,,N,NA,
+356092,2024-05-08,CUST565,,UGX,Credit Card,,XYZ,New York,Tablet,Discover,In Progress,No,45,Female
+359642,2024-01-09,,,UGX,Debit Card,Shopify,Electronics,New York,PC,Visa,Failed,0,,X
+346019,2024-01-17,CUST111,4869.52,1234,Debit Card,,XYZ,Nairobi,Tablet,,Failed,Y,22,
+779564,2024-03-27,,1663.28,USD,Debit Card,Amazon,Groceries,Unknown,,Discover,Success,Yes,,
+427260,2024-04-20,CUST500,NA,,BitCoin,eBay,,Nairobi,,MasterCard,Success,1,58,X
+721314,2024-01-30,,,USD,,AliExpress,Electronics,Cairo,PC,BitcoinCard,Failed,Maybe,,Other
+189067,2024-06-07,,2390.0,1234,BitCoin,eBay,Clothing,Cairo,,MasterCard,Success,Yes,NA,Male
+821411,2024-02-28,,NA,KES,Cash,Amazon,,London,Tablet,Visa,,1,,
+168681,2024-01-31,,3415.05,,Cash,,XYZ,Kampala,,Visa,In Progress,,NA,X
+419723,2024-05-23,CUST986,4427.17,1234,Credit Card,Jumia,Gadgets,Kampala,POS,,In Progress,,,X
+220031,2024-02-27,CUST233,NA,KES,BitCoin,Amazon,XYZ,New York,Mobile,,Failed,Maybe,27,
+453993,2024-05-04,,NA,KES,,Jumia,Groceries,New York,Mobile,MasterCard,Success,,,
+278026,2024-03-07,,NA,EUR,Credit Card,Shopify,XYZ,Kampala,Desktop,Amex,Failed,N,22,Male
+120669,2024-03-28,,,KES,Wire Transfer,Amazon,Electronics,New York,Tablet,,Pending,No,,X
+664570,2024-03-31,,NA,1234,,,,London,Tablet,Amex,In Progress,N,49,Male
+441958,2024-01-12,,,1234,CryptoPay,Shopify,Electronics,Kampala,Mobile,,,,59,X
+139193,2024-05-22,CUST701,,,Credit Card,Jumia,Electronics,Unknown,Mobile,Discover,Failed,,,X
+583298,2024-03-09,,,USD,Debit Card,Jumia,XYZ,Kampala,POS,MasterCard,In Progress,No,70,
+789719,2024-02-08,,1203.16,USD,Cash,,Clothing,Cairo,Mobile,,In Progress,,,Other
+542995,2024-06-25,CUST382,,UGX,Credit Card,Jumia,Clothing,Unknown,Mobile,Visa,Pending,,,
+695642,2024-05-11,CUST107,496.06,USD,Cash,Jumia,XYZ,London,POS,MasterCard,,Maybe,,Other
+639764,2024-06-03,CUST556,,,Credit Card,eBay,Electronics,Nairobi,Mobile,Discover,In Progress,1,NA,X
+541631,2024-06-20,,2740.21,1234,Cash,Jumia,Clothing,London,PC,Discover,,No,,Other
+379570,2024-01-27,,,EUR,Debit Card,Shopify,Electronics,Nairobi,Desktop,Visa,Failed,,NA,X
+121393,2024-06-29,,,1234,Credit Card,Amazon,XYZ,Cairo,PC,MasterCard,,,NA,X
+829765,2024-01-13,,,1234,BitCoin,Jumia,Electronics,New York,Desktop,Amex,Failed,No,NA,Other
+592516,2024-04-22,,,EUR,BitCoin,Shopify,Electronics,,ATM,Visa,In Progress,Y,,
+716551,2024-04-27,CUST689,NA,EUR,Debit Card,,Gadgets,Unknown,PC,,Failed,N,,Other
+123316,2024-01-29,CUST854,,USD,BitCoin,,XYZ,Kampala,ATM,MasterCard,Success,,32,Male
+431889,2024-01-28,,,KES,Cash,Jumia,Clothing,London,Mobile,,In Progress,1,,X
+496086,2024-06-05,,,USD,Wire Transfer,eBay,Clothing,Cairo,Tablet,Discover,Failed,Yes,,Female
+698059,2024-06-05,,NA,USD,BitCoin,eBay,Electronics,New York,POS,Visa,In Progress,,NA,X
+509260,2024-01-27,,,KES,Credit Card,AliExpress,XYZ,London,Tablet,Visa,Pending,,,X
+438083,2024-05-23,,,1234,BitCoin,AliExpress,Electronics,New York,POS,MasterCard,,1,NA,Other
+700350,2024-01-11,CUST943,NA,1234,Cash,,Gadgets,Kampala,PC,MasterCard,Success,N,,Male
+202472,2024-05-09,CUST525,,USD,,Jumia,Groceries,Kampala,POS,Visa,Pending,N,18,
+947591,2024-01-27,,,UGX,Credit Card,,XYZ,Kampala,Mobile,MasterCard,Failed,Y,NA,
+612081,2024-02-12,,,USD,CryptoPay,Shopify,,Nairobi,PC,Discover,In Progress,0,,Female
+204917,2024-06-10,,4388.27,,Cash,Jumia,Clothing,Kampala,POS,Visa,,,NA,Other
+824423,2024-01-31,CUST774,3106.86,UGX,,eBay,Gadgets,Unknown,Tablet,Discover,Success,Y,NA,
+807905,2024-02-22,,NA,EUR,CryptoPay,Shopify,Clothing,Unknown,Desktop,MasterCard,,N,36,X
+315910,2024-04-02,,3501.73,1234,Debit Card,Amazon,XYZ,Cairo,Mobile,,In Progress,Maybe,,Other
+452287,2024-02-10,CUST815,781.27,,BitCoin,Jumia,Gadgets,New York,ATM,MasterCard,In Progress,1,29,Female
+620860,2024-03-15,CUST345,NA,1234,,Jumia,,Nairobi,POS,Amex,,No,NA,
+627191,2024-04-23,,2854.97,USD,CryptoPay,AliExpress,XYZ,New York,PC,,,,NA,X
+950874,2024-05-09,,,UGX,BitCoin,AliExpress,Clothing,London,Tablet,BitcoinCard,Success,Yes,NA,X
+902059,2024-05-07,CUST782,,1234,,,Gadgets,,Desktop,,,No,,X
+799806,2024-01-26,,,UGX,Cash,eBay,Groceries,New York,,BitcoinCard,,1,24,Male
+456032,2024-02-09,CUST839,NA,1234,Credit Card,Jumia,XYZ,New York,PC,,Success,Y,18,
+274721,2024-06-14,,,EUR,Wire Transfer,Jumia,XYZ,London,,BitcoinCard,,,54,Other
+744693,2024-04-03,,NA,,,Amazon,,Unknown,POS,BitcoinCard,,Y,,X
+414070,2024-03-26,,2013.59,1234,Cash,,Electronics,Nairobi,Mobile,BitcoinCard,Failed,Yes,61,X
+480983,2024-02-05,CUST178,,UGX,BitCoin,Amazon,Gadgets,London,ATM,Amex,,N,NA,Male
+557169,2024-02-01,,,,Wire Transfer,,Clothing,London,POS,Discover,In Progress,,,Other
+311559,2024-02-21,,,USD,Cash,Shopify,,New York,,MasterCard,Failed,Yes,,Other
+621091,2024-04-22,,NA,1234,CryptoPay,Jumia,Electronics,Nairobi,,BitcoinCard,Success,Maybe,33,Other
+766311,2024-04-16,,NA,KES,Debit Card,AliExpress,Electronics,,Tablet,BitcoinCard,Pending,,27,Male
+988494,2024-01-02,,,KES,Wire Transfer,Shopify,Clothing,,Mobile,,Success,Maybe,,X
+925386,2024-03-03,CUST127,,1234,BitCoin,,Clothing,Nairobi,ATM,BitcoinCard,,Y,,Female
+178979,2024-05-01,,,1234,Cash,eBay,Groceries,Kampala,PC,MasterCard,In Progress,No,NA,X
+981202,2024-03-28,,,USD,BitCoin,Shopify,Clothing,,Tablet,Discover,Failed,No,57,
+991640,2024-03-14,,NA,USD,Wire Transfer,eBay,,Cairo,,Discover,Success,,,Male
+661862,2024-05-09,,,EUR,CryptoPay,Jumia,,,Desktop,MasterCard,Failed,Yes,,Other
+324479,2024-02-13,CUST508,NA,,,,Clothing,Kampala,,BitcoinCard,Failed,Y,,Female
+401314,2024-01-22,CUST506,427.12,EUR,Wire Transfer,Shopify,XYZ,Kampala,,Discover,Failed,Yes,NA,Male
+378035,2024-03-09,,1376.79,1234,,Jumia,Electronics,Unknown,PC,Amex,Pending,1,NA,Male
+149840,2024-04-05,,,UGX,BitCoin,Jumia,,Cairo,ATM,Amex,Pending,No,,Female
+411762,2024-04-16,,NA,USD,Debit Card,Shopify,Electronics,Cairo,Tablet,Amex,Failed,Maybe,NA,
+701380,2024-04-02,,,EUR,Wire Transfer,Jumia,Clothing,Cairo,POS,BitcoinCard,Success,No,43,Female
+521556,2024-06-10,,928.55,KES,Wire Transfer,eBay,Clothing,Kampala,Tablet,MasterCard,,N,NA,
+943687,2024-06-19,CUST572,,USD,CryptoPay,eBay,Groceries,New York,Tablet,,Pending,0,NA,Male
+336858,2024-03-03,,,UGX,BitCoin,Jumia,Clothing,Kampala,,Visa,Success,Maybe,69,
+754911,2024-02-08,CUST772,,,BitCoin,Amazon,Clothing,Cairo,,MasterCard,Pending,Maybe,NA,
+878974,2024-05-15,,,EUR,Wire Transfer,Amazon,Gadgets,London,PC,Discover,In Progress,,,Other
+196424,2024-04-17,,NA,1234,CryptoPay,eBay,XYZ,Unknown,ATM,Amex,,Y,NA,X
+852570,2024-02-28,,,,Cash,AliExpress,,Unknown,ATM,Discover,Success,No,,X
+985194,2024-02-05,CUST961,,KES,Credit Card,Jumia,Groceries,London,PC,BitcoinCard,Pending,No,,Male
+706279,2024-04-19,CUST274,NA,EUR,,AliExpress,,,Desktop,Discover,,,NA,Male
+199335,2024-04-15,CUST721,NA,1234,Debit Card,,Gadgets,,PC,Visa,In Progress,Yes,,X
+720615,2024-04-14,,,1234,Cash,,,New York,PC,BitcoinCard,Failed,Maybe,25,Female
+453200,2024-04-27,,,USD,Credit Card,AliExpress,XYZ,Kampala,Tablet,Visa,Success,Maybe,,Other
+386643,2024-05-12,,,UGX,Wire Transfer,Jumia,Groceries,Unknown,,,In Progress,1,NA,X
+,2024-06-23,CUST272,4322.86,UGX,BitCoin,AliExpress,Clothing,Kampala,Tablet,MasterCard,Failed,Maybe,63,Other
+693943,2024-04-02,CUST787,,,Cash,AliExpress,Gadgets,,Desktop,Visa,Success,Yes,NA,Other
+940104,2024-01-08,,1321.39,UGX,Cash,eBay,Groceries,London,Desktop,MasterCard,In Progress,No,NA,X
+656860,2024-04-23,,NA,USD,Debit Card,Shopify,Groceries,Kampala,ATM,,Failed,Maybe,NA,Male
+598355,2024-02-07,CUST466,3175.12,UGX,Debit Card,AliExpress,XYZ,,Desktop,,Pending,,,Female
+547852,2024-01-03,,NA,KES,Credit Card,,Clothing,,,BitcoinCard,In Progress,1,51,Male
+319927,2024-05-12,,NA,,,Amazon,,New York,Desktop,Visa,,1,,X
+464187,2024-01-18,CUST645,NA,1234,Cash,eBay,Electronics,Cairo,Mobile,BitcoinCard,,Maybe,64,X
+934301,2024-01-22,,NA,USD,CryptoPay,Amazon,XYZ,London,Mobile,Discover,In Progress,Y,,X
+180385,2024-03-27,,4859.01,,Wire Transfer,Amazon,XYZ,New York,Mobile,Discover,Success,Y,54,X
+783185,2024-03-21,,,KES,Credit Card,,Groceries,London,POS,,In Progress,No,45,Female
+963752,2024-04-12,,,USD,,AliExpress,Groceries,Kampala,Mobile,BitcoinCard,In Progress,,67,Male
+416509,2024-02-12,,2515.41,USD,Cash,,Clothing,Kampala,Desktop,,In Progress,0,,Other
+629152,2024-04-21,,,USD,Wire Transfer,Shopify,Electronics,Unknown,Mobile,,Pending,Maybe,,
+943187,2024-01-16,,,EUR,CryptoPay,Jumia,Electronics,,ATM,MasterCard,Failed,Maybe,39,Other
+414477,2024-04-10,CUST554,,1234,CryptoPay,eBay,Electronics,Cairo,Desktop,Visa,,N,,X
+553939,2024-01-10,CUST712,,USD,BitCoin,,Gadgets,,Desktop,BitcoinCard,In Progress,,,X
+795684,2024-06-18,,NA,EUR,,Jumia,Groceries,Unknown,,MasterCard,In Progress,Maybe,,Female
+666176,2024-06-13,CUST885,,UGX,Debit Card,AliExpress,XYZ,Nairobi,Mobile,BitcoinCard,In Progress,0,28,X
+428574,2024-02-08,,NA,,Debit Card,Jumia,Electronics,Kampala,Tablet,MasterCard,Pending,,42,X
+309795,2024-05-27,CUST344,,1234,,Shopify,,,PC,MasterCard,In Progress,Yes,63,
+534439,2024-01-15,CUST193,,USD,Credit Card,eBay,Gadgets,Nairobi,Tablet,MasterCard,Success,Maybe,,Other
+521843,2024-06-10,CUST531,3174.2,EUR,,Shopify,,Cairo,,Visa,Failed,Y,,Male
+363470,2024-06-18,,4976.86,USD,Debit Card,Amazon,XYZ,New York,Tablet,BitcoinCard,Failed,Yes,NA,X
+755322,,,457.29,EUR,Debit Card,,XYZ,,POS,BitcoinCard,Success,Yes,,Other
+640403,2024-03-16,,,1234,Wire Transfer,Jumia,Gadgets,Cairo,Desktop,BitcoinCard,Pending,1,NA,
+575244,2024-04-17,CUST164,527.34,UGX,BitCoin,AliExpress,Electronics,New York,,Visa,Success,Maybe,,Female
+804181,2024-04-12,,3171.29,KES,Wire Transfer,AliExpress,XYZ,,ATM,MasterCard,In Progress,Yes,,Male
+900527,2024-06-23,,,USD,Wire Transfer,Amazon,XYZ,Nairobi,ATM,BitcoinCard,Failed,,,Female
+674160,2024-06-28,CUST271,,,,Jumia,Electronics,,ATM,BitcoinCard,In Progress,,21,
+289373,2024-05-21,,2762.42,EUR,BitCoin,eBay,Groceries,Cairo,Mobile,Visa,,0,NA,Other
+119506,2024-03-18,,,UGX,Cash,Shopify,,New York,,Amex,In Progress,,,Male
+758342,,,,1234,Credit Card,Amazon,Groceries,Kampala,,BitcoinCard,Pending,No,28,Male
+837496,2024-03-29,CUST741,,1234,CryptoPay,eBay,XYZ,Unknown,,BitcoinCard,In Progress,Y,NA,Male
+641300,2024-01-03,CUST739,,EUR,,AliExpress,XYZ,Unknown,POS,Visa,Pending,N,NA,Female
+295600,2024-03-12,,,1234,BitCoin,eBay,,Nairobi,,Amex,Failed,,,Male
+704864,2024-05-15,CUST538,,1234,Debit Card,,XYZ,Cairo,POS,Amex,Pending,No,NA,Other
+623452,2024-06-05,CUST337,,EUR,BitCoin,Jumia,Electronics,Cairo,Tablet,Amex,In Progress,1,NA,
+323297,2024-02-07,,,UGX,CryptoPay,Amazon,,London,,BitcoinCard,Pending,,NA,
+792905,2024-06-28,CUST431,3369.77,USD,Debit Card,Shopify,Groceries,,Desktop,MasterCard,In Progress,No,,Male
+963930,2024-04-13,,,KES,Wire Transfer,eBay,XYZ,,ATM,MasterCard,In Progress,No,,X
+878261,2024-04-24,,173.05,1234,Debit Card,,Groceries,Kampala,,Visa,In Progress,Y,,X
+589994,2024-06-13,,,UGX,Debit Card,eBay,Gadgets,Unknown,Mobile,Discover,Success,Maybe,NA,Other
+380951,2024-02-22,,,EUR,,eBay,Groceries,Kampala,Tablet,Discover,Success,,NA,Female
+768914,2024-05-19,CUST325,,UGX,Cash,eBay,XYZ,Cairo,Desktop,MasterCard,Pending,1,65,Male
+658596,2024-06-08,,,EUR,,Shopify,Gadgets,London,ATM,MasterCard,Pending,Y,,Other
+948228,2024-06-07,,,,Debit Card,,Groceries,,Desktop,MasterCard,,,NA,
+744268,2024-06-15,CUST477,,UGX,,eBay,Gadgets,London,Tablet,,In Progress,Maybe,62,Other
+994199,2024-04-23,CUST168,,KES,Debit Card,eBay,Groceries,Cairo,Mobile,,In Progress,Maybe,NA,Male
+906479,2024-06-27,,NA,EUR,BitCoin,Amazon,Gadgets,Unknown,Mobile,Visa,,Y,65,X
+554793,2024-03-29,,,EUR,,Jumia,Groceries,,Mobile,BitcoinCard,Success,,26,Other
+693616,2024-06-15,CUST611,,UGX,Debit Card,eBay,,,PC,MasterCard,,,NA,X
+861911,2024-04-13,,NA,EUR,Wire Transfer,Amazon,XYZ,Unknown,PC,BitcoinCard,Success,,,Female
+757203,2024-02-20,,,EUR,BitCoin,AliExpress,Clothing,Kampala,PC,Discover,Pending,Yes,NA,
+162790,2024-03-18,,,UGX,Cash,Shopify,Clothing,Kampala,Tablet,Visa,Failed,1,NA,X
+647639,2024-01-22,,NA,UGX,CryptoPay,Shopify,,London,ATM,Discover,Failed,Yes,,Other
+310394,2024-01-10,,NA,1234,BitCoin,Shopify,Clothing,London,Desktop,,In Progress,0,,
+481969,2024-05-17,,475.34,KES,,AliExpress,Electronics,Nairobi,PC,,,N,26,
+584952,2024-03-26,,NA,UGX,Cash,AliExpress,XYZ,Cairo,ATM,BitcoinCard,,No,,X
+254920,2024-04-09,,148.81,USD,,AliExpress,Groceries,,ATM,Visa,,1,NA,Male
+352050,2024-02-02,,2863.25,KES,CryptoPay,eBay,Gadgets,New York,,,,No,NA,X
+257782,2024-05-13,,NA,UGX,Wire Transfer,Shopify,Gadgets,Cairo,ATM,Amex,Failed,,50,
+882692,2024-05-18,,,,Debit Card,eBay,Gadgets,London,PC,Discover,In Progress,No,,Male
+818596,2024-03-13,CUST593,NA,UGX,Wire Transfer,AliExpress,Groceries,New York,,MasterCard,Failed,0,,Male
+902716,2024-02-24,CUST443,NA,UGX,Cash,AliExpress,Gadgets,Cairo,PC,,Success,,,X
+414861,2024-01-24,,,1234,,Shopify,Gadgets,New York,Tablet,Amex,In Progress,,30,
+985126,2024-05-10,,3854.25,,,,Gadgets,London,ATM,Amex,,,61,Female
+556538,2024-05-21,,NA,KES,Wire Transfer,AliExpress,Gadgets,New York,Desktop,Visa,Pending,Maybe,NA,
+530189,2024-03-20,CUST859,3140.92,1234,Wire Transfer,Shopify,Clothing,Unknown,PC,Visa,,N,,Male
+434132,2024-05-13,,563.55,1234,Debit Card,,Clothing,,Tablet,Visa,Success,Y,,Male
+970542,2024-03-28,CUST821,,EUR,Wire Transfer,Jumia,XYZ,Kampala,,Visa,In Progress,,43,Male
+167557,2024-06-11,CUST338,NA,USD,Wire Transfer,,Gadgets,,,,Success,1,NA,Female
+764721,2024-02-10,CUST731,,,CryptoPay,Jumia,Gadgets,Unknown,ATM,,,Maybe,26,
+313446,2024-01-06,CUST416,NA,KES,Wire Transfer,Jumia,Electronics,New York,,Visa,,Maybe,61,Other
+987060,2024-01-08,,,EUR,,Shopify,Clothing,Nairobi,Tablet,,In Progress,N,NA,Male
+532472,2024-05-18,CUST875,,,CryptoPay,Jumia,Groceries,Nairobi,PC,Visa,In Progress,0,56,Male
+379901,2024-05-31,CUST734,377.14,,Wire Transfer,Jumia,Gadgets,Cairo,POS,Visa,,,44,Female
+963723,2024-03-07,CUST161,,EUR,Cash,eBay,XYZ,Nairobi,PC,Amex,,0,,Other
+400988,2024-03-02,,,1234,Wire Transfer,Jumia,Clothing,Cairo,,MasterCard,In Progress,No,42,Other
+777424,2024-03-18,CUST403,,KES,Cash,AliExpress,Gadgets,Unknown,Desktop,,Failed,,NA,Other
+268384,2024-04-18,,NA,UGX,BitCoin,Jumia,Groceries,,Mobile,,In Progress,,25,Other
+368903,2024-05-09,,NA,1234,Cash,Amazon,Electronics,Nairobi,PC,BitcoinCard,In Progress,Y,NA,Female
+820219,2024-01-29,CUST138,3301.74,1234,,,Gadgets,Nairobi,PC,Visa,,1,,X
+730437,,,,UGX,Cash,eBay,XYZ,,Desktop,Visa,In Progress,Yes,,X
+347600,2024-04-05,,,EUR,Credit Card,Jumia,Clothing,London,Tablet,,,,NA,Male
+525581,2024-03-07,,4974.63,UGX,,,Clothing,London,ATM,MasterCard,Failed,1,27,
+350067,2024-06-09,,,1234,Cash,eBay,,Nairobi,Mobile,Discover,Failed,,NA,
+219074,2024-05-09,,NA,,Credit Card,AliExpress,Clothing,Nairobi,ATM,Visa,Pending,,,Other
+257246,2024-03-31,CUST905,3034.49,,Cash,AliExpress,Clothing,,Tablet,Discover,In Progress,Maybe,49,Other
+301238,2024-02-01,,NA,1234,Wire Transfer,eBay,Electronics,Cairo,Desktop,BitcoinCard,In Progress,N,50,
+129049,2024-01-13,,,UGX,CryptoPay,Amazon,Electronics,London,Mobile,,Failed,1,,X
+357516,2024-06-15,CUST868,NA,USD,,AliExpress,Gadgets,Cairo,Desktop,Amex,,,,
+935762,2024-02-01,,NA,,Debit Card,,Gadgets,Cairo,Desktop,Visa,Success,Yes,,Other
+967412,2024-04-24,,NA,EUR,Cash,Shopify,Clothing,,POS,,In Progress,1,47,Female
+425625,2024-03-17,CUST348,,UGX,,AliExpress,Groceries,,POS,,Pending,,NA,Other
+586706,2024-05-26,CUST652,1004.2,EUR,Wire Transfer,Jumia,Groceries,,ATM,BitcoinCard,In Progress,Maybe,,Male
+608960,2024-01-02,CUST780,,KES,Credit Card,Amazon,Clothing,Unknown,Tablet,Visa,Success,1,27,
+687019,2024-04-26,,,UGX,,AliExpress,Electronics,,Desktop,,,Y,,Female
+557318,2024-03-27,,,USD,CryptoPay,eBay,Gadgets,Unknown,,MasterCard,Failed,No,,Female
+542519,2024-03-01,,,USD,Debit Card,,Gadgets,London,Desktop,Amex,Failed,,,Male
+778346,2024-05-28,,,,Debit Card,Jumia,Clothing,Unknown,ATM,Amex,Pending,Yes,,Other
+138801,2024-05-24,,4809.74,1234,CryptoPay,,Groceries,London,Mobile,Discover,Success,Y,,Other
+,2024-06-09,,,1234,CryptoPay,,,London,PC,,Pending,Maybe,37,X
+267099,2024-06-19,CUST744,NA,EUR,Wire Transfer,,Groceries,Unknown,Mobile,Visa,Success,0,,X
+385959,2024-05-16,,,KES,Wire Transfer,AliExpress,Clothing,,,BitcoinCard,Pending,No,NA,
+243057,2024-06-01,CUST171,,EUR,,eBay,Clothing,London,Tablet,,,,,
+130557,2024-02-29,,,KES,Wire Transfer,Shopify,Gadgets,Kampala,,Amex,,Y,NA,Female
+370948,2024-03-30,CUST244,4081.3,,Credit Card,Jumia,,Cairo,Tablet,Amex,In Progress,Y,NA,Other
+928028,2024-03-17,CUST228,,UGX,Wire Transfer,AliExpress,XYZ,Nairobi,PC,Amex,Pending,0,,
+942570,2024-03-13,,,UGX,Cash,Amazon,Gadgets,New York,POS,MasterCard,,N,40,Female
+391265,2024-06-19,CUST662,1876.06,,,Shopify,Gadgets,Unknown,Tablet,Visa,In Progress,,,Female
+790666,2024-05-26,,2252.52,KES,Cash,AliExpress,Gadgets,Cairo,Tablet,BitcoinCard,Success,1,,Female
+677457,2024-06-21,,,1234,Wire Transfer,Shopify,Clothing,Nairobi,Mobile,MasterCard,Success,Maybe,NA,Male
+284533,2024-02-05,,,,BitCoin,Shopify,Gadgets,London,Mobile,BitcoinCard,Success,Maybe,,X
+775591,2024-04-06,CUST418,,USD,BitCoin,AliExpress,XYZ,London,ATM,,Failed,Y,,Male
+993933,2024-05-13,CUST838,1997.55,UGX,CryptoPay,Shopify,Electronics,London,PC,BitcoinCard,Pending,Yes,25,Other
+144283,2024-03-04,,,1234,Debit Card,Amazon,Groceries,Unknown,PC,BitcoinCard,In Progress,Maybe,NA,Female
+857568,2024-01-27,,NA,USD,,eBay,Electronics,New York,POS,Discover,Failed,N,NA,Female
+609442,2024-03-24,,1795.15,1234,Debit Card,Amazon,Electronics,Nairobi,Desktop,Amex,Pending,1,,Other
+920231,2024-05-12,,,UGX,BitCoin,AliExpress,Groceries,Unknown,Desktop,Discover,Pending,Maybe,NA,
+120875,2024-05-29,,,USD,BitCoin,Shopify,XYZ,Nairobi,Desktop,BitcoinCard,Pending,,,Male
+158014,2024-02-19,,,EUR,Cash,AliExpress,Gadgets,Nairobi,Tablet,Visa,Pending,Maybe,,Other
+188006,2024-04-02,,,KES,,,,,,MasterCard,Failed,Maybe,NA,
+429153,2024-04-26,,,KES,Wire Transfer,Amazon,Groceries,Nairobi,,MasterCard,In Progress,N,24,Other
+730823,2024-01-26,,4494.73,UGX,Credit Card,,Clothing,London,PC,Amex,,Yes,,
+412453,2024-02-07,,,UGX,Credit Card,Shopify,Clothing,London,,BitcoinCard,,,56,
+166670,2024-04-18,,2641.04,1234,Debit Card,,,Kampala,,BitcoinCard,In Progress,Y,,Other
+526777,2024-04-15,,2809.18,USD,Debit Card,eBay,Gadgets,Nairobi,POS,Visa,,1,NA,X
+481088,2024-01-21,,,EUR,Wire Transfer,Amazon,Clothing,Nairobi,Tablet,Amex,Failed,,,Other
+804299,2024-01-24,CUST878,,UGX,CryptoPay,,Gadgets,Kampala,POS,Discover,Failed,,70,Other
+789365,2024-01-16,,,UGX,Cash,Jumia,Gadgets,London,ATM,Discover,Pending,Y,,Other
+194693,2024-04-18,,998.77,EUR,CryptoPay,Amazon,Electronics,Kampala,POS,Visa,In Progress,Maybe,NA,X
+516174,2024-02-03,CUST537,,KES,BitCoin,,Groceries,Nairobi,POS,BitcoinCard,Pending,,,Female
+980605,2024-05-01,,,,Cash,Jumia,XYZ,Nairobi,POS,Discover,Failed,No,NA,X
+859414,2024-02-24,,2111.97,EUR,Credit Card,AliExpress,Clothing,Kampala,POS,Discover,Failed,,,
+983687,2024-04-24,,,USD,,Jumia,Groceries,,Desktop,Visa,Failed,Yes,NA,Other
+247388,2024-01-20,CUST844,NA,KES,CryptoPay,,XYZ,Nairobi,ATM,Visa,In Progress,No,41,Female
+347507,2024-04-04,,,,Cash,Amazon,Groceries,London,PC,BitcoinCard,In Progress,No,NA,Male
+217369,2024-06-22,,99.0,KES,CryptoPay,,XYZ,Unknown,,Visa,Pending,1,NA,Female
+698708,2024-05-14,,,,CryptoPay,AliExpress,,Cairo,PC,Visa,,No,NA,X
+870158,2024-04-13,,,,Cash,Shopify,Gadgets,Nairobi,Mobile,,Failed,N,70,Female
+624548,2024-05-30,,194.67,1234,Debit Card,Shopify,,Nairobi,ATM,Amex,Failed,No,NA,Other
+226502,2024-05-23,,1693.58,KES,Wire Transfer,,Electronics,London,,MasterCard,In Progress,N,22,Male
+647312,2024-05-12,,356.58,1234,BitCoin,eBay,,Cairo,POS,Discover,In Progress,,,
+796482,2024-04-11,CUST580,,KES,BitCoin,Shopify,Clothing,Unknown,POS,Amex,Success,Y,,Male
+969250,2024-03-08,CUST258,,KES,Cash,eBay,,Unknown,Tablet,,Pending,N,43,Female
+708614,2024-05-29,CUST104,,EUR,Credit Card,,Groceries,Kampala,POS,Amex,,,,Other
+912767,2024-05-07,,,UGX,Credit Card,Shopify,Groceries,,PC,Visa,Failed,No,,Other
+650775,2024-06-11,,2474.15,1234,Credit Card,Jumia,XYZ,London,ATM,Amex,Pending,N,,Other
+364039,2024-04-18,,,,CryptoPay,AliExpress,Groceries,,Mobile,,Success,N,,Female
+620566,2024-04-22,,2471.75,,Wire Transfer,,XYZ,Kampala,Tablet,BitcoinCard,Pending,,,Male
+194632,2024-06-25,,4216.95,UGX,Wire Transfer,,Clothing,,Tablet,Amex,Failed,,,Female
+349641,2024-05-05,,156.15,KES,BitCoin,Jumia,Groceries,,Mobile,BitcoinCard,In Progress,Yes,,X
+728958,2024-04-16,,NA,1234,Wire Transfer,Jumia,,Unknown,ATM,MasterCard,Pending,0,,Male
+228216,2024-02-11,,,KES,Cash,eBay,Gadgets,Nairobi,POS,Discover,,Y,,Male
+910749,2024-02-06,,,UGX,Wire Transfer,AliExpress,Electronics,Kampala,,Discover,Failed,N,,Female
+945872,2024-05-09,CUST139,1139.44,USD,Credit Card,AliExpress,Electronics,Unknown,PC,BitcoinCard,Pending,Yes,,
+428634,2024-02-02,,,EUR,Cash,Shopify,Gadgets,Unknown,Mobile,Visa,,1,,Female
+445281,2024-05-04,CUST266,4082.58,,Debit Card,eBay,Groceries,Nairobi,ATM,MasterCard,Failed,0,,Female
+972765,2024-04-27,,4671.21,USD,CryptoPay,AliExpress,Gadgets,Unknown,PC,Discover,In Progress,Maybe,69,Male
+712710,2024-02-03,,1305.84,KES,Credit Card,,Clothing,London,ATM,MasterCard,Failed,Maybe,NA,Male
+873048,2024-06-29,,,KES,Wire Transfer,AliExpress,Clothing,London,ATM,Amex,,No,NA,
+508892,2024-05-11,,,UGX,,Jumia,Groceries,Nairobi,POS,BitcoinCard,In Progress,,NA,Female
+944986,2024-05-15,,,,CryptoPay,Amazon,XYZ,Kampala,POS,MasterCard,Failed,0,,Female
+884727,2024-01-31,,NA,KES,Cash,AliExpress,Clothing,,Desktop,Amex,Failed,Yes,41,
+880097,2024-06-26,,,,,Amazon,Groceries,Cairo,Tablet,Amex,Pending,Y,52,
+347399,2024-02-24,,,USD,Debit Card,,XYZ,London,PC,,In Progress,0,,Female
+543410,2024-04-26,CUST853,,EUR,,Jumia,Gadgets,London,POS,Visa,In Progress,1,,
+328598,2024-05-01,,3188.15,,Debit Card,AliExpress,Groceries,Kampala,Desktop,Amex,Pending,1,50,Other
+251286,2024-01-09,,NA,EUR,BitCoin,Amazon,,New York,ATM,Amex,Success,,,X
+212002,2024-02-10,,,UGX,Wire Transfer,Amazon,Groceries,Unknown,Tablet,MasterCard,Failed,Y,,X
+283662,2024-05-23,CUST792,,,BitCoin,AliExpress,,Unknown,Tablet,BitcoinCard,In Progress,1,NA,Female
+324509,2024-04-04,,,1234,Debit Card,Amazon,Groceries,Nairobi,,Discover,Success,No,,X
+387883,2024-01-31,CUST760,,,BitCoin,AliExpress,XYZ,Unknown,PC,,In Progress,No,,Other
+560823,2024-06-03,,3833.35,EUR,Credit Card,Shopify,Clothing,Kampala,Mobile,Visa,,,,X
+528212,2024-04-14,,NA,,Cash,,Clothing,Kampala,PC,BitcoinCard,Pending,0,NA,Other
+366659,2024-01-29,,NA,EUR,Debit Card,eBay,Groceries,London,Desktop,,Pending,Yes,NA,Other
+718115,2024-01-31,,3477.88,EUR,Wire Transfer,,XYZ,,,Visa,Success,N,,X
+158642,2024-04-04,,4859.11,1234,BitCoin,eBay,,Unknown,POS,,,1,NA,Other
+614178,2024-05-26,CUST961,NA,UGX,BitCoin,eBay,Clothing,,Tablet,Discover,In Progress,1,,Female
+659383,2024-03-15,CUST112,,USD,,AliExpress,XYZ,Nairobi,ATM,Visa,Pending,Yes,67,Female
+492906,2024-01-11,CUST889,947.71,USD,CryptoPay,eBay,,Kampala,Tablet,Discover,,,NA,X
+833602,2024-05-13,,,UGX,Wire Transfer,eBay,,Unknown,Mobile,MasterCard,In Progress,,42,Other
+218448,2024-02-09,,,EUR,BitCoin,Amazon,Clothing,,POS,MasterCard,Pending,No,,Female
+431863,2024-01-31,,NA,UGX,BitCoin,,Clothing,Cairo,Desktop,Discover,Success,,,Other
+672255,2024-04-05,,4240.56,KES,,Shopify,Gadgets,Nairobi,Mobile,BitcoinCard,In Progress,,NA,Female
+544366,2024-03-19,,NA,KES,Wire Transfer,,,Kampala,Desktop,BitcoinCard,Pending,No,NA,Other
+597920,2024-04-05,,,EUR,CryptoPay,Amazon,Gadgets,Cairo,PC,BitcoinCard,,Maybe,44,Male
+815903,2024-03-18,,NA,KES,Credit Card,Jumia,Electronics,Cairo,ATM,Discover,Pending,Y,,
+358313,2024-03-16,,NA,USD,Debit Card,Amazon,Groceries,Unknown,Desktop,BitcoinCard,Pending,1,NA,Male
+391224,2024-05-04,,,1234,,Amazon,,Nairobi,ATM,Amex,Failed,Maybe,63,X
+922370,2024-01-08,,,EUR,,Shopify,Electronics,London,Mobile,Visa,Success,Maybe,,Other
+251950,2024-02-06,,4757.96,EUR,Credit Card,AliExpress,Gadgets,Cairo,ATM,BitcoinCard,Failed,Yes,,
+480631,2024-02-06,,744.98,EUR,,,Clothing,London,Mobile,,Pending,Maybe,32,Other
+598306,2024-05-30,CUST990,NA,UGX,,,,Nairobi,Mobile,BitcoinCard,In Progress,Maybe,61,X
+850435,2024-04-17,,,UGX,CryptoPay,Shopify,Groceries,Kampala,PC,MasterCard,Success,Yes,19,Male
+485602,2024-01-13,,943.28,USD,CryptoPay,Shopify,Electronics,Nairobi,PC,MasterCard,In Progress,,,
+961264,2024-03-19,CUST933,,EUR,CryptoPay,Shopify,,London,Tablet,Visa,In Progress,,NA,Male
+423141,2024-03-13,,1766.26,EUR,Wire Transfer,,Gadgets,New York,POS,Visa,Success,Maybe,25,Male
+122097,2024-02-25,,4635.37,EUR,,Shopify,Gadgets,Nairobi,PC,Amex,Success,Y,,Other
+776748,2024-02-16,,NA,KES,Wire Transfer,eBay,,New York,POS,Visa,,No,,Male
+735242,2024-05-05,CUST415,,USD,,Jumia,XYZ,Cairo,ATM,Visa,In Progress,1,NA,X
+136500,2024-01-01,,2544.55,1234,Cash,eBay,Groceries,,Mobile,Discover,,No,,Male
+982348,2024-02-01,CUST101,,EUR,CryptoPay,Amazon,Electronics,London,POS,Amex,Failed,,,Other
+875369,2024-05-20,,,EUR,Debit Card,Jumia,Gadgets,Cairo,PC,BitcoinCard,Success,1,NA,Other
+794391,2024-03-30,,,1234,Debit Card,Jumia,Gadgets,New York,,Visa,Failed,,,X
+937750,2024-01-18,,NA,,Wire Transfer,eBay,Clothing,New York,PC,BitcoinCard,In Progress,Maybe,,Male
+157328,2024-01-12,,,UGX,Cash,,Groceries,Kampala,PC,BitcoinCard,Pending,No,,Other
+824233,2024-04-16,CUST541,,USD,Debit Card,Shopify,XYZ,,,,In Progress,N,21,
+927119,2024-05-03,,2597.91,KES,Cash,Jumia,Clothing,Nairobi,PC,Visa,Failed,0,NA,
+804222,2024-05-26,,NA,EUR,Wire Transfer,Shopify,Groceries,Cairo,Tablet,Amex,Pending,Y,NA,Other
+351318,2024-03-20,CUST237,NA,UGX,Wire Transfer,Amazon,Electronics,Cairo,PC,,Success,,59,Other
+365271,2024-05-24,CUST598,584.79,USD,Debit Card,eBay,Gadgets,London,POS,,Success,,,
+679577,2024-04-25,CUST614,NA,KES,CryptoPay,Jumia,Clothing,London,,Amex,Pending,1,,Female
+503376,2024-03-27,,338.58,,CryptoPay,Shopify,Clothing,,Mobile,,Failed,Maybe,NA,Other
+424291,2024-04-06,CUST933,,1234,Wire Transfer,eBay,XYZ,Nairobi,ATM,MasterCard,,,,Female
+769986,2024-05-01,CUST290,1965.62,KES,Wire Transfer,eBay,Electronics,London,POS,BitcoinCard,Pending,,,Other
+834649,2024-06-04,,,1234,BitCoin,Jumia,Groceries,London,Desktop,Discover,Success,N,,Female
+480481,2024-02-03,CUST287,NA,EUR,CryptoPay,,Groceries,Cairo,POS,Discover,Pending,,,Other
+951706,2024-02-05,,,KES,Credit Card,,,Kampala,,MasterCard,Pending,Maybe,NA,
+818534,2024-05-09,,,1234,Debit Card,Amazon,Gadgets,Nairobi,POS,BitcoinCard,,,,X
+227982,2024-06-11,CUST739,3672.07,KES,Credit Card,Jumia,,New York,Tablet,MasterCard,Success,1,18,Other
+660894,2024-04-27,,,KES,CryptoPay,Shopify,Clothing,Cairo,PC,Discover,Pending,Maybe,35,Male
+347864,2024-04-25,CUST270,NA,1234,Cash,Amazon,Groceries,Unknown,Mobile,,Pending,,59,
+999308,2024-06-19,CUST400,859.46,EUR,Cash,AliExpress,Groceries,Cairo,PC,MasterCard,Failed,1,,Male
+563892,2024-04-24,CUST486,,USD,Cash,Jumia,Gadgets,London,Desktop,BitcoinCard,Success,No,NA,Other
+507341,2024-02-08,CUST383,NA,KES,,Amazon,Groceries,New York,ATM,,Failed,0,,X
+108248,2024-03-24,CUST450,,EUR,Cash,AliExpress,,Cairo,POS,Visa,Failed,0,52,Other
+512064,2024-01-23,CUST699,2145.33,UGX,,Amazon,,Cairo,,Discover,Pending,1,,X
+367946,2024-06-08,,,EUR,Credit Card,AliExpress,Clothing,Cairo,Tablet,Amex,In Progress,0,38,
+415504,2024-06-19,CUST788,NA,KES,,Amazon,XYZ,Nairobi,Desktop,MasterCard,Failed,Yes,20,Female
+194634,2024-06-08,CUST109,3399.22,UGX,BitCoin,,Clothing,New York,POS,MasterCard,,No,,Other
+962671,2024-04-14,CUST372,,UGX,Credit Card,Jumia,,Kampala,,,,No,NA,Other
+893423,2024-04-09,,,1234,BitCoin,Amazon,,Kampala,Desktop,Visa,In Progress,Y,NA,X
+346898,2024-02-29,CUST908,,1234,Wire Transfer,eBay,Electronics,New York,Mobile,MasterCard,Success,Y,,Female
+411870,2024-04-11,CUST199,555.84,KES,Credit Card,Amazon,Groceries,Nairobi,,,Failed,Yes,,Male
+320606,2024-03-27,CUST634,,,BitCoin,AliExpress,XYZ,,ATM,Discover,,,NA,Other
+268010,2024-05-18,,NA,KES,Cash,Amazon,Electronics,,Mobile,BitcoinCard,,0,,Female
+560163,2024-01-12,,3777.41,,Credit Card,Amazon,XYZ,New York,Tablet,,Pending,N,,
+762021,2024-06-20,,,USD,BitCoin,,Clothing,New York,,Amex,Success,,32,X
+432591,2024-04-23,,,UGX,,Shopify,,,Desktop,,Success,Yes,NA,X
+951703,2024-03-12,,,KES,,Jumia,,New York,ATM,MasterCard,In Progress,0,,Male
+903986,2024-06-14,,,1234,Wire Transfer,Amazon,Groceries,Nairobi,Mobile,BitcoinCard,Pending,No,51,Female
+775733,2024-01-23,,1827.8,1234,,AliExpress,Clothing,New York,Mobile,BitcoinCard,Failed,No,NA,Female
+526024,2024-02-12,CUST422,,,BitCoin,AliExpress,Gadgets,London,Desktop,,Success,,NA,Male
+927659,2024-01-07,,,USD,Cash,Jumia,Gadgets,London,,,Pending,No,NA,X
+135527,2024-05-26,,572.68,EUR,Wire Transfer,Amazon,XYZ,Nairobi,,,Success,,,Female
+387348,2024-06-10,CUST725,,,BitCoin,eBay,Electronics,Kampala,Tablet,,Success,Yes,NA,
+183985,2024-03-20,,NA,EUR,Wire Transfer,eBay,Groceries,,Desktop,Amex,Pending,N,,Male
+963185,2024-05-23,CUST925,1792.4,EUR,CryptoPay,,Groceries,New York,,Discover,Failed,Maybe,29,Male
+917319,2024-06-14,,,UGX,Credit Card,AliExpress,Clothing,Unknown,Tablet,Amex,,Maybe,NA,Female
+615576,2024-02-01,,1803.51,UGX,CryptoPay,Shopify,Clothing,Unknown,,MasterCard,,,,Female
+593975,2024-06-13,,,UGX,Credit Card,eBay,Groceries,Cairo,Tablet,Visa,In Progress,N,NA,X
+872739,2024-05-23,CUST955,,,BitCoin,AliExpress,Electronics,Kampala,ATM,MasterCard,In Progress,,NA,X
+533021,2024-01-22,,,USD,Credit Card,eBay,Electronics,New York,Desktop,Discover,Success,0,,Female
+982023,2024-02-19,,NA,,BitCoin,Jumia,XYZ,Unknown,ATM,,In Progress,N,,
+448884,2024-06-07,,,,,,XYZ,London,Desktop,MasterCard,In Progress,,NA,Male
+852233,2024-05-18,CUST869,,KES,Credit Card,,Gadgets,New York,,Amex,,Y,NA,X
+542882,2024-05-27,,,USD,BitCoin,eBay,Electronics,New York,Desktop,,In Progress,No,NA,
+960085,2024-01-14,,1553.52,1234,Debit Card,AliExpress,Groceries,New York,Tablet,,Success,Maybe,,X
+205272,2024-05-25,,,EUR,,Jumia,Gadgets,Nairobi,Mobile,BitcoinCard,In Progress,1,NA,X
+964446,2024-05-13,,4172.52,EUR,BitCoin,AliExpress,Clothing,London,PC,Discover,Failed,0,NA,Female
+268132,2024-02-18,CUST776,,KES,,eBay,Gadgets,Unknown,Tablet,MasterCard,,0,,X
+832411,2024-05-01,,,EUR,,Shopify,XYZ,Nairobi,Tablet,Visa,Success,Yes,,Male
+373646,2024-05-08,,1449.16,USD,Credit Card,,Gadgets,Nairobi,POS,Amex,Pending,,NA,Other
+630930,2024-01-05,,NA,EUR,BitCoin,eBay,,Cairo,,Amex,Pending,,,Female
+169591,2024-01-31,CUST468,NA,UGX,Cash,AliExpress,Clothing,Kampala,POS,Visa,Failed,Yes,NA,
+468948,2024-06-17,,,KES,BitCoin,eBay,,Kampala,,Discover,Failed,Yes,,X
+541314,2024-05-16,,NA,USD,CryptoPay,Shopify,Gadgets,Kampala,Mobile,Visa,In Progress,Yes,45,
+731364,2024-02-16,CUST554,,UGX,Debit Card,Amazon,Groceries,London,Mobile,Discover,In Progress,1,,Female
+864654,2024-01-05,,,KES,,AliExpress,Electronics,London,Desktop,Amex,In Progress,Y,,Male
+952941,2024-03-11,,87.81,1234,Credit Card,Amazon,Groceries,London,PC,,Pending,1,43,Other
+674334,2024-02-22,CUST727,1094.45,EUR,,AliExpress,Gadgets,,Mobile,Discover,,Maybe,,X
+873624,2024-03-03,,,KES,CryptoPay,Amazon,Groceries,Nairobi,PC,MasterCard,Failed,1,NA,
+442641,2024-06-29,,,EUR,,Jumia,Clothing,London,Mobile,Amex,Failed,Y,,Female
+575279,2024-05-28,,3304.66,UGX,,Jumia,XYZ,Nairobi,Desktop,Amex,Pending,Yes,68,Other
+828980,2024-04-23,,NA,UGX,Wire Transfer,Amazon,,,Mobile,Amex,In Progress,1,NA,Male
+128679,2024-01-22,,,KES,Cash,Jumia,Gadgets,Kampala,PC,Visa,,,,Other
+898989,2024-05-16,CUST721,NA,1234,Cash,,Groceries,Kampala,PC,MasterCard,,,20,Female
+154629,2024-06-04,CUST829,,KES,CryptoPay,eBay,Clothing,New York,PC,Discover,Success,1,,Male
+772528,2024-03-23,,NA,,Debit Card,AliExpress,,London,PC,MasterCard,Pending,Maybe,NA,
+772758,2024-04-12,,2165.93,UGX,CryptoPay,AliExpress,Clothing,London,Tablet,,In Progress,,43,Other
+292664,2024-05-30,,1461.1,KES,Wire Transfer,eBay,Groceries,Nairobi,Desktop,,In Progress,,NA,
+760766,2024-01-12,CUST616,,EUR,Credit Card,Amazon,Electronics,,Mobile,Amex,,,NA,Other
+564943,2024-05-05,,,EUR,Debit Card,Shopify,Electronics,Kampala,PC,Amex,,,63,Female
+929443,2024-01-06,CUST915,2118.59,KES,CryptoPay,eBay,Electronics,Kampala,ATM,BitcoinCard,In Progress,Yes,,Other
+772240,2024-03-28,,,1234,BitCoin,AliExpress,Groceries,,Tablet,,,0,,Female
+242703,2024-04-21,,NA,,Wire Transfer,eBay,,,Mobile,MasterCard,Pending,,,
+103225,2024-02-16,,,USD,Cash,AliExpress,Gadgets,Cairo,POS,Amex,Pending,1,,X
+520124,2024-04-16,,NA,KES,BitCoin,Jumia,Groceries,Kampala,PC,MasterCard,Failed,Y,NA,Male
+309794,2024-01-07,,NA,USD,,Shopify,Clothing,London,PC,,Failed,Yes,,Male
+758816,2024-05-15,CUST346,,UGX,CryptoPay,,Groceries,London,PC,Visa,,1,,X
+420389,2024-03-22,CUST316,,1234,CryptoPay,AliExpress,XYZ,New York,POS,,Pending,0,NA,X
+428961,2024-04-07,,,1234,,Shopify,Gadgets,Kampala,ATM,Visa,In Progress,,NA,Male
+703779,2024-03-06,CUST816,,USD,Cash,Shopify,,New York,POS,Discover,Pending,0,NA,Other
+186226,2024-01-24,,,1234,Credit Card,Amazon,Electronics,London,Mobile,Discover,Pending,,NA,
+216211,2024-01-30,CUST832,,KES,Cash,,XYZ,Unknown,ATM,Amex,In Progress,,63,
+265488,2024-01-26,,,USD,BitCoin,AliExpress,Gadgets,London,,Discover,Pending,0,,Female
+361728,2024-05-18,,,EUR,Wire Transfer,Amazon,XYZ,Nairobi,POS,Amex,In Progress,Maybe,,Other
+641448,2024-02-13,,,UGX,Credit Card,Jumia,Groceries,,Tablet,Amex,,Yes,NA,Other
+848226,2024-03-14,,,EUR,BitCoin,eBay,Gadgets,Cairo,PC,BitcoinCard,Pending,,NA,
+904894,2024-02-06,,2311.81,,,Jumia,Clothing,New York,Mobile,BitcoinCard,Pending,1,NA,
+970969,2024-02-16,,,,Cash,eBay,Groceries,New York,Tablet,BitcoinCard,In Progress,0,,Male
+780715,2024-03-06,,NA,KES,Credit Card,eBay,,Kampala,PC,BitcoinCard,Pending,N,43,
+900234,2024-01-23,,,1234,Credit Card,Shopify,Electronics,,Mobile,Visa,Failed,N,NA,
+236412,2024-02-09,CUST603,,KES,Debit Card,eBay,XYZ,Cairo,Tablet,MasterCard,In Progress,Maybe,,
+988102,2024-03-19,,,USD,Wire Transfer,Shopify,Groceries,Kampala,Desktop,,Failed,Yes,,Female
+722871,2024-04-14,CUST440,,KES,Cash,Amazon,Groceries,Kampala,ATM,Visa,Pending,,59,X
+819064,2024-06-22,,638.42,1234,Debit Card,Jumia,,Cairo,PC,Amex,In Progress,Y,NA,
+530247,2024-02-13,,,1234,Wire Transfer,Amazon,,London,Desktop,MasterCard,Success,N,,X
+931145,2024-01-16,,4197.6,KES,,Shopify,Electronics,Kampala,POS,BitcoinCard,Success,0,NA,Male
+434914,2024-06-06,,282.92,,Debit Card,,,Kampala,Tablet,,,1,22,Other
+573421,2024-03-24,,1674.08,USD,BitCoin,,Electronics,Kampala,,BitcoinCard,Pending,,52,Female
+601602,2024-02-16,,,UGX,CryptoPay,AliExpress,XYZ,Nairobi,Mobile,BitcoinCard,Success,,,Female
+870883,2024-01-07,,3456.06,KES,,Amazon,XYZ,New York,POS,MasterCard,Failed,Y,,
+239995,2024-01-15,,616.0,UGX,Wire Transfer,AliExpress,XYZ,New York,PC,Amex,Success,Y,35,Female
+373342,2024-03-17,CUST927,NA,1234,BitCoin,Amazon,Clothing,Kampala,PC,Amex,Success,,NA,X
+281905,2024-04-09,,,1234,Cash,,Gadgets,Unknown,PC,,Success,0,,X
+820861,2024-01-26,,NA,USD,CryptoPay,,Electronics,Nairobi,Mobile,MasterCard,Failed,1,,X
+721826,2024-03-22,CUST189,,,CryptoPay,Jumia,Electronics,Cairo,Mobile,Discover,Pending,Yes,,Other
+966929,2024-02-06,,3598.52,KES,Debit Card,AliExpress,Clothing,London,Desktop,BitcoinCard,Pending,No,67,
+443492,2024-04-15,,NA,,,AliExpress,Clothing,,Desktop,,Failed,,,
+938366,2024-03-23,,582.4,UGX,,AliExpress,Electronics,London,Tablet,Visa,In Progress,0,27,Other
+395485,2024-03-07,,773.58,KES,BitCoin,,,,Desktop,,Failed,0,60,Other
+308314,2024-04-06,CUST476,NA,1234,Wire Transfer,AliExpress,Clothing,Cairo,POS,,Success,N,,Male
+188498,2024-01-31,,,UGX,CryptoPay,AliExpress,XYZ,Cairo,PC,Amex,Failed,Yes,,X
+534631,2024-01-14,,,,,Shopify,Clothing,Kampala,,Visa,Failed,Yes,60,X
+485456,2024-02-21,CUST854,1959.66,UGX,BitCoin,AliExpress,Electronics,Kampala,POS,Amex,,,,X
+290724,2024-03-02,CUST418,,USD,Debit Card,,Groceries,New York,Desktop,,Pending,Y,,X
+512608,2024-06-01,,NA,EUR,Debit Card,eBay,Groceries,,ATM,,Pending,Y,,Male
+495648,2024-05-30,,,KES,,Jumia,Groceries,New York,PC,Visa,Success,No,,Male
+975224,2024-03-01,,,,Debit Card,Jumia,Electronics,Cairo,,Amex,Failed,Y,42,Male
+698097,2024-05-06,,4297.98,KES,Debit Card,eBay,Gadgets,Unknown,Tablet,MasterCard,Success,Y,,Male
+335391,2024-05-10,,2167.44,1234,Wire Transfer,Shopify,Groceries,Cairo,Mobile,MasterCard,Pending,1,,X
+121741,2024-05-09,CUST915,NA,USD,Debit Card,eBay,Electronics,Cairo,Tablet,MasterCard,Pending,Y,,X
+124085,2024-04-08,,NA,EUR,Credit Card,Jumia,Gadgets,Kampala,PC,MasterCard,,,,X
+685661,2024-01-30,,,USD,Credit Card,,Gadgets,Unknown,ATM,Amex,Success,,54,Other
+778540,2024-03-09,CUST327,1454.35,UGX,BitCoin,Shopify,,Cairo,PC,MasterCard,In Progress,,NA,
+741731,2024-01-16,CUST504,,1234,BitCoin,Shopify,Electronics,,PC,BitcoinCard,Failed,,58,Female
+757066,2024-03-22,,,,,Shopify,,London,ATM,Amex,,1,41,X
+339816,2024-04-28,CUST423,1962.03,UGX,Credit Card,Shopify,Gadgets,,Mobile,BitcoinCard,In Progress,,,Male
+193298,2024-05-21,,,EUR,,Amazon,XYZ,Cairo,PC,Amex,Failed,Y,22,X
+584887,2024-04-14,CUST957,,,Debit Card,Shopify,Gadgets,New York,POS,,Success,0,,Female
+307897,2024-01-17,,,,BitCoin,Amazon,XYZ,London,PC,Visa,Pending,No,,Other
+374499,2024-05-03,CUST566,,1234,Wire Transfer,Shopify,Clothing,,PC,Discover,Pending,,35,Female
+835325,2024-01-08,,,KES,Credit Card,Amazon,,Nairobi,ATM,,Pending,Yes,54,Male
+993209,2024-04-14,,,KES,Wire Transfer,Jumia,Electronics,Kampala,Desktop,MasterCard,In Progress,No,,Male
+276953,2024-06-11,,,USD,,AliExpress,Clothing,Unknown,Desktop,MasterCard,In Progress,No,NA,X
+,2024-02-29,,,KES,Wire Transfer,Shopify,Gadgets,Cairo,Desktop,Visa,In Progress,Y,,X
+520515,2024-01-05,,NA,UGX,Debit Card,AliExpress,Clothing,Cairo,POS,Visa,,1,,
+748024,2024-03-09,,NA,USD,CryptoPay,Shopify,Electronics,,,Visa,,No,NA,X
+549737,2024-05-21,,,USD,Debit Card,Jumia,Groceries,London,ATM,,In Progress,No,,Other
+729557,2024-05-30,,NA,KES,Debit Card,Shopify,Clothing,Nairobi,PC,BitcoinCard,In Progress,0,69,Other
+372795,2024-06-21,,,KES,Wire Transfer,Jumia,Clothing,Nairobi,POS,Discover,,Maybe,NA,Female
+256501,2024-01-26,CUST746,,UGX,Debit Card,,Electronics,New York,,BitcoinCard,Failed,1,,Other
+193387,2024-03-04,,NA,USD,Cash,,XYZ,Cairo,,Discover,,Maybe,,
+485792,2024-05-22,,,,Wire Transfer,Amazon,XYZ,London,Mobile,,Failed,Maybe,28,Other
+278386,2024-06-15,,4618.15,1234,Debit Card,AliExpress,,London,,Visa,,,,X
+694797,2024-02-02,,,UGX,Debit Card,Amazon,Electronics,Cairo,Desktop,BitcoinCard,,Yes,NA,X
+223050,2024-03-18,,,UGX,,eBay,Electronics,,PC,Visa,,Yes,64,Other
+114800,2024-05-25,CUST929,NA,KES,Wire Transfer,Amazon,XYZ,Cairo,,BitcoinCard,Pending,Maybe,,X
+853489,2024-04-14,,,UGX,Credit Card,Jumia,XYZ,London,PC,MasterCard,,Yes,NA,X
+651380,2024-04-24,CUST153,,1234,Debit Card,AliExpress,Clothing,Kampala,ATM,MasterCard,Failed,No,NA,
+556297,2024-01-22,,,UGX,Cash,,Gadgets,Nairobi,POS,BitcoinCard,Success,,,X
+910926,2024-06-11,,,USD,Credit Card,AliExpress,Electronics,Kampala,PC,Visa,Failed,Maybe,,Other
+575747,2024-05-08,,347.17,,,AliExpress,Electronics,Unknown,ATM,,Pending,,,
+967442,2024-02-22,CUST968,NA,UGX,Cash,eBay,Clothing,New York,ATM,,In Progress,,43,Female
+806331,2024-02-06,,1166.2,EUR,Credit Card,,Clothing,London,Tablet,MasterCard,Failed,,,X
+618152,2024-04-05,,,UGX,Cash,Jumia,Clothing,,,Discover,Pending,Maybe,31,Other
+224269,2024-05-18,,NA,UGX,,,Clothing,Unknown,Tablet,MasterCard,,Y,,
+335388,2024-02-13,,NA,KES,CryptoPay,Amazon,,Unknown,Desktop,MasterCard,Failed,N,,Other
+848225,2024-03-03,,NA,USD,,AliExpress,Groceries,Cairo,Mobile,Discover,Success,No,32,X
+313013,2024-05-17,CUST500,,,CryptoPay,Amazon,Groceries,Kampala,Mobile,,In Progress,Y,NA,Other
+299800,2024-04-18,,,UGX,Debit Card,Amazon,Gadgets,,ATM,Amex,Failed,0,,X
+952924,2024-05-22,,4612.66,UGX,Cash,Jumia,XYZ,Cairo,Desktop,MasterCard,Failed,,,Female
+920114,2024-04-25,CUST813,3063.4,1234,Credit Card,Shopify,XYZ,Kampala,Mobile,Visa,In Progress,Yes,61,X
+379133,2024-01-11,,196.72,USD,Cash,eBay,Gadgets,Kampala,POS,Discover,Success,1,,Male
+401950,2024-01-01,CUST503,,,Cash,Jumia,Electronics,Nairobi,Tablet,Visa,Failed,,,X
+882702,2024-04-28,,3036.6,USD,Cash,AliExpress,,Nairobi,Mobile,,Failed,Y,,Male
+618172,2024-06-07,,,UGX,Debit Card,Amazon,Groceries,Cairo,,Visa,Success,,NA,Female
+500633,2024-03-15,CUST986,,1234,Debit Card,,Gadgets,Nairobi,Tablet,Visa,Failed,1,NA,Female
+236523,2024-06-16,,NA,USD,,Shopify,Electronics,Kampala,,BitcoinCard,Failed,Y,,Male
+552259,2024-02-12,,,,Cash,,XYZ,Unknown,Tablet,BitcoinCard,In Progress,,30,
+997935,2024-01-01,CUST770,,1234,BitCoin,AliExpress,XYZ,Nairobi,ATM,Discover,Failed,No,56,X
+316642,2024-01-16,CUST691,NA,KES,,AliExpress,XYZ,Kampala,,Amex,Success,Y,,
+729232,2024-05-03,,NA,EUR,Credit Card,eBay,Gadgets,Cairo,PC,Discover,Pending,No,,X
+326037,2024-03-10,,439.23,EUR,Credit Card,AliExpress,,London,Mobile,Visa,In Progress,Y,30,X
+964119,2024-06-02,CUST248,3149.29,USD,Debit Card,Jumia,Electronics,Cairo,Tablet,Discover,Success,Yes,,Male
+396712,2024-03-05,,NA,,BitCoin,,Electronics,New York,PC,BitcoinCard,Success,N,NA,Female
+862008,2024-06-23,,,USD,BitCoin,,Clothing,Unknown,ATM,Discover,,Maybe,NA,Other
+810083,2024-04-07,CUST766,3874.18,EUR,CryptoPay,Amazon,,London,Mobile,BitcoinCard,Success,1,NA,X
+298561,2024-03-30,,,1234,BitCoin,eBay,Electronics,Kampala,Desktop,,Success,N,25,X
+538651,2024-06-10,,NA,EUR,Credit Card,Amazon,Clothing,Unknown,PC,BitcoinCard,In Progress,,40,Female
+289131,2024-02-24,,,1234,Debit Card,Shopify,Clothing,Unknown,Mobile,Visa,Failed,0,,X
+528368,2024-05-29,CUST904,,KES,,eBay,,New York,POS,Visa,,N,,
+930958,2024-05-10,,NA,KES,Debit Card,eBay,Gadgets,Cairo,POS,MasterCard,Pending,,,Male
+,2024-03-13,CUST795,,UGX,Credit Card,,Electronics,Unknown,POS,MasterCard,,0,,
+130170,2024-01-12,CUST157,,UGX,Cash,Jumia,Groceries,,PC,Visa,Failed,,,Male
+404289,2024-02-11,,4371.14,KES,CryptoPay,Amazon,XYZ,New York,Mobile,Visa,Failed,Maybe,48,Other
+374516,2024-05-16,CUST283,,1234,BitCoin,,Electronics,Cairo,POS,BitcoinCard,In Progress,Yes,63,X
+346924,2024-05-24,,,,Wire Transfer,eBay,,London,Desktop,Visa,,,NA,X
+747684,2024-01-18,,,EUR,CryptoPay,Shopify,Groceries,Nairobi,ATM,Amex,Pending,Maybe,,Other
+572883,2024-03-17,,,1234,Wire Transfer,eBay,,Nairobi,ATM,Discover,Success,0,,Other
+360380,2024-01-23,,,,Cash,AliExpress,Clothing,Cairo,POS,Visa,In Progress,Y,,Other
+487593,2024-04-11,,,,Debit Card,,Gadgets,New York,POS,BitcoinCard,Failed,0,,Male
+711218,2024-06-27,CUST350,NA,KES,Debit Card,AliExpress,Clothing,Cairo,,MasterCard,,1,,Other
+817506,2024-02-01,CUST221,4840.89,USD,Credit Card,Amazon,Clothing,Cairo,PC,BitcoinCard,,Maybe,,Female
+778675,2024-02-05,,NA,USD,,Amazon,,Unknown,Tablet,BitcoinCard,In Progress,Y,37,
+580419,2024-05-22,,,UGX,BitCoin,Shopify,Electronics,Cairo,Mobile,Visa,Success,1,NA,
+189903,2024-03-12,CUST710,2002.11,UGX,Wire Transfer,eBay,XYZ,Cairo,POS,MasterCard,,Y,,Female
+110821,2024-04-20,,2734.25,USD,Cash,,XYZ,New York,PC,,Failed,No,45,X
+591658,2024-02-23,,,EUR,Wire Transfer,Amazon,,Cairo,Mobile,Discover,Failed,Maybe,,
+239675,2024-06-05,,3269.63,,BitCoin,Jumia,Groceries,Nairobi,PC,Amex,Pending,N,20,X
+438947,2024-05-09,CUST774,,1234,Credit Card,Amazon,Groceries,Nairobi,PC,Discover,,Maybe,NA,Male
+826687,2024-03-22,,1010.55,1234,Cash,eBay,,Kampala,,,,0,,Male
+516866,2024-06-23,,,USD,Credit Card,,Groceries,Nairobi,Tablet,,Pending,1,NA,Female
+820216,2024-03-28,,4621.63,KES,Credit Card,Jumia,,Nairobi,Desktop,Discover,Pending,0,NA,Female
+322526,2024-06-11,,1185.73,,Cash,eBay,Gadgets,Nairobi,Tablet,Amex,Pending,1,,Male
+847986,2024-03-07,,4030.25,1234,,Shopify,Clothing,Cairo,POS,,In Progress,Yes,,Female
+502124,2024-04-25,CUST111,1735.77,USD,Cash,eBay,Clothing,Kampala,PC,Amex,Pending,Yes,NA,X
+842866,2024-03-10,CUST219,4750.04,UGX,Cash,Jumia,,Kampala,ATM,BitcoinCard,,,,X
+543852,2024-03-03,,,1234,,Shopify,Groceries,Kampala,Tablet,Visa,Failed,1,23,Other
+871861,2024-06-18,,,1234,Credit Card,Amazon,Groceries,,Mobile,,,1,,
+726205,2024-03-23,CUST621,3619.42,UGX,Wire Transfer,eBay,Clothing,London,PC,Discover,Failed,0,,X
+368672,2024-03-28,,NA,KES,Wire Transfer,eBay,Groceries,Unknown,Mobile,Visa,In Progress,1,,Male
+176604,2024-02-23,,,KES,Wire Transfer,AliExpress,Groceries,London,Mobile,BitcoinCard,Success,,31,Male
+199907,2024-04-27,,NA,USD,,eBay,Gadgets,London,Tablet,,Pending,0,,X
+684056,2024-06-02,,117.0,EUR,Credit Card,AliExpress,Electronics,London,,MasterCard,Failed,Y,,Female
+161606,2024-03-25,,NA,1234,Cash,,XYZ,,Desktop,Discover,In Progress,N,64,X
+154644,2024-01-05,,,UGX,,Jumia,Groceries,Kampala,,Amex,Success,No,,
+449031,2024-06-26,,3412.89,1234,CryptoPay,Shopify,Gadgets,,Tablet,BitcoinCard,In Progress,No,40,X
+346249,2024-02-04,,2766.95,1234,Wire Transfer,,Electronics,New York,PC,Amex,,Y,NA,Male
+593808,2024-06-14,,,1234,Debit Card,AliExpress,Gadgets,Cairo,ATM,MasterCard,,N,,Other
+471512,2024-01-01,CUST228,,USD,CryptoPay,,,Nairobi,Desktop,Visa,In Progress,Y,NA,Other
+735829,2024-06-04,CUST433,NA,KES,Credit Card,,XYZ,New York,Tablet,Visa,Failed,,,X
+803375,2024-05-01,,586.76,USD,CryptoPay,Jumia,XYZ,,Tablet,Amex,Success,1,33,Male
+941218,2024-01-02,,,EUR,CryptoPay,eBay,,Kampala,PC,BitcoinCard,,Maybe,,Male
+727291,2024-01-03,,,,,,Gadgets,New York,ATM,Visa,Success,,,X
+844033,2024-06-21,,2188.26,UGX,Cash,,Clothing,Unknown,Mobile,Visa,In Progress,No,,X
+884588,2024-02-14,,1198.47,UGX,Cash,Jumia,Clothing,Kampala,POS,BitcoinCard,Failed,,,Female
+949192,2024-04-15,,NA,,Credit Card,Shopify,Electronics,New York,Tablet,,,,,Male
+147722,2024-05-22,CUST600,2071.2,,Wire Transfer,,Electronics,London,Mobile,BitcoinCard,Success,,,
+105621,2024-06-27,,4954.78,,CryptoPay,Amazon,Gadgets,Unknown,ATM,Amex,,N,,
+365978,2024-06-29,,NA,EUR,CryptoPay,Shopify,Electronics,London,Tablet,Visa,Failed,N,NA,X
+629050,2024-05-05,,4064.98,1234,Wire Transfer,Shopify,XYZ,New York,,BitcoinCard,Success,1,,Male
+749758,2024-04-10,CUST227,,USD,Credit Card,Shopify,Clothing,Nairobi,Tablet,Amex,,Y,68,Other
+499442,2024-05-17,CUST774,911.16,UGX,Debit Card,Jumia,Clothing,New York,ATM,MasterCard,Failed,,,Other
+417201,2024-01-21,,NA,,,eBay,,London,Mobile,MasterCard,Failed,Y,57,Female
+513869,2024-06-15,CUST811,NA,KES,Debit Card,Shopify,XYZ,Nairobi,Mobile,Discover,,Yes,NA,X
+803869,2024-06-15,,,EUR,Debit Card,Jumia,,Cairo,Tablet,BitcoinCard,Failed,N,NA,
+488918,2024-01-20,,3291.34,KES,BitCoin,AliExpress,Groceries,Kampala,Tablet,Discover,In Progress,Maybe,,
+238661,2024-05-17,CUST225,NA,UGX,Credit Card,Amazon,XYZ,Nairobi,Desktop,Amex,In Progress,Maybe,,X
+686741,2024-01-08,,,1234,Debit Card,,XYZ,Kampala,,Visa,Failed,,NA,Female
+143122,2024-06-20,,NA,1234,BitCoin,,Clothing,,Mobile,BitcoinCard,Success,Y,,Female
+708684,2024-04-23,CUST265,,EUR,Debit Card,Shopify,,Cairo,PC,MasterCard,Pending,No,,Other
+288085,2024-06-21,,,UGX,Debit Card,Amazon,Groceries,Nairobi,Desktop,Discover,Failed,,NA,Male
+372935,2024-02-01,CUST971,NA,,CryptoPay,,Groceries,,POS,MasterCard,Failed,0,NA,Other
+278117,2024-03-31,CUST186,,1234,Cash,Shopify,Gadgets,Kampala,POS,MasterCard,Failed,Yes,,X
+628216,2024-04-06,,1601.11,USD,,eBay,Electronics,Kampala,POS,,In Progress,Maybe,,X
+616780,2024-06-02,,,,Credit Card,,XYZ,Cairo,PC,MasterCard,In Progress,Yes,,Male
+455652,2024-04-01,,,KES,Credit Card,,XYZ,Nairobi,Mobile,MasterCard,In Progress,No,NA,
+590822,2024-04-09,CUST773,NA,EUR,BitCoin,eBay,Clothing,Kampala,Tablet,BitcoinCard,Failed,,,Male
+238327,2024-02-15,,NA,1234,,Amazon,,London,Mobile,BitcoinCard,,N,NA,Other
+194002,2024-06-27,,NA,UGX,Debit Card,,Groceries,New York,Mobile,BitcoinCard,Failed,Yes,28,Female
+432731,2024-01-03,,NA,UGX,,Amazon,Clothing,Kampala,Tablet,MasterCard,Success,1,,Female
+844756,2024-02-01,,NA,USD,CryptoPay,Amazon,,,PC,Visa,,0,26,
+656189,2024-04-28,CUST555,,KES,CryptoPay,eBay,Electronics,New York,Tablet,MasterCard,Pending,N,NA,Male
+553959,2024-04-04,,4765.69,EUR,Wire Transfer,Shopify,Groceries,London,Tablet,Discover,In Progress,Yes,,Male
+248683,2024-02-19,,2499.55,USD,Wire Transfer,Amazon,Electronics,New York,Mobile,Amex,Success,,66,Male
+373055,2024-04-23,,,KES,BitCoin,eBay,Clothing,London,Desktop,Amex,Pending,N,,X
+222517,2024-01-03,,1509.06,1234,Cash,AliExpress,Clothing,Unknown,POS,Amex,Failed,0,,Female
+428486,2024-02-26,CUST622,,EUR,,Jumia,Groceries,,Desktop,Discover,In Progress,Maybe,,X
+146307,2024-01-06,CUST804,,UGX,Debit Card,eBay,Clothing,,POS,Visa,In Progress,Maybe,,Male
+234082,,CUST778,1929.47,UGX,Cash,,Gadgets,,PC,Visa,Failed,Y,,Male
+623460,2024-06-23,CUST342,,KES,Debit Card,Jumia,XYZ,,Mobile,Amex,Failed,1,NA,Female
+975355,2024-04-01,CUST292,,,Debit Card,,Gadgets,Unknown,Desktop,Visa,Failed,N,NA,X
+394650,2024-02-19,CUST406,,1234,BitCoin,,XYZ,Kampala,Mobile,,Pending,0,NA,Female
+884149,2024-01-24,,,UGX,Debit Card,,Groceries,Nairobi,Tablet,,Pending,N,18,X
+478108,2024-06-06,CUST665,,USD,,Shopify,Gadgets,London,Tablet,,Failed,1,,
+550977,2024-06-09,,,EUR,,Jumia,Gadgets,Cairo,PC,Amex,In Progress,Yes,,Other
+396668,2024-03-18,CUST384,NA,EUR,,AliExpress,,Cairo,PC,MasterCard,In Progress,Yes,,Female
+376002,2024-02-26,,,USD,CryptoPay,Jumia,Clothing,Kampala,POS,BitcoinCard,Failed,No,NA,Other
+742705,2024-02-29,CUST532,,1234,Debit Card,Jumia,Gadgets,Kampala,PC,BitcoinCard,Pending,Maybe,NA,Other
+969887,2024-05-06,,4330.05,UGX,Wire Transfer,AliExpress,Gadgets,New York,POS,Discover,In Progress,No,54,Male
+898557,2024-04-02,,,EUR,Credit Card,Jumia,,,PC,,Pending,,70,Female
+376570,2024-01-10,CUST765,,USD,,Amazon,,Kampala,Mobile,Visa,Pending,,,
+642085,2024-03-12,,,,Debit Card,Amazon,Groceries,London,PC,Amex,,,NA,Male
+428215,2024-05-06,,,UGX,Credit Card,Shopify,XYZ,Unknown,,,Success,Maybe,67,X
+556943,2024-06-29,,,1234,Cash,eBay,Clothing,New York,POS,Visa,,1,,Male
+272998,2024-06-29,CUST811,NA,1234,Debit Card,Amazon,Electronics,New York,POS,Amex,,Maybe,,X
+430870,2024-06-04,CUST648,668.04,,Wire Transfer,AliExpress,,,,MasterCard,,No,,Other
+872663,2024-02-23,,,KES,Cash,Shopify,Electronics,New York,,Discover,Failed,,,X
+615138,2024-01-02,,NA,,CryptoPay,eBay,Electronics,Nairobi,POS,Discover,Failed,0,,Male
+900771,2024-02-20,,,KES,Wire Transfer,eBay,Electronics,,Tablet,Discover,,Y,,X
+258612,2024-06-12,CUST761,,1234,,AliExpress,,,POS,Discover,Pending,1,,Male
+682667,2024-04-11,,,,Wire Transfer,Amazon,Electronics,Kampala,,,Failed,1,69,Male
+994470,2024-01-29,,,UGX,BitCoin,Shopify,Electronics,London,Tablet,Visa,Success,1,NA,Other
+789354,2024-03-12,,3914.31,,Wire Transfer,Shopify,Groceries,New York,Mobile,BitcoinCard,In Progress,0,,Other
+767578,2024-05-25,CUST719,,KES,Credit Card,Amazon,Electronics,,ATM,,Pending,1,,Male
+936994,2024-05-08,CUST529,NA,KES,,Amazon,Groceries,Cairo,PC,Visa,Pending,1,,Female
+561362,2024-05-06,,2224.61,,Credit Card,eBay,Gadgets,London,Mobile,Visa,Pending,,,Other
+155807,2024-02-13,CUST488,,USD,Wire Transfer,Amazon,Gadgets,,Tablet,,In Progress,Yes,,Female
+298096,2024-05-21,CUST718,,UGX,Credit Card,Shopify,XYZ,Nairobi,ATM,MasterCard,,Maybe,,
+255840,2024-02-19,,NA,UGX,Cash,eBay,,Unknown,Mobile,Discover,In Progress,N,32,Female
+157217,2024-06-17,,2048.97,UGX,Credit Card,Amazon,Clothing,Kampala,,Visa,Success,Maybe,NA,
+341026,2024-05-24,,,UGX,CryptoPay,,Electronics,Kampala,Tablet,Visa,Failed,0,,Male
+292037,2024-06-21,,,KES,,Amazon,Electronics,London,Tablet,MasterCard,,No,NA,Other
+137604,2024-06-23,,,EUR,Debit Card,eBay,Groceries,Kampala,,Visa,In Progress,,NA,X
+593090,2024-06-03,CUST755,,KES,Cash,Shopify,Clothing,Kampala,Mobile,BitcoinCard,In Progress,N,,
+372864,2024-05-24,,NA,1234,Credit Card,AliExpress,XYZ,,Desktop,MasterCard,,,NA,Female
+271499,2024-02-14,,743.04,KES,BitCoin,Jumia,Clothing,New York,Mobile,Amex,Success,Maybe,NA,
+840255,2024-01-17,CUST249,1171.04,EUR,Cash,Shopify,Gadgets,Nairobi,Mobile,Discover,Failed,No,,
+589824,2024-05-30,CUST380,,,,,XYZ,,POS,Discover,In Progress,Yes,,Female
+557629,2024-02-02,,2903.65,1234,BitCoin,eBay,Groceries,Kampala,Mobile,BitcoinCard,Failed,0,,
+221660,2024-01-17,,NA,EUR,CryptoPay,Shopify,Electronics,,Mobile,Visa,,N,NA,Male
+618951,2024-02-02,CUST207,,1234,BitCoin,AliExpress,Groceries,Nairobi,ATM,Visa,Success,No,59,Female
+142773,2024-03-07,,4876.66,KES,Debit Card,Amazon,Gadgets,London,Mobile,Discover,Failed,Y,,Other
+562966,2024-05-25,,,UGX,Debit Card,,XYZ,,ATM,MasterCard,Success,Maybe,,X
+473838,2024-02-28,,2706.8,KES,Credit Card,AliExpress,Electronics,New York,PC,,Pending,,,X
+843470,,,,USD,Credit Card,eBay,Groceries,London,Tablet,Discover,Failed,Maybe,,
+688098,2024-03-11,,,1234,Wire Transfer,eBay,Electronics,London,ATM,Visa,In Progress,Maybe,68,X
+608768,2024-02-19,,574.78,,Debit Card,,Electronics,New York,POS,Amex,,1,,Female
+579995,2024-06-22,,,USD,Credit Card,Jumia,Groceries,Cairo,Mobile,,In Progress,Maybe,NA,Female
+616935,2024-01-06,CUST722,,1234,Cash,Amazon,Clothing,Kampala,Tablet,MasterCard,,,,Other
+217955,2024-06-26,CUST149,,KES,Credit Card,AliExpress,Groceries,Kampala,Desktop,Visa,Success,,42,Female
+986925,2024-06-22,,NA,,Credit Card,Amazon,Gadgets,New York,POS,MasterCard,Failed,Maybe,27,X
+854727,2024-05-16,,,UGX,Cash,eBay,Clothing,Cairo,POS,MasterCard,,Maybe,,Male
+255245,2024-06-06,,,USD,Cash,Jumia,Electronics,Kampala,PC,Amex,Pending,Y,,Male
+229660,2024-03-05,,,EUR,Cash,Jumia,XYZ,,Desktop,Amex,Failed,Yes,,Other
+466586,2024-06-23,,,1234,,eBay,XYZ,Kampala,Mobile,Amex,In Progress,1,NA,X
+198123,2024-05-23,,NA,,BitCoin,Jumia,XYZ,Kampala,Tablet,Visa,In Progress,0,,Other
+313630,2024-04-26,,,UGX,Cash,Shopify,Electronics,,Desktop,Discover,In Progress,,,
+397917,2024-01-01,,4652.24,UGX,Debit Card,eBay,Gadgets,London,Desktop,BitcoinCard,Failed,Y,NA,Male
+289430,2024-04-19,,NA,UGX,,,Clothing,,,BitcoinCard,Failed,,,Other
+975512,2024-06-13,,,UGX,BitCoin,Amazon,Electronics,Nairobi,,MasterCard,Failed,No,NA,Other
+276470,2024-06-21,,,KES,,Shopify,Electronics,London,,Discover,Success,1,,
+886365,2024-06-15,CUST229,,1234,CryptoPay,Shopify,Electronics,,PC,BitcoinCard,Success,,,Female
+,2024-01-14,,NA,KES,Credit Card,eBay,XYZ,Nairobi,Mobile,Visa,Failed,Y,NA,Male
+962529,2024-03-23,,1911.64,USD,Wire Transfer,Jumia,Clothing,,,Discover,Pending,1,,Other
+386042,2024-04-20,,NA,EUR,Cash,AliExpress,Gadgets,Kampala,PC,,,,NA,
+690607,2024-04-14,,,,Cash,Amazon,,Cairo,Mobile,Discover,Success,N,NA,
+795350,2024-03-11,CUST824,2699.45,,Wire Transfer,eBay,XYZ,Kampala,ATM,Discover,In Progress,Yes,NA,Female
+714127,2024-02-01,,4239.5,EUR,Debit Card,eBay,,Unknown,Desktop,BitcoinCard,Failed,No,NA,X
+322713,2024-06-23,,,,Wire Transfer,,Groceries,New York,,,Failed,Maybe,NA,
+711893,2024-05-12,CUST568,NA,UGX,CryptoPay,eBay,Groceries,Unknown,,MasterCard,Success,,NA,X
+104326,2024-04-29,,,,BitCoin,Jumia,Electronics,Kampala,Desktop,BitcoinCard,Success,1,,Female
+651567,2024-05-06,,,KES,Wire Transfer,,XYZ,Kampala,Desktop,MasterCard,Pending,Y,54,Other
+904098,2024-04-02,,,KES,BitCoin,,,Unknown,,BitcoinCard,In Progress,1,NA,Other
+698514,2024-05-12,,,USD,CryptoPay,Shopify,Gadgets,London,PC,Amex,,Y,NA,Male
+289340,2024-01-12,,3743.46,UGX,CryptoPay,Amazon,Electronics,,PC,Amex,In Progress,N,NA,Male
+536646,2024-02-27,CUST933,,,Credit Card,Shopify,XYZ,New York,,,,Maybe,,
+180567,2024-01-13,,,1234,Cash,Amazon,XYZ,New York,POS,Visa,In Progress,N,,Other
+358114,2024-03-12,CUST978,,KES,Cash,eBay,Clothing,Cairo,Desktop,Visa,In Progress,,46,Female
+905572,2024-04-17,,2806.68,,CryptoPay,AliExpress,,Kampala,ATM,MasterCard,In Progress,Y,64,
+622307,2024-05-16,,,KES,,AliExpress,Electronics,New York,Mobile,Amex,In Progress,Maybe,,X
+809790,2024-04-24,CUST965,,,,Jumia,Gadgets,Nairobi,,BitcoinCard,,N,,Male
+198886,2024-03-21,CUST749,NA,EUR,BitCoin,AliExpress,XYZ,Cairo,POS,Visa,Pending,N,41,Female
+444622,2024-01-02,,NA,KES,Debit Card,eBay,Gadgets,London,Tablet,BitcoinCard,Failed,No,,X
+127223,2024-04-10,CUST345,NA,,Debit Card,eBay,Electronics,,POS,Discover,Pending,Y,,Female
+398090,2024-02-19,,,USD,Debit Card,AliExpress,Electronics,Cairo,PC,MasterCard,In Progress,No,,
+814407,2024-03-26,CUST158,NA,USD,BitCoin,Jumia,Gadgets,Unknown,,Amex,Pending,Maybe,,
+813702,2024-01-21,,,KES,Debit Card,Amazon,Gadgets,,PC,Amex,Failed,,33,Female
+227916,2024-05-26,,1714.44,EUR,,Amazon,Gadgets,Cairo,PC,MasterCard,Failed,Yes,,
+513316,2024-01-07,CUST927,,EUR,Debit Card,,Gadgets,London,Desktop,Discover,In Progress,,,Male
+491704,2024-02-27,,NA,USD,Debit Card,Amazon,Clothing,London,ATM,,,Y,31,Female
+719014,2024-06-25,,NA,,CryptoPay,Shopify,Electronics,Unknown,POS,BitcoinCard,Success,N,NA,X
+211222,2024-04-18,,,UGX,Credit Card,AliExpress,,Cairo,Desktop,,Success,Y,,X
+977634,2024-01-20,,87.41,EUR,CryptoPay,AliExpress,Electronics,London,Mobile,BitcoinCard,Failed,Maybe,,
+,2024-03-04,,,EUR,Credit Card,Amazon,XYZ,Cairo,ATM,MasterCard,Success,Maybe,NA,
+261245,2024-02-20,,NA,1234,CryptoPay,AliExpress,Electronics,Unknown,Desktop,Discover,Pending,Yes,NA,
+130277,2024-02-12,,,KES,Cash,,Groceries,London,POS,Visa,Pending,Maybe,NA,Male
+185000,2024-03-25,,NA,,Wire Transfer,eBay,XYZ,Nairobi,,MasterCard,Failed,N,NA,Other
+582589,2024-03-20,,NA,KES,BitCoin,,,,ATM,MasterCard,,Y,,Female
+971051,2024-01-17,,,UGX,Credit Card,Jumia,XYZ,London,Desktop,,Success,Y,47,Other
+842084,2024-06-09,,,EUR,Debit Card,Jumia,Gadgets,London,PC,Amex,In Progress,No,69,Female
+791577,2024-06-09,,NA,KES,Debit Card,Amazon,Clothing,Unknown,POS,BitcoinCard,In Progress,Yes,,X
+603164,2024-01-25,CUST453,3562.8,,Wire Transfer,eBay,Groceries,,Tablet,,Pending,No,NA,Male
+576111,2024-01-08,,,UGX,Debit Card,Amazon,Electronics,Unknown,Tablet,Visa,Success,Yes,NA,
+758879,2024-05-02,,2961.48,UGX,CryptoPay,,XYZ,Cairo,Desktop,Visa,,Y,36,Other
+382400,2024-04-20,,4970.73,UGX,CryptoPay,eBay,Groceries,,ATM,Visa,Success,N,41,Other
+723068,2024-01-07,,,1234,Wire Transfer,Amazon,Clothing,Nairobi,POS,,Pending,Y,,Male
+789969,2024-05-31,CUST559,,USD,Wire Transfer,Shopify,Clothing,London,ATM,Amex,Failed,Yes,,
+106087,2024-06-09,,,1234,CryptoPay,Amazon,XYZ,Cairo,POS,Discover,Failed,Yes,64,Male
+445429,2024-03-26,CUST330,,1234,Cash,AliExpress,Gadgets,Kampala,Tablet,,In Progress,,,Male
+145976,2024-03-05,,NA,1234,CryptoPay,Amazon,Electronics,London,Tablet,,Success,Maybe,,Male
+788047,2024-03-04,CUST959,3621.3,1234,BitCoin,Shopify,XYZ,,Desktop,Visa,Success,,44,X
+752596,2024-01-28,,769.76,UGX,BitCoin,AliExpress,Electronics,Cairo,POS,BitcoinCard,Failed,,NA,
+575111,2024-05-01,,,,BitCoin,Amazon,,Kampala,PC,Visa,In Progress,,34,Other
+440698,2024-03-02,,,,BitCoin,eBay,Gadgets,,Mobile,BitcoinCard,Failed,,,Female
+867080,2024-03-28,,,,Wire Transfer,,,New York,,Amex,In Progress,,NA,Other
+869989,2024-01-14,,,KES,,Amazon,XYZ,Kampala,ATM,BitcoinCard,Pending,Yes,,X
+935750,2024-03-26,CUST795,4724.39,EUR,Debit Card,AliExpress,Gadgets,New York,Tablet,BitcoinCard,Success,Yes,,Other
+696805,,,,KES,Wire Transfer,AliExpress,Clothing,London,,,Success,Maybe,NA,
+235602,2024-03-01,CUST971,,KES,Cash,Amazon,XYZ,,POS,Visa,Pending,Maybe,39,Other
+321634,2024-01-19,,,KES,Wire Transfer,Amazon,XYZ,,ATM,Amex,Failed,,NA,Male
+151047,2024-06-02,,NA,UGX,CryptoPay,,Electronics,Nairobi,Mobile,Amex,,,38,Other
+940494,2024-06-07,CUST371,4768.03,KES,Debit Card,Shopify,Groceries,New York,Mobile,BitcoinCard,Pending,No,,Male
+774909,2024-04-22,,NA,EUR,BitCoin,AliExpress,Groceries,London,ATM,MasterCard,In Progress,Yes,,Male
+396698,2024-01-25,,,EUR,CryptoPay,,Electronics,Cairo,POS,Visa,Failed,Maybe,,Female
+438869,2024-06-09,CUST503,,KES,,Shopify,,Cairo,Desktop,,Success,No,,X
+936917,2024-04-24,,,UGX,Credit Card,Jumia,Groceries,Cairo,,Discover,In Progress,1,NA,X
+158232,2024-05-28,CUST627,,USD,CryptoPay,,Gadgets,Nairobi,Tablet,Amex,Failed,N,,Male
+879930,2024-02-01,,,,,AliExpress,Gadgets,Nairobi,,BitcoinCard,Success,0,NA,Female
+174159,2024-01-22,,NA,UGX,Cash,Shopify,,New York,Desktop,MasterCard,,,46,
+673734,2024-01-16,,,KES,CryptoPay,Shopify,Clothing,Nairobi,POS,Discover,,No,NA,Female
+731548,2024-01-09,,4944.14,1234,Credit Card,,Groceries,Cairo,Desktop,BitcoinCard,,1,NA,Male
+499917,2024-04-06,,,EUR,,eBay,XYZ,Kampala,PC,,Success,Yes,23,Other
+197046,2024-03-21,,NA,1234,Debit Card,,Groceries,,,BitcoinCard,Failed,N,21,Female
+518233,2024-06-26,CUST209,NA,USD,Debit Card,Shopify,XYZ,New York,POS,BitcoinCard,In Progress,Maybe,,
+367558,2024-01-17,,146.48,KES,Credit Card,AliExpress,,Kampala,Mobile,,,1,50,
+286657,2024-02-02,,NA,,Debit Card,Jumia,,Cairo,,Discover,Success,0,,Female
+351742,2024-01-16,CUST463,43.26,1234,CryptoPay,Jumia,Clothing,,Desktop,BitcoinCard,In Progress,N,,
+908323,2024-04-23,,,KES,Credit Card,,Groceries,Unknown,Desktop,BitcoinCard,Success,No,69,Female
+518295,,CUST603,,KES,,Shopify,XYZ,,,Discover,Failed,Maybe,60,X
+193520,2024-03-18,,NA,KES,,Shopify,XYZ,Kampala,Mobile,,,Yes,47,Male
+121508,2024-06-05,CUST626,,EUR,Debit Card,eBay,Groceries,Cairo,Desktop,Amex,Success,,,Other
+993749,2024-06-09,CUST520,4590.8,1234,Debit Card,Shopify,Gadgets,,Desktop,BitcoinCard,Failed,1,36,Other
+318337,2024-04-20,CUST599,,USD,Cash,AliExpress,Clothing,London,,,Failed,,NA,Other
+270855,2024-01-17,,2471.35,,Wire Transfer,Jumia,,,Mobile,BitcoinCard,Success,Maybe,NA,
+507374,2024-01-27,CUST356,,EUR,Credit Card,eBay,Gadgets,,,BitcoinCard,Failed,Y,40,Male
+917357,2024-06-22,,3660.85,EUR,BitCoin,eBay,Groceries,Unknown,Mobile,,Failed,N,,X
+521943,2024-01-15,,4842.51,,Cash,Jumia,Gadgets,Kampala,,,Success,0,,X
+398776,2024-05-23,,NA,,Cash,,Groceries,Unknown,ATM,,,1,,Female
+778604,2024-01-14,,,,,,Groceries,,Desktop,,,,65,X
+889114,2024-03-16,,,USD,Wire Transfer,eBay,Clothing,Nairobi,Desktop,Discover,,0,49,Other
+785836,2024-04-07,,1387.78,,Debit Card,Shopify,XYZ,Cairo,Tablet,Visa,Failed,No,NA,Female
+261621,2024-04-12,,,,CryptoPay,Jumia,Gadgets,Kampala,Mobile,BitcoinCard,Success,Yes,,Male
+226460,2024-01-25,CUST265,4462.44,1234,,eBay,XYZ,Kampala,POS,Amex,Success,Yes,,X
+413048,2024-06-07,,,KES,,Jumia,,New York,Mobile,MasterCard,In Progress,N,NA,
+614688,2024-04-15,CUST544,960.09,USD,BitCoin,,Gadgets,Kampala,,BitcoinCard,Success,Yes,,X
+940014,2024-02-29,,4746.42,UGX,Cash,Amazon,Groceries,Cairo,Desktop,Amex,Success,,NA,Male
+553360,2024-06-02,CUST303,,,Cash,Shopify,Gadgets,Nairobi,,BitcoinCard,Success,,,
+871635,2024-06-17,,NA,EUR,Debit Card,Jumia,Electronics,Cairo,Mobile,Discover,,Y,NA,
+945522,2024-06-08,CUST141,,EUR,Cash,eBay,,Cairo,PC,,,Yes,27,
+425164,2024-01-03,,,,BitCoin,Amazon,Groceries,Cairo,,BitcoinCard,Success,0,NA,Other
+818234,2024-04-26,,,1234,Wire Transfer,Shopify,Clothing,,Mobile,MasterCard,Failed,1,,X
+732829,2024-04-08,CUST132,NA,KES,BitCoin,Shopify,Groceries,Cairo,ATM,MasterCard,Failed,0,,Male
+237664,2024-04-28,CUST782,3177.52,1234,Cash,,Groceries,Nairobi,Mobile,Amex,Success,,,X
+476485,,,NA,USD,Credit Card,AliExpress,XYZ,Kampala,Tablet,BitcoinCard,Success,,NA,Female
+797848,2024-06-07,CUST372,25.96,UGX,CryptoPay,eBay,Gadgets,Cairo,Desktop,Visa,In Progress,No,65,Female
+200780,2024-06-07,,NA,USD,Wire Transfer,Shopify,Gadgets,Kampala,ATM,Amex,Success,0,NA,X
+972470,2024-01-26,,3552.85,1234,CryptoPay,eBay,,Cairo,Desktop,Visa,,Yes,,X
+485306,2024-03-27,,,,,,XYZ,New York,Desktop,BitcoinCard,Failed,Yes,,Other
+637555,2024-06-15,CUST831,NA,1234,BitCoin,Jumia,Clothing,Kampala,,Amex,Pending,,46,X
+309580,2024-06-21,,,KES,Wire Transfer,eBay,Electronics,Kampala,,BitcoinCard,In Progress,,,X
+613406,2024-01-07,,NA,,Wire Transfer,Shopify,Groceries,Unknown,PC,BitcoinCard,,,,
+567080,2024-04-26,,NA,,Debit Card,Shopify,,New York,Mobile,MasterCard,Failed,,,Other
+506941,2024-05-12,CUST234,,EUR,Wire Transfer,Shopify,XYZ,Nairobi,PC,MasterCard,Failed,1,47,Other
+599583,2024-03-25,CUST210,,EUR,Wire Transfer,Shopify,Clothing,Nairobi,Tablet,MasterCard,In Progress,No,NA,Other
+381521,2024-05-30,CUST229,,KES,,,,New York,Tablet,Visa,Failed,No,,Male
+690408,2024-02-19,,NA,UGX,,Shopify,Groceries,Nairobi,ATM,MasterCard,Success,Yes,,Female
+729502,2024-01-28,,,1234,Cash,Shopify,,Cairo,ATM,MasterCard,Pending,,,Other
+543621,2024-01-27,CUST342,,EUR,,Shopify,XYZ,Cairo,,Amex,In Progress,0,,X
+194604,2024-01-04,,,EUR,BitCoin,Shopify,XYZ,Unknown,POS,MasterCard,Failed,1,,
+893237,2024-06-01,,,KES,Cash,Jumia,Clothing,,,Discover,,No,,Female
+543061,2024-01-18,CUST855,4782.01,1234,CryptoPay,Jumia,,Cairo,Tablet,Discover,,No,NA,
+950389,2024-05-31,,,EUR,Credit Card,Jumia,Clothing,New York,ATM,BitcoinCard,Pending,N,,Male
+486123,2024-02-19,,,UGX,CryptoPay,,Clothing,London,,BitcoinCard,Failed,1,NA,
+743687,2024-05-26,CUST597,,EUR,,Shopify,XYZ,Nairobi,Desktop,Visa,In Progress,Yes,,Other
+295408,2024-02-02,,NA,UGX,Wire Transfer,eBay,Gadgets,Nairobi,PC,Discover,Success,,NA,Female
+555193,2024-06-12,,,USD,,,Electronics,,,BitcoinCard,Failed,Maybe,NA,Male
+761322,2024-05-10,,,USD,BitCoin,AliExpress,Gadgets,London,Desktop,,,0,,
+546711,2024-03-06,CUST623,,EUR,Wire Transfer,eBay,Electronics,London,Desktop,Visa,Pending,No,,X
+197462,2024-03-31,,,,Credit Card,eBay,,Cairo,ATM,BitcoinCard,In Progress,,NA,X
+142402,2024-04-17,CUST885,,KES,,eBay,,New York,Tablet,Discover,Success,1,,Male
+638277,2024-05-03,,,KES,Wire Transfer,,Electronics,,Desktop,MasterCard,Failed,,NA,Male
+458345,2024-06-07,CUST817,,EUR,Cash,eBay,,,PC,Discover,Pending,Yes,,
+586041,2024-04-23,,NA,1234,CryptoPay,AliExpress,Electronics,Cairo,,,Failed,Maybe,,Other
+809298,2024-02-17,,1705.81,,Credit Card,eBay,,New York,PC,Visa,Success,,40,Male
+335122,2024-03-03,CUST823,,KES,BitCoin,,Electronics,Nairobi,,Discover,Success,0,NA,Female
+779068,2024-02-05,,NA,EUR,Debit Card,,Groceries,Nairobi,Desktop,Discover,Pending,Maybe,,Other
+819571,2024-01-12,,2684.71,EUR,Credit Card,AliExpress,,Kampala,ATM,Visa,Success,N,NA,Female
+848301,2024-01-16,CUST285,,KES,Debit Card,Jumia,XYZ,Nairobi,ATM,,In Progress,,,X
+262602,2024-02-02,,654.78,,Cash,Shopify,Clothing,London,Tablet,Discover,,,25,X
+619383,2024-03-20,,4751.89,1234,,AliExpress,XYZ,Kampala,ATM,MasterCard,In Progress,Maybe,,X
+652891,2024-05-29,CUST252,4014.04,USD,Credit Card,Shopify,Clothing,New York,Mobile,,Failed,N,31,Male
+760141,2024-04-21,CUST223,,,Credit Card,Jumia,XYZ,New York,Tablet,MasterCard,Pending,1,,X
+778665,2024-05-11,CUST510,4562.02,UGX,BitCoin,,XYZ,Kampala,Mobile,Amex,Success,Maybe,,
+650164,2024-06-15,CUST380,NA,EUR,CryptoPay,Jumia,Groceries,Unknown,ATM,BitcoinCard,In Progress,Y,,Female
+188049,2024-04-01,,NA,EUR,Wire Transfer,eBay,Gadgets,Unknown,ATM,,Pending,,,X
+404824,2024-03-20,,,KES,Debit Card,Shopify,Electronics,London,Desktop,MasterCard,Failed,Maybe,NA,
+590963,2024-05-29,CUST304,NA,1234,,eBay,Groceries,Nairobi,Mobile,BitcoinCard,Failed,,,
+558600,2024-05-18,CUST985,NA,USD,Wire Transfer,Shopify,XYZ,New York,PC,BitcoinCard,In Progress,Y,,Other
+183029,2024-02-07,,,USD,Wire Transfer,Amazon,Groceries,New York,PC,MasterCard,Pending,,NA,X
+940480,2024-02-07,,NA,1234,Cash,AliExpress,,London,Mobile,Amex,,,,Female
+600811,2024-04-30,,4700.67,USD,Cash,,Gadgets,Kampala,,,Failed,Yes,42,Female
+414985,2024-03-20,CUST336,4228.95,1234,BitCoin,Shopify,,Unknown,ATM,,Success,Maybe,,Female
+255825,2024-06-03,,,1234,Credit Card,Jumia,XYZ,London,POS,BitcoinCard,In Progress,N,57,
+233997,2024-03-28,CUST590,,KES,,AliExpress,Gadgets,Nairobi,Tablet,Amex,Failed,Maybe,,Other
+817555,2024-03-15,,NA,,BitCoin,Shopify,Clothing,New York,Desktop,,Pending,,NA,
+415001,2024-04-04,CUST759,NA,KES,Debit Card,Amazon,,Cairo,ATM,MasterCard,Pending,Maybe,31,
+982416,2024-01-03,CUST411,178.55,KES,Cash,eBay,Groceries,Cairo,Mobile,BitcoinCard,,Maybe,32,Male
+360732,2024-05-12,,,USD,,eBay,XYZ,Nairobi,Tablet,MasterCard,Success,Maybe,,Other
+648501,2024-05-30,,NA,KES,BitCoin,Jumia,Gadgets,,Desktop,,Success,No,NA,Male
+548509,2024-06-17,,,UGX,Debit Card,AliExpress,XYZ,London,Tablet,BitcoinCard,Failed,,NA,Female
+409834,2024-06-22,,4311.3,1234,Debit Card,eBay,Electronics,Cairo,Tablet,Visa,In Progress,Maybe,22,Male
+696152,2024-02-07,CUST148,,,,,Clothing,Nairobi,Desktop,Amex,In Progress,,NA,X
+150046,2024-01-15,CUST141,NA,USD,CryptoPay,Shopify,XYZ,London,ATM,Visa,Pending,No,NA,Male
+677759,2024-03-01,,,1234,Debit Card,AliExpress,XYZ,Nairobi,PC,Amex,Failed,0,68,X
+180250,2024-05-09,,,,,Shopify,Gadgets,Nairobi,Mobile,Discover,In Progress,Yes,,Male
+147285,,,,1234,Credit Card,eBay,Clothing,Nairobi,ATM,,,0,50,Other
+638354,2024-01-14,,2566.65,,Debit Card,Shopify,XYZ,New York,PC,Visa,Success,,,Female
+212860,2024-04-18,CUST721,,1234,CryptoPay,Amazon,Clothing,,PC,MasterCard,Success,Y,NA,X
+635456,2024-03-29,CUST541,,USD,CryptoPay,,XYZ,London,POS,,Failed,0,,
+545554,2024-02-20,,,KES,Wire Transfer,eBay,Electronics,London,Mobile,BitcoinCard,,,,Male
+533082,2024-02-21,,,KES,BitCoin,Shopify,,New York,POS,BitcoinCard,Success,No,,Female
+199074,2024-06-12,CUST411,,1234,BitCoin,AliExpress,Electronics,Cairo,ATM,Discover,Failed,,18,X
+587227,2024-02-21,,,USD,,,Gadgets,,Tablet,Amex,Pending,,66,Female
+792956,2024-01-18,,NA,UGX,Debit Card,eBay,Clothing,Cairo,,Visa,Failed,Yes,,
+855299,2024-03-28,CUST665,,KES,BitCoin,Jumia,Electronics,Cairo,,BitcoinCard,,N,34,Female
+696092,2024-02-18,,,1234,,,XYZ,,Desktop,MasterCard,Pending,Y,,Other
+952308,2024-06-19,,3815.87,USD,BitCoin,,Groceries,London,ATM,Discover,In Progress,Yes,NA,Other
+365688,2024-05-01,,2266.83,UGX,BitCoin,AliExpress,Clothing,New York,Desktop,BitcoinCard,Pending,No,61,Female
+472724,2024-06-26,,NA,KES,Credit Card,eBay,Gadgets,Unknown,,Amex,In Progress,Y,,Male
+367240,2024-06-26,CUST480,,1234,,,Groceries,,PC,BitcoinCard,Pending,,,Other
+714012,2024-04-29,,,,BitCoin,Shopify,Clothing,London,Tablet,,,0,,Male
+185741,2024-06-02,,1668.85,1234,Wire Transfer,AliExpress,,Unknown,PC,MasterCard,Pending,,,Female
+905984,2024-06-26,CUST493,NA,1234,BitCoin,eBay,XYZ,Unknown,ATM,Discover,Failed,Maybe,,Female
+627899,2024-03-25,CUST208,,KES,Debit Card,eBay,Electronics,London,ATM,,Failed,Maybe,,Male
+117058,2024-05-28,,2971.11,KES,CryptoPay,Shopify,Clothing,London,Tablet,Amex,Success,Y,,X
+219470,2024-05-24,CUST716,,USD,BitCoin,Jumia,Electronics,New York,Desktop,Visa,Pending,,,Male
+876487,2024-03-26,,NA,USD,Debit Card,Shopify,Electronics,Kampala,ATM,BitcoinCard,Success,Yes,,Other
+793715,2024-06-06,CUST770,,EUR,Wire Transfer,eBay,Electronics,,Desktop,Discover,Failed,1,67,
+585363,2024-03-17,,,UGX,Debit Card,,Groceries,Cairo,ATM,BitcoinCard,Success,No,,
+288274,2024-04-17,CUST556,NA,,Credit Card,eBay,Electronics,Nairobi,Desktop,Discover,Failed,Maybe,NA,Female
+924366,2024-03-25,,,USD,CryptoPay,Shopify,Clothing,Unknown,Mobile,Amex,,Yes,,Male
+291059,2024-02-11,,,1234,Debit Card,Jumia,Clothing,Unknown,PC,Discover,Success,0,NA,
+983855,2024-01-27,,,EUR,CryptoPay,AliExpress,XYZ,Cairo,Desktop,,,Y,NA,Other
+512045,2024-04-26,CUST585,,UGX,CryptoPay,AliExpress,Electronics,Unknown,,Visa,Success,No,,Male
+147457,2024-01-11,,NA,KES,,AliExpress,Electronics,Unknown,,MasterCard,Pending,,NA,Male
+187336,2024-05-06,CUST257,,1234,BitCoin,,Groceries,Unknown,ATM,Visa,In Progress,0,29,Male
+536471,2024-02-26,CUST230,2577.01,UGX,Debit Card,,Gadgets,Nairobi,Desktop,BitcoinCard,Failed,0,NA,
+838594,2024-01-01,,,EUR,,Amazon,Electronics,Kampala,POS,Discover,,Maybe,,X
+412106,2024-06-12,,,EUR,,,Gadgets,Kampala,POS,Discover,Failed,0,62,Other
+429196,2024-02-27,,645.14,KES,CryptoPay,Amazon,Groceries,,,Visa,In Progress,No,,Male
+715732,2024-06-26,,818.84,EUR,Debit Card,Amazon,XYZ,Kampala,Desktop,,,,,X
+859268,2024-02-28,,,UGX,BitCoin,Amazon,Gadgets,New York,Mobile,,Pending,,NA,Female
+577100,2024-04-29,CUST834,4350.05,USD,BitCoin,Amazon,Electronics,London,Tablet,MasterCard,Success,,68,Female
+894143,2024-06-08,CUST546,,UGX,Cash,Amazon,XYZ,Cairo,,MasterCard,Failed,1,,Other
+802818,2024-02-24,,,1234,,Amazon,,Nairobi,Tablet,BitcoinCard,In Progress,No,50,Other
+571804,2024-03-02,,,1234,Debit Card,Jumia,Groceries,Cairo,POS,Amex,In Progress,Y,,Female
+754112,2024-05-03,CUST909,,USD,Wire Transfer,Amazon,Groceries,Kampala,Tablet,BitcoinCard,Success,,,X
+947075,2024-03-25,,,KES,Credit Card,Jumia,Gadgets,New York,,Amex,,1,,Male
+377950,2024-04-06,,,1234,Cash,Jumia,Groceries,New York,Mobile,Visa,Success,,,Male
+457915,2024-02-22,,,KES,Wire Transfer,eBay,Clothing,Nairobi,Tablet,Amex,,Y,54,X
+949352,2024-04-12,,NA,EUR,Cash,,Groceries,New York,PC,MasterCard,,No,NA,
+296284,2024-02-17,,NA,UGX,BitCoin,eBay,Gadgets,Kampala,,Amex,In Progress,No,NA,X
+321321,2024-01-02,,,UGX,Cash,eBay,,Kampala,POS,Discover,Success,Maybe,25,Other
+294078,2024-04-02,,,UGX,Cash,Jumia,,Cairo,PC,BitcoinCard,,Maybe,NA,Male
+182020,2024-01-03,,NA,1234,Cash,Amazon,Gadgets,London,Tablet,MasterCard,Failed,Y,,Female
+883317,2024-01-19,,NA,KES,Wire Transfer,Jumia,XYZ,Kampala,,MasterCard,Failed,1,44,Female
+733395,2024-04-01,CUST176,,UGX,Debit Card,AliExpress,,Cairo,ATM,BitcoinCard,Failed,No,NA,Other
+371914,2024-01-08,,,KES,CryptoPay,Jumia,,,Mobile,Amex,Pending,,63,X
+806120,2024-05-22,,,1234,Wire Transfer,AliExpress,Electronics,,Mobile,BitcoinCard,In Progress,Y,21,
+211495,2024-01-30,,344.57,UGX,Credit Card,Shopify,XYZ,Kampala,POS,Amex,Success,,NA,Male
+564053,2024-04-18,CUST441,,KES,Credit Card,Shopify,Groceries,New York,POS,Discover,Pending,,NA,Other
+417201,2024-01-21,,NA,,,eBay,,London,Mobile,MasterCard,Failed,Y,57,Female
+917241,2024-04-16,,NA,,CryptoPay,,XYZ,Kampala,ATM,Visa,,Y,,Other
+281905,2024-04-09,,,1234,Cash,,Gadgets,Unknown,PC,,Success,0,,X
+898557,2024-04-02,,,EUR,Credit Card,Jumia,,,PC,,Pending,,70,Female
+188049,2024-04-01,,NA,EUR,Wire Transfer,eBay,Gadgets,Unknown,ATM,,Pending,,,X
+650775,2024-06-11,,2474.15,1234,Credit Card,Jumia,XYZ,London,ATM,Amex,Pending,N,,Other
+949192,2024-04-15,,NA,,Credit Card,Shopify,Electronics,New York,Tablet,,,,,Male
+900771,2024-02-20,,,KES,Wire Transfer,eBay,Electronics,,Tablet,Discover,,Y,,X
+428574,2024-02-08,,NA,,Debit Card,Jumia,Electronics,Kampala,Tablet,MasterCard,Pending,,42,X
+419723,2024-05-23,CUST986,4427.17,1234,Credit Card,Jumia,Gadgets,Kampala,POS,,In Progress,,,X
+434132,2024-05-13,,563.55,1234,Debit Card,,Clothing,,Tablet,Visa,Success,Y,,Male
+785836,2024-04-07,,1387.78,,Debit Card,Shopify,XYZ,Cairo,Tablet,Visa,Failed,No,NA,Female
+894143,2024-06-08,CUST546,,UGX,Cash,Amazon,XYZ,Cairo,,MasterCard,Failed,1,,Other
+588659,2024-01-03,,,,Cash,Jumia,Groceries,London,PC,Visa,Success,Yes,NA,Female
+545334,2024-05-02,,NA,USD,Credit Card,AliExpress,Clothing,,Mobile,BitcoinCard,In Progress,Yes,,Other
+144283,2024-03-04,,,1234,Debit Card,Amazon,Groceries,Unknown,PC,BitcoinCard,In Progress,Maybe,NA,Female
+122097,2024-02-25,,4635.37,EUR,,Shopify,Gadgets,Nairobi,PC,Amex,Success,Y,,Other
+908323,2024-04-23,,,KES,Credit Card,,Groceries,Unknown,Desktop,BitcoinCard,Success,No,69,Female
+286657,2024-02-02,,NA,,Debit Card,Jumia,,Cairo,,Discover,Success,0,,Female
+429839,2024-01-16,CUST221,,,,,Clothing,Nairobi,,Amex,Failed,,NA,Male
+970645,2024-03-18,,3636.56,UGX,Credit Card,AliExpress,Gadgets,New York,POS,BitcoinCard,Pending,Maybe,45,
+977634,2024-01-20,,87.41,EUR,CryptoPay,AliExpress,Electronics,London,Mobile,BitcoinCard,Failed,Maybe,,
+993749,2024-06-09,CUST520,4590.8,1234,Debit Card,Shopify,Gadgets,,Desktop,BitcoinCard,Failed,1,36,Other
+351318,2024-03-20,CUST237,NA,UGX,Wire Transfer,Amazon,Electronics,Cairo,PC,,Success,,59,Other
+442838,2024-06-28,,4265.07,,Cash,Shopify,Clothing,London,PC,BitcoinCard,Pending,,61,
+645205,2024-05-25,,NA,USD,BitCoin,Jumia,Groceries,New York,ATM,BitcoinCard,Failed,Y,,Female
+999308,2024-06-19,CUST400,859.46,EUR,Cash,AliExpress,Groceries,Cairo,PC,MasterCard,Failed,1,,Male
+793715,2024-06-06,CUST770,,EUR,Wire Transfer,eBay,Electronics,,Desktop,Discover,Failed,1,67,
+528212,2024-04-14,,NA,,Cash,,Clothing,Kampala,PC,BitcoinCard,Pending,0,NA,Other
+943687,2024-06-19,CUST572,,USD,CryptoPay,eBay,Groceries,New York,Tablet,,Pending,0,NA,Male
+499917,2024-04-06,,,EUR,,eBay,XYZ,Kampala,PC,,Success,Yes,23,Other
+432591,2024-04-23,,,UGX,,Shopify,,,Desktop,,Success,Yes,NA,X
+744693,2024-04-03,,NA,,,Amazon,,Unknown,POS,BitcoinCard,,Y,,X
+760141,2024-04-21,CUST223,,,Credit Card,Jumia,XYZ,New York,Tablet,MasterCard,Pending,1,,X
+414985,2024-03-20,CUST336,4228.95,1234,BitCoin,Shopify,,Unknown,ATM,,Success,Maybe,,Female
+180385,2024-03-27,,4859.01,,Wire Transfer,Amazon,XYZ,New York,Mobile,Discover,Success,Y,54,X
+347399,2024-02-24,,,USD,Debit Card,,XYZ,London,PC,,In Progress,0,,Female
+561362,2024-05-06,,2224.61,,Credit Card,eBay,Gadgets,London,Mobile,Visa,Pending,,,Other
+396712,2024-03-05,,NA,,BitCoin,,Electronics,New York,PC,BitcoinCard,Success,N,NA,Female
+242703,2024-04-21,,NA,,Wire Transfer,eBay,,,Mobile,MasterCard,Pending,,,
+241147,2024-04-21,,NA,USD,Debit Card,Jumia,,Unknown,Desktop,BitcoinCard,In Progress,No,,X
+708684,2024-04-23,CUST265,,EUR,Debit Card,Shopify,,Cairo,PC,MasterCard,Pending,No,,Other
+994199,2024-04-23,CUST168,,KES,Debit Card,eBay,,Cairo,Mobile,,In Progress,Maybe,NA,Male
+660894,2024-04-27,,,KES,CryptoPay,Shopify,Clothing,Cairo,PC,Discover,Pending,Maybe,35,Male
+608069,2024-01-04,,NA,UGX,,Jumia,Electronics,Cairo,PC,Amex,In Progress,,,
+349641,2024-05-05,,156.15,KES,BitCoin,Jumia,Groceries,,Mobile,BitcoinCard,In Progress,Yes,,X
+442641,2024-06-29,,,EUR,Cash,Jumia,Clothing,London,Mobile,Amex,Failed,Y,,Female
+481969,2024-05-17,,475.34,KES,,AliExpress,Electronics,Nairobi,PC,,,N,26,
+258612,2024-06-12,CUST761,,1234,,AliExpress,,,POS,Discover,Pending,1,,Male
